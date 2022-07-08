@@ -153,7 +153,7 @@
       <dsig:DigestValue>o8JNTJNEwPurRJAuL2pmSqvvPj0fOLEAQS3N8/4CWYc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\bbclic_psil_plancherbas_facade_v0.4.csv" size="29344">
+  <file name="data\bbclic_psil_plancherbas_facade_v0.4.csv" size="29344" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -162,7 +162,7 @@
       <dsig:DigestValue>2XZ9a71yedGGrvN0AaYAAg5ybq9MPG4O4QC7MhW88qE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\bbclic_psil_plancherbas_refend_v0.1.csv" size="1912">
+  <file name="data\bbclic_psil_plancherbas_refend_v0.1.csv" size="1912" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -171,7 +171,7 @@
       <dsig:DigestValue>saYOGIHi2kFQo3/lSdN60w69x1INcB3AK4I1eyvI96c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\bbclic_sortie.xml" size="1362">
+  <file name="data\bbclic_sortie.xml" size="1362" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -180,7 +180,7 @@
       <dsig:DigestValue>KBbsWO9RE3gMADP753fxYAiukSJuunxddSRPPVehurw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\bbclic_sortie_carbone.xml" size="9681">
+  <file name="data\bbclic_sortie_carbone.xml" size="9681" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -189,7 +189,7 @@
       <dsig:DigestValue>Dc/fOB3LS8FBSa+VuUnaiOIm36ujFCc72oIZalOOBxg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\bbclic_sortie_RT.xml" size="4032">
+  <file name="data\bbclic_sortie_RT.xml" size="4032" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -216,7 +216,7 @@
       <dsig:DigestValue>Y0a93Zj6f5cli1+IdYrn+8gmM6fvj7UscD+GgQfMnA4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\bbclic_view.xml" size="1529">
+  <file name="data\bbclic_view.xml" size="1529" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -225,7 +225,7 @@
       <dsig:DigestValue>+Rzhu8cKxNuH2tFTPyEqJ5fSbwwQxxgDG8588Mf21mo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\conversion.xml" size="3273">
+  <file name="data\conversion.xml" size="3273" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -234,7 +234,7 @@
       <dsig:DigestValue>PYK0x8lOiM3WgzytTVV/1b2z6Mii+oBGmUf9MsTWWcY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\mapping_savefile_1.0.0.0.xml" size="2893">
+  <file name="data\mapping_savefile_1.0.0.0.xml" size="2893" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -243,7 +243,7 @@
       <dsig:DigestValue>XPZEPHNRdI8zmIa+UUd6/Dq1TYD5IWUTUqhp/MLe+zM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\mapping_savefile_1.0.2.0.xml" size="2857">
+  <file name="data\mapping_savefile_1.0.2.0.xml" size="2857" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -252,7 +252,7 @@
       <dsig:DigestValue>vk0uTTHtBc28BYuAwFLnJbNBGy5eWfwRg7P3z+THspw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\01\01.png" size="305062">
+  <file name="data\MI\01\01.png" size="305062" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -261,7 +261,7 @@
       <dsig:DigestValue>akSqJngMGSOy1Hgu8sx3qJ+6oTf1p1EY0Quvn91HOEU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\01\01-mini.png" size="110290">
+  <file name="data\MI\01\01-mini.png" size="110290" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -270,7 +270,7 @@
       <dsig:DigestValue>Hvh2d+KbPAdFRUsDa8PMuSzw1y5FfZhymu7CFpcUmHg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\01\02.png" size="101290">
+  <file name="data\MI\01\02.png" size="101290" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -279,7 +279,7 @@
       <dsig:DigestValue>//0cgsIxb5BjO94F65qY7KfdmQzDrYrhrkjCeOh7bCY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\01\03.png" size="113393">
+  <file name="data\MI\01\03.png" size="113393" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -288,7 +288,7 @@
       <dsig:DigestValue>scQHtZ2DaueJ00adVrNdVU2z4GrvH5rsN4P7BU7KSyI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\01\04.png" size="106501">
+  <file name="data\MI\01\04.png" size="106501" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -297,7 +297,7 @@
       <dsig:DigestValue>JsIP1T2V16epOjX1f2UGdYG1HAKRaVeJTQ9WqjGyPwg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\01\vue_a.png" size="139491">
+  <file name="data\MI\01\vue_a.png" size="139491" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -306,7 +306,7 @@
       <dsig:DigestValue>vO6NV7B0shjp5m3HMqxaTEFFOCgTbu7v+kVsBQLGJZ0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\01\vue_b.png" size="138387">
+  <file name="data\MI\01\vue_b.png" size="138387" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -315,7 +315,7 @@
       <dsig:DigestValue>hmFLws3VbXGDuz0f69Gjt/sAZj39ESNtWCp3x/D8pSA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\02\00.png" size="7182">
+  <file name="data\MI\02\00.png" size="7182" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -324,7 +324,7 @@
       <dsig:DigestValue>0esjKAtu/facYTM4tV/volDlD3H6Cy0NDgrFlCYyHsI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\02\01.png" size="34101">
+  <file name="data\MI\02\01.png" size="34101" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -333,7 +333,7 @@
       <dsig:DigestValue>0pHLBMGXnNvpzReR5WVRcmY1wOibuY9tgsIs/cr4kDU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\03\00.png" size="7182">
+  <file name="data\MI\03\00.png" size="7182" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -342,7 +342,7 @@
       <dsig:DigestValue>0esjKAtu/facYTM4tV/volDlD3H6Cy0NDgrFlCYyHsI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\03\01.png" size="37516">
+  <file name="data\MI\03\01.png" size="37516" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -351,7 +351,7 @@
       <dsig:DigestValue>SabJk0Xo/TvGlt5f+Gj0QLef5hkzXRpU0PVeAN3GNsM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\04\00.png" size="7182">
+  <file name="data\MI\04\00.png" size="7182" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -360,7 +360,7 @@
       <dsig:DigestValue>0esjKAtu/facYTM4tV/volDlD3H6Cy0NDgrFlCYyHsI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\MI\05\00.png" size="7182">
+  <file name="data\MI\05\00.png" size="7182" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -369,7 +369,7 @@
       <dsig:DigestValue>0esjKAtu/facYTM4tV/volDlD3H6Cy0NDgrFlCYyHsI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\reset_state.sav" size="3227">
+  <file name="data\reset_state.sav" size="3227" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -378,7 +378,7 @@
       <dsig:DigestValue>/mKpMWT2/tzgOI242z/6zaFQtuTSAJfZwZnXUCrRXOY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="data\settings.xml" size="48">
+  <file name="data\settings.xml" size="48" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -387,7 +387,7 @@
       <dsig:DigestValue>6pd29z7r5p/HAFbuOUIhqqhbyYmo06e8VxWSw3Fz0jk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\bbclic_style.css" size="3910">
+  <file name="help\bbclic_style.css" size="3910" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -396,7 +396,7 @@
       <dsig:DigestValue>sRkBH+MP/FjrNt88MQqXnhpsBUGC0ho4olFi0hKs4MY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_001.html" size="3453">
+  <file name="help\help_001.html" size="3453" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -405,7 +405,7 @@
       <dsig:DigestValue>csIlzXWuXdLK/hycQSEVnk8o9yM4NKJB9PJNIU+tDlQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_002.html" size="6048">
+  <file name="help\help_002.html" size="6048" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -414,7 +414,7 @@
       <dsig:DigestValue>PIc/pwVRPcHBMW/fTMOooJDrOaFdo/7Pvvjv9OLRi1o=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_003.html" size="2564">
+  <file name="help\help_003.html" size="2564" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -423,7 +423,7 @@
       <dsig:DigestValue>IubS85KkeFexEKF4/t3eR1cLJokQCdnEK6xNB/OTESk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_004.html" size="2632">
+  <file name="help\help_004.html" size="2632" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -432,7 +432,7 @@
       <dsig:DigestValue>ZeRxYm51/KsidxI13RpVz00gyaWeIKhPhYyV9dCdeOU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_005.html" size="2783">
+  <file name="help\help_005.html" size="2783" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -441,7 +441,7 @@
       <dsig:DigestValue>Kcnnzq41mSrNEXKObBOlpGLfNBe2erxWEkU3lL5XEiI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_006.html" size="2543">
+  <file name="help\help_006.html" size="2543" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -450,7 +450,7 @@
       <dsig:DigestValue>dNrROwAFT+o5ZI8UGTk4VjEeIxHUUcj/YQBKXKJ2ecE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_007.html" size="2616">
+  <file name="help\help_007.html" size="2616" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -459,7 +459,7 @@
       <dsig:DigestValue>xWtHYmm1BvcKb4q47Fn9iNLZxHwxnKEcGkEasbnoSIo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_008.html" size="2560">
+  <file name="help\help_008.html" size="2560" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -468,7 +468,7 @@
       <dsig:DigestValue>UgtQoK+4umoQPZe/oy1q8wFxHgkQP3KDBamTMM/Ww3I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_009.html" size="1780">
+  <file name="help\help_009.html" size="1780" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -477,7 +477,7 @@
       <dsig:DigestValue>37Zjk65fTgUvtxG9SfN1f/4yf0gloFD0Xza8/cFO4Pk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_010.html" size="2610">
+  <file name="help\help_010.html" size="2610" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -486,7 +486,7 @@
       <dsig:DigestValue>fE3JV1FuHPMW6xSSRftA8bjJV5FufPtLXGS1fUqjKdU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_011.html" size="2161">
+  <file name="help\help_011.html" size="2161" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -495,7 +495,7 @@
       <dsig:DigestValue>yFPIAJlJzrRBe3qFmXJgJi/gWjW+Mq/lI0w+ZNyECjI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_012.html" size="2435">
+  <file name="help\help_012.html" size="2435" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -504,7 +504,7 @@
       <dsig:DigestValue>mxhzge5ImzmNIh+V9TK2e32X4icy9m48q48vfPoZWAI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_013.html" size="2114">
+  <file name="help\help_013.html" size="2114" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -513,7 +513,7 @@
       <dsig:DigestValue>O/N0UgDdaKBIU0XCASGfsjLR8OdbRA5e9lznQ00yGC8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_014.html" size="2975">
+  <file name="help\help_014.html" size="2975" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -522,7 +522,7 @@
       <dsig:DigestValue>YysT8ekImvoNHrj1351kjVpNJJ0+zyHdrWwbwrHCJ98=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_015.html" size="1855">
+  <file name="help\help_015.html" size="1855" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -531,7 +531,7 @@
       <dsig:DigestValue>M5Irhdv2CAG7IC0I//qAyL8RNvJswzGM+aSNxQv7WsI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_016.html" size="2930">
+  <file name="help\help_016.html" size="2930" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -540,7 +540,7 @@
       <dsig:DigestValue>4d8fB4uZwd70F8eDjXBnyqSskAdccPwCqGTV5qyUDFw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_017.html" size="2409">
+  <file name="help\help_017.html" size="2409" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -549,7 +549,7 @@
       <dsig:DigestValue>1SZyUK0Ylx8WBJTbXWVEF3zgmFJ77b8zC2WTGs4ohE0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_018.html" size="4208">
+  <file name="help\help_018.html" size="4208" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -558,7 +558,7 @@
       <dsig:DigestValue>jjsiJhmTV1A/RLpJWcSXOl0ql5sE5LsAAA+Xb7bBnCU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_019.html" size="2842">
+  <file name="help\help_019.html" size="2842" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -567,7 +567,7 @@
       <dsig:DigestValue>54mwI/oGg9k+hEh2EAmHaROXSh+uxOKK90iq/7rP31g=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_020.html" size="1693">
+  <file name="help\help_020.html" size="1693" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -576,7 +576,7 @@
       <dsig:DigestValue>Xbpw4Y/WZwN7TriCfh+s+PC86KARjYRVj2EjuT+ZGO8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_021.html" size="1835">
+  <file name="help\help_021.html" size="1835" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -585,7 +585,7 @@
       <dsig:DigestValue>qg9Ob4wvxUXwh1oJssBmWgyafY1F6fSPneHdm1reW70=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_022.html" size="1830">
+  <file name="help\help_022.html" size="1830" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -594,7 +594,7 @@
       <dsig:DigestValue>vyXLsR/gUKNoeTgt5QxzO06PRi2oxjOf/vasENmrigY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_023.html" size="2147">
+  <file name="help\help_023.html" size="2147" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -603,7 +603,7 @@
       <dsig:DigestValue>csZ7vv0pBG3VHdd4QR1kw5BOlkKnjokfxwdkkY/YxTY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_024.html" size="2431">
+  <file name="help\help_024.html" size="2431" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -612,7 +612,7 @@
       <dsig:DigestValue>/6b7WTUIvlX55YkuBzpeV1HGyzdzWrJ1pMcwNoV1caI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_025.html" size="2066">
+  <file name="help\help_025.html" size="2066" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -621,7 +621,7 @@
       <dsig:DigestValue>EaMbdMWOckHk49CVAKRxjVyaezGQLPPs5DBMF347TL0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_026.html" size="2643">
+  <file name="help\help_026.html" size="2643" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -630,7 +630,7 @@
       <dsig:DigestValue>c658Z2GkCxfLJBTsk36dtNxkeY2DwKYzbkk0aUHRZTw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_027.html" size="1956">
+  <file name="help\help_027.html" size="1956" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -639,7 +639,7 @@
       <dsig:DigestValue>oab+CR1MQJEL9K64oXcWOlgEGP/ycYMEFWy+tuAlnO8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_028.html" size="2190">
+  <file name="help\help_028.html" size="2190" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -648,7 +648,7 @@
       <dsig:DigestValue>dvTNRM5PGWPtIvUJXnijzpccCSX7iRexiso4HT46cy8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_029.html" size="1834">
+  <file name="help\help_029.html" size="1834" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -657,7 +657,7 @@
       <dsig:DigestValue>Irewtfueg5M56w23KZFzB6jvvy5GbdBdQ8m3+7cS75c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_030.html" size="1551">
+  <file name="help\help_030.html" size="1551" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -666,7 +666,7 @@
       <dsig:DigestValue>KdAruxEPjI/CkXE2YgcoIEBiNx7mDDQUG78um9ENPcg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_031.html" size="1978">
+  <file name="help\help_031.html" size="1978" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -675,7 +675,7 @@
       <dsig:DigestValue>CqDzpAxoBjo/D6O+HimNXME+FUu9YQy7Y2+saENdlHo=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_032.html" size="1909">
+  <file name="help\help_032.html" size="1909" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -684,7 +684,7 @@
       <dsig:DigestValue>E9RjuLRdHmqr1rErQXQLiHApZhvHCbAX2YrH/Y1vSJE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_033.html" size="3619">
+  <file name="help\help_033.html" size="3619" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -693,7 +693,7 @@
       <dsig:DigestValue>5fFcu50Zod26CnOpTpmG5ZcQBRySSUST+X3zFJ/DZdw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_034.html" size="2475">
+  <file name="help\help_034.html" size="2475" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -702,7 +702,7 @@
       <dsig:DigestValue>Uqwsr3UdMmszgxfFJKaVjJt2baefXXAETTy58RdUvbY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_035.html" size="2885">
+  <file name="help\help_035.html" size="2885" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -711,7 +711,7 @@
       <dsig:DigestValue>A9T5XZpGFJMolO0EyJAF7kTSDVzVbajVjvAEWzPk/jQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_036.html" size="3511">
+  <file name="help\help_036.html" size="3511" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -720,7 +720,7 @@
       <dsig:DigestValue>OK5kU5IONZiyHDFoKCijHQwOCMmWonxiJqhHru0arkY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_037.html" size="3422">
+  <file name="help\help_037.html" size="3422" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -729,7 +729,7 @@
       <dsig:DigestValue>hA8h97akMIQSaadY3+6zm5TxdxlfpffS57ZU6jl2a1M=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_038.html" size="1780">
+  <file name="help\help_038.html" size="1780" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -738,7 +738,7 @@
       <dsig:DigestValue>Kay3xiM0O/SaLStW4YXCnuF0ujOuc9oYRF4kZQh/10Y=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\help_039.html" size="2405">
+  <file name="help\help_039.html" size="2405" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -747,7 +747,7 @@
       <dsig:DigestValue>dmkAkaZwwjYz5/k/EuiZs/PRia0X5yPZK8776zeOaGc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\bandeau_bas.png" size="5244">
+  <file name="help\img\bandeau_bas.png" size="5244" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -756,7 +756,7 @@
       <dsig:DigestValue>+pehEcDFZO9c1Hf5rf2km5KfZAF3mnySCB8J53IHwvA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\Image1.png" size="34986">
+  <file name="help\img\Image1.png" size="34986" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -765,7 +765,7 @@
       <dsig:DigestValue>Q1cn3fPtkO/YWJb4Qa0S6D5Emw275Spo7IReCqWavAA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\Image2.png" size="122857">
+  <file name="help\img\Image2.png" size="122857" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -774,7 +774,7 @@
       <dsig:DigestValue>Kn810AYS2NsedIssXxnaEaIhzXCBCKHfmCT7aW0SQvc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\Image3.png" size="551046">
+  <file name="help\img\Image3.png" size="551046" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -783,7 +783,7 @@
       <dsig:DigestValue>+ZIzGDyY4AYE0TLn4BSRMnh7DPWhDMlK0TdbGOT+whY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\Image4.png" size="47812">
+  <file name="help\img\Image4.png" size="47812" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -792,7 +792,7 @@
       <dsig:DigestValue>D6bDiISuYYaV+ChL+O+FR0QWSpcYT1wkqd6nnUyHpUA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\Image5.png" size="36621">
+  <file name="help\img\Image5.png" size="36621" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -801,7 +801,7 @@
       <dsig:DigestValue>mLJUFdoKj5h8NX4G3B/WqDR7d1HBpiqI6fqZVIDHhGw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\Image8.png" size="78920">
+  <file name="help\img\Image8.png" size="78920" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -810,7 +810,7 @@
       <dsig:DigestValue>iD7oMwWKm8goRy74YPTzYYpTmNN6B8d6l+dgvHdFyyI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\LOGO_BBCLIC2020.png" size="12147">
+  <file name="help\img\LOGO_BBCLIC2020.png" size="12147" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -819,7 +819,7 @@
       <dsig:DigestValue>LAj7r6PTMqqMwx+tHZcgrAoQDs1JZJhhfOvTyACVX5I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\logo_CERIB_blanc.png" size="4711">
+  <file name="help\img\logo_CERIB_blanc.png" size="4711" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -828,7 +828,7 @@
       <dsig:DigestValue>g1ZcQ7R83C9SoxnwyhKnZ2hoB68PeNMhKZZe+cMiNTM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\img\logo_FIB_blanc.png" size="14372">
+  <file name="help\img\logo_FIB_blanc.png" size="14372" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -837,7 +837,7 @@
       <dsig:DigestValue>Zbr2xQFprtwKhTC/nuhjZHUQwg+lWLW+hVnyBtg+ja4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\index.html" size="1679">
+  <file name="help\index.html" size="1679" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -846,7 +846,7 @@
       <dsig:DigestValue>JafPZX+/oHA9KOnu75B7DxGkFBQJXlqvxztCBXhFBN8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="help\template.html" size="664">
+  <file name="help\template.html" size="664" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -855,7 +855,7 @@
       <dsig:DigestValue>sd3+DFaf+o5TO99sUVOkovOMBnztMR0jMs0zRHYFFVU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\bandeau_bas.png" size="6358">
+  <file name="img\bandeau_bas.png" size="6358" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -864,7 +864,7 @@
       <dsig:DigestValue>de1htgE2ZeekwHHID1NJdBP3oy2Uwq1E5282SJylgnc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\bbclic2020.ico" size="381142">
+  <file name="img\bbclic2020.ico" size="381142" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -873,7 +873,7 @@
       <dsig:DigestValue>8OobD0S1qDobaGetw/3uwYIUgOFGXfkD1b9p4RP2IlA=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\blank-file.png" size="1400">
+  <file name="img\blank-file.png" size="1400" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -882,7 +882,7 @@
       <dsig:DigestValue>XFwearfPbljH0mSdWCbOK0YoX24AqlH3jlULTZ4170U=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\help_button.png" size="9989">
+  <file name="img\help_button.png" size="9989" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -891,7 +891,7 @@
       <dsig:DigestValue>OcJLid3i5bL2zy/np2FADvo086KEc3plXyqUnTldcr0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\help_button.svg" size="4488">
+  <file name="img\help_button.svg" size="4488" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -900,7 +900,7 @@
       <dsig:DigestValue>UsoCX3YO5tB9WeMTcz+KzK/bnixpwyKKwF8pOA3rISY=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\help_button_on.png" size="9652">
+  <file name="img\help_button_on.png" size="9652" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -909,7 +909,7 @@
       <dsig:DigestValue>vtCXN/WJAiLZYEEPZyAjJIu5UPPDVDcwdnRgPg/lcgM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\help_button_on.svg" size="4493">
+  <file name="img\help_button_on.svg" size="4493" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -918,7 +918,7 @@
       <dsig:DigestValue>lZM7pgXDtK0WgWhNI4bPb30scAGnAnc4IgKFyAhb9ws=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\LOGO_BBCLIC2020.png" size="12147">
+  <file name="img\LOGO_BBCLIC2020.png" size="12147" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -927,7 +927,7 @@
       <dsig:DigestValue>LAj7r6PTMqqMwx+tHZcgrAoQDs1JZJhhfOvTyACVX5I=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\logo_CERIB.png" size="26764">
+  <file name="img\logo_CERIB.png" size="26764" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -936,7 +936,7 @@
       <dsig:DigestValue>Tawfs8gEBTdecsYEkeX4EdO/aSmZmgq2VvaEfU+5rT8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\logo_FIB_blanc.png" size="14372">
+  <file name="img\logo_FIB_blanc.png" size="14372" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -945,7 +945,7 @@
       <dsig:DigestValue>Zbr2xQFprtwKhTC/nuhjZHUQwg+lWLW+hVnyBtg+ja4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\save-file.png" size="2736">
+  <file name="img\save-file.png" size="2736" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -954,7 +954,7 @@
       <dsig:DigestValue>r6RqkeETM1GogtL78zTmuJ6Mj98BClNEM+D0Xnn3C5c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="img\upload-file.png" size="2696">
+  <file name="img\upload-file.png" size="2696" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -963,7 +963,7 @@
       <dsig:DigestValue>PjFWeG6nGSrGg8fdh/Rr7KbV/mTXyc07ipoJI32Xw/c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_GAZ-TAE.xml" size="340831">
+  <file name="input\01\RSET_1N_GAZ-TAE.xml" size="340831" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -972,7 +972,7 @@
       <dsig:DigestValue>qKAG9GeR26HNAAdgRHur/NxE0kNhofoQKIToUVV9PD0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_HYBRIDE.xml" size="337894">
+  <file name="input\01\RSET_1N_HYBRIDE.xml" size="337894" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -981,7 +981,7 @@
       <dsig:DigestValue>ZjB6xJm64cFi2xl3HhxfpIcnllMOIZGMF3zD93mhxr0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_PAAG-rev-TAE.xml" size="360862">
+  <file name="input\01\RSET_1N_PAAG-rev-TAE.xml" size="360862" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -990,7 +990,7 @@
       <dsig:DigestValue>+sVxnQujJCgbzdH6gIyifcnuKlqBGLtDGY+rQMBMAfM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_PAAG-TAE.xml" size="359184">
+  <file name="input\01\RSET_1N_PAAG-TAE.xml" size="359184" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -999,7 +999,7 @@
       <dsig:DigestValue>xn3crKGI9FZF9mTeVgHv1XsaFPdl0BVUZflKWSjRXq4=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_PAAG-TAE-brasseur.xml" size="358840">
+  <file name="input\01\RSET_1N_PAAG-TAE-brasseur.xml" size="358840" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1008,7 +1008,7 @@
       <dsig:DigestValue>QzBNOte2QDe48dkk8BTZ4eH1AAvcpNqSR6/aUmtJJ64=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_PAO-DS.xml" size="338753">
+  <file name="input\01\RSET_1N_PAO-DS.xml" size="338753" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1017,7 +1017,7 @@
       <dsig:DigestValue>UsKkhB2SKzcGk4esGigHPlpmMSEL9LoBDsQ6S+xH//c=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_POG-PR-TAE.xml" size="355758">
+  <file name="input\01\RSET_1N_POG-PR-TAE.xml" size="355758" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1026,7 +1026,7 @@
       <dsig:DigestValue>zdvKDLEPlghUKXavBI8afUb0RgSqmaFnaddy5yZHRb0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_SPLIT-PR-TAE.xml" size="362753">
+  <file name="input\01\RSET_1N_SPLIT-PR-TAE.xml" size="362753" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1035,7 +1035,7 @@
       <dsig:DigestValue>t1t9zINyD1gWMVBYhemBNjEf25PiJ7B5hnWO94knemg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\01\RSET_1N_SPLIT-PR-TAE-DF-PV.xml" size="367695">
+  <file name="input\01\RSET_1N_SPLIT-PR-TAE-DF-PV.xml" size="367695" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1044,7 +1044,7 @@
       <dsig:DigestValue>wYjvZRmzZ0Ll1JacEUM8n5q/eakRq0HCcIJndWpBxy8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_GAZ-TAE.xml" size="100527">
+  <file name="input\03\RSET_R1_GAZ-TAE.xml" size="100527" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1053,7 +1053,7 @@
       <dsig:DigestValue>WwpF6FdLrI2Smll2/vPUutQM+ylB6CmqNcP/ublhnYk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_HYBRIDE.xml" size="99751">
+  <file name="input\03\RSET_R1_HYBRIDE.xml" size="99751" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1062,7 +1062,7 @@
       <dsig:DigestValue>hRKkrFGUvZvVx0I880wXvoU1tGDj6HqCHg1nEl4c3ZI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_PAAG-rev-TAE.xml" size="106120">
+  <file name="input\03\RSET_R1_PAAG-rev-TAE.xml" size="106120" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1071,7 +1071,7 @@
       <dsig:DigestValue>IqAqPA+Ebr88J5q6yAvSu6H605L3Xqdz8pm1lgjB8kI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_PAAG-TAE.xml" size="105925">
+  <file name="input\03\RSET_R1_PAAG-TAE.xml" size="105925" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1080,7 +1080,7 @@
       <dsig:DigestValue>WizViemqWHeTBSokqxWG68RQry1mqLZqeE5LiuCEUh0=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_PAAG-TAE-brasseur.xml" size="106876">
+  <file name="input\03\RSET_R1_PAAG-TAE-brasseur.xml" size="106876" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1089,7 +1089,7 @@
       <dsig:DigestValue>tLf3MApbWckudO6buzsjyDr89L51pQwa19Gh5QKqxyk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_PAO-DS.xml" size="99416">
+  <file name="input\03\RSET_R1_PAO-DS.xml" size="99416" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1098,7 +1098,7 @@
       <dsig:DigestValue>oJCYsoI9LUA9GhbfYd+moCpcGKku0QdLwlqqbzKdpPU=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_POG-PR-TAE.xml" size="106190">
+  <file name="input\03\RSET_R1_POG-PR-TAE.xml" size="106190" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1107,7 +1107,7 @@
       <dsig:DigestValue>m+7ROILtD90zUl8Uo4seBe9/CfFHr2x+UXCkkjAUxxM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_SPLIT-PR-TAE.xml" size="113108">
+  <file name="input\03\RSET_R1_SPLIT-PR-TAE.xml" size="113108" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1116,7 +1116,7 @@
       <dsig:DigestValue>G6m/aGpvuU0r4nMgMcA+kORTj7jHfvg4no5rWS1SvZs=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\03\RSET_R1_SPLIT-PR-TAE-DF-PV.xml" size="117432">
+  <file name="input\03\RSET_R1_SPLIT-PR-TAE-DF-PV.xml" size="117432" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1125,7 +1125,7 @@
       <dsig:DigestValue>xfhr1hjSvwLPHas5ioTM3FgeCCPleThQeiZLNeZ1fl8=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\sources\base_projet.xml" size="82374">
+  <file name="input\sources\base_projet.xml" size="82374" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1134,7 +1134,7 @@
       <dsig:DigestValue>+Ek04UOsPP/2LA9wbEk+kgIejCgqXUEoh9LbR2osEss=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="input\sources\template_projet.xml" size="62">
+  <file name="input\sources\template_projet.xml" size="62" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1152,7 +1152,7 @@
       <dsig:DigestValue>cs8pHUurDt0IqbB8YXPh560au3q3J/1wRL9jBddRVmE=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="output\ouput.txt" size="17">
+  <file name="output\ouput.txt" size="17" writeableType="applicationData">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
@@ -1188,4 +1188,4 @@
       <dsig:DigestValue>lgCUgWByFITPfhcEPgzoEe98xDkgwt7JbPiHlw4lms8=</dsig:DigestValue>
     </hash>
   </file>
-<publisherIdentity name="CN=CERIB\CRE" issuerKeyHash="b359639ec5779be00b0194235dea67623ba7540d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>cNKvb8WSofeF4F2GEXwDDVxFMCAuH4UxmdjSVoXdF88=</DigestValue></Reference></SignedInfo><SignatureValue>Gomq/lbIF0i3GKojW/7+RJWxCpajAO8UuJnZrsD0ltysGm1oTG/xsuOCMn/SSYu1Yv53Uxvr26ltkKUxavW7j8uBXDd2BrRteqUnGC2m2zXYrLh6xtG9uw82xpag0ifzZoZyjqi4DEN2inJd5js6KCckiAkAThDMHEJQO7hYu4I=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tb4rhVRDwHyT4peGgT2lbTWzxN1MsLNoiOF9Lv0dCh9M7zF1bXw5Q+gdBn0th4R36+YCDagMTxxdwnNimJOTGf8Pdmn58di6C1oqr0z1OZ2NF/2pSxjUH8Jq+FjoziLu8EUGG7mSetoN5J1ZlnZfmxR+o9VbjLVJli9OD8ZRMW0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="cf17dd8556d2d89931851f2e2030455c0d037c11865de085f7a192c56fafd270" Description="" Url=""><as:assemblyIdentity name="BBClic® 2020.exe" version="1.0.2.2" publicKeyToken="7100573f9dd1214b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CERIB\CRE</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>o1opRtDn96ZdYRcWNHdIcnk3Q1tIVBOVAHEqhZf9R7A=</DigestValue></Reference></SignedInfo><SignatureValue>mlCvFsyFywFTTEnCWAaGTFyytEyCSFHxOtufKN/G7YSy2Tml2FBqzDLRAyI7w240lkQsuB7Q8LddEPfzsLNgwHjq1dsWfK2DTtm6PoC2+TrZHdL3vB8NNnUdm1vnDB6G48diyNx3EViekhfBoFCGRVC+f9Bm3cjrVc3+jZAX300=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tb4rhVRDwHyT4peGgT2lbTWzxN1MsLNoiOF9Lv0dCh9M7zF1bXw5Q+gdBn0th4R36+YCDagMTxxdwnNimJOTGf8Pdmn58di6C1oqr0z1OZ2NF/2pSxjUH8Jq+FjoziLu8EUGG7mSetoN5J1ZlnZfmxR+o9VbjLVJli9OD8ZRMW0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQXuyWklAulZhBWhyj2+hG9zANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDHhIAQwBFAFIASQBCAFwAQwBSAEUwHhcNMjIwNDIyMTMxOTI4WhcNMjMwNDIyMTkxOTI4WjAdMRswGQYDVQQDHhIAQwBFAFIASQBCAFwAQwBSAEUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALW+K4VUQ8B8k+KXhoE9pW01s8TdTLCzaIjhfS79HQofTO8xdW18OUPoHQZ9LYeEd+vmAg2oDE8cXcJzYpiTkxn/D3Zp+fHYugtaKq9M9TmdjRf9qUsY1B/CavhY6M4i7vBFBhu5knraDeSdWZZ2X5sUfqPVW4y1SZYvTg/GUTFtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAiNO9AX2O4oVTtm+NTN6hvufD27A56suJZ165sScUJLtAKNQ3JWaGC9w3n9OpJbs3xOITWmc6y69A1O9zyPdadVMf9OedUrdPcNU5cbtrl9c2SoOZOCVbFK8KidTSyVhhdOxROluNJozTWovhn9Cy3FAWC0QD9DUX+XUrssC6dKE=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
+<publisherIdentity name="CN=CERIB\CRE" issuerKeyHash="b359639ec5779be00b0194235dea67623ba7540d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>xfqG6SaDH3rNTuxJMqxkYISJkOxK1EoCJKmM7bSaViQ=</DigestValue></Reference></SignedInfo><SignatureValue>nwZE8yI8BntoyRUuh6fBxP2QVP06hhphwDfH/YTCdIzrbssZy+qN2tEL+ao9kGohh9sc4pPay2PkYDwbxVA8qcAgisYWGlrEr7BuWXZ4zuBHAOX3Ospf1sYRr9rKUpFVaaB5QGeJgBgvs/JCc74CId60RNA8ecoJ8RzMxiah5eo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tb4rhVRDwHyT4peGgT2lbTWzxN1MsLNoiOF9Lv0dCh9M7zF1bXw5Q+gdBn0th4R36+YCDagMTxxdwnNimJOTGf8Pdmn58di6C1oqr0z1OZ2NF/2pSxjUH8Jq+FjoziLu8EUGG7mSetoN5J1ZlnZfmxR+o9VbjLVJli9OD8ZRMW0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="24569ab4ed8ca924024ad44aec9089846064ac3249ec4ecd7a1f8326e986fac5" Description="" Url=""><as:assemblyIdentity name="BBClic® 2020.exe" version="1.0.2.2" publicKeyToken="7100573f9dd1214b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=CERIB\CRE</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gTeiHp0CB8A7rYmQ+qefmOvJT6OiZGhxoWCZsQRU6+8=</DigestValue></Reference></SignedInfo><SignatureValue>iACG6I59rW2ul4nt/pmAvAFvqVtUh4pnL8awsfw6/s/sgzaA5LuZOzJ1Zzkd0S6RjyESoKfGTpAkZFanaNBFB4Qck/m2iJ1xoZ3lIbnENSrKkDpSPOHO5J5OCRn91cqJy67dmfEvd2Fmam7Lbj8kdDYP166g2tUfK82uLqBZhIE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tb4rhVRDwHyT4peGgT2lbTWzxN1MsLNoiOF9Lv0dCh9M7zF1bXw5Q+gdBn0th4R36+YCDagMTxxdwnNimJOTGf8Pdmn58di6C1oqr0z1OZ2NF/2pSxjUH8Jq+FjoziLu8EUGG7mSetoN5J1ZlnZfmxR+o9VbjLVJli9OD8ZRMW0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBvTCCASagAwIBAgIQXuyWklAulZhBWhyj2+hG9zANBgkqhkiG9w0BAQsFADAdMRswGQYDVQQDHhIAQwBFAFIASQBCAFwAQwBSAEUwHhcNMjIwNDIyMTMxOTI4WhcNMjMwNDIyMTkxOTI4WjAdMRswGQYDVQQDHhIAQwBFAFIASQBCAFwAQwBSAEUwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALW+K4VUQ8B8k+KXhoE9pW01s8TdTLCzaIjhfS79HQofTO8xdW18OUPoHQZ9LYeEd+vmAg2oDE8cXcJzYpiTkxn/D3Zp+fHYugtaKq9M9TmdjRf9qUsY1B/CavhY6M4i7vBFBhu5knraDeSdWZZ2X5sUfqPVW4y1SZYvTg/GUTFtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAiNO9AX2O4oVTtm+NTN6hvufD27A56suJZ165sScUJLtAKNQ3JWaGC9w3n9OpJbs3xOITWmc6y69A1O9zyPdadVMf9OedUrdPcNU5cbtrl9c2SoOZOCVbFK8KidTSyVhhdOxROluNJozTWovhn9Cy3FAWC0QD9DUX+XUrssC6dKE=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
