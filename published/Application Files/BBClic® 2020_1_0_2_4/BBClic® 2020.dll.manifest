@@ -1,0 +1,319 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="BBClic® 2020.exe" version="1.0.2.4" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="img\bbclic2020.ico" xmlns="urn:schemas-microsoft-com:asm.v1">Outil d'analyse de performances thermiques et environnementale</description>
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Launcher.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Options de manifeste UAC
+          Pour changer le niveau du contrôle de compte d'utilisateur Windows, remplacez le
+          nœud requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Pour utiliser la virtualisation des fichiers et du Registre afin d'assurer
+         une compatibilité ascendante, supprimez le nœud requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="14336">
+      <assemblyIdentity name="Launcher" version="5.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SOJsa8hu9TII+PdkkWB0Pbydkb6irgo3IQgLQ8/rVi4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BBClic® 2020.deps.json" size="2827">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>0j32XiC/+AlAnDtUz6+JuHMxfWxYZInrTz1B6UosNmY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="BBClic® 2020.dll" size="994304">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Fu0xeaMgABzEz+JXWvNdnMUdF/+ycXcN8yHng0JFLLY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="BBClic® 2020.exe" size="507392">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>sqZoP+1tg84SSPFhCLnntflzxRXkNE/TUKG/YjNU7t8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="BBClic® 2020.runtimeconfig.json" size="260">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TAy4UQmrQZe65gulPZpwP3mxUVQNvVse7HGqvBQf5Mo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="CSTB_Data_Lib.dll" size="8192">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>9q7WRhkBNMdtmhKifP54/fpPqlgfCumX0VLrs2SsuMY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_data.json" size="27633">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>O/bh4rr30SY7+IciciUkmhsXkqPE3viroXBhKIwhC0I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_help.json" size="4253">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>vqInh4EIG4KDFgXHO7dhSiwHOTxu72r+XTf3Szh/qYE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_maisons _v2.json" size="19435">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>JKO8S5h5BCLTCQmtNZmuJTgpIGdjAo55uLYfizMLPxY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_maisons.json" size="3198">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xviw3rtApt77zCej1wxqz3ru43ry6c8FrJ9ZCqIPkHo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_menuiseries.json" size="2849">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>r0bGkW41NOeDvgmEqJNsz4pGHUhediX8OuvdGxoTRfc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_menus.json" size="4743">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>o8JNTJNEwPurRJAuL2pmSqvvPj0fOLEAQS3N8/4CWYc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_psil_plancherbas_facade_v0.4.csv" size="29344" writeableType="applicationData" />
+  <file name="data\bbclic_psil_plancherbas_refend_v0.1.csv" size="1912" writeableType="applicationData" />
+  <file name="data\bbclic_sortie.xml" size="1362" writeableType="applicationData" />
+  <file name="data\bbclic_sortie_carbone.xml" size="9681" writeableType="applicationData" />
+  <file name="data\bbclic_sortie_RT.xml" size="4032" writeableType="applicationData" />
+  <file name="data\bbclic_systemes.json" size="1994">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GIIdp6kFebHQtY77+QbTLGOTZ/tjIHlDxAJuZ4zjw7w=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_units.json" size="363">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Y0a93Zj6f5cli1+IdYrn+8gmM6fvj7UscD+GgQfMnA4=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="data\bbclic_view.xml" size="1529" writeableType="applicationData" />
+  <file name="data\conversion.xml" size="3273" writeableType="applicationData" />
+  <file name="data\mapping_savefile_1.0.0.0.xml" size="2893" writeableType="applicationData" />
+  <file name="data\mapping_savefile_1.0.2.0.xml" size="2857" writeableType="applicationData" />
+  <file name="data\MI\01\01.png" size="305062" writeableType="applicationData" />
+  <file name="data\MI\01\01-mini.png" size="110290" writeableType="applicationData" />
+  <file name="data\MI\01\02.png" size="101290" writeableType="applicationData" />
+  <file name="data\MI\01\03.png" size="113393" writeableType="applicationData" />
+  <file name="data\MI\01\04.png" size="106501" writeableType="applicationData" />
+  <file name="data\MI\01\vue_a.png" size="139491" writeableType="applicationData" />
+  <file name="data\MI\01\vue_b.png" size="138387" writeableType="applicationData" />
+  <file name="data\MI\02\00.png" size="7182" writeableType="applicationData" />
+  <file name="data\MI\02\01.png" size="34101" writeableType="applicationData" />
+  <file name="data\MI\03\00.png" size="7182" writeableType="applicationData" />
+  <file name="data\MI\03\01.png" size="37516" writeableType="applicationData" />
+  <file name="data\MI\04\00.png" size="7182" writeableType="applicationData" />
+  <file name="data\MI\05\00.png" size="7182" writeableType="applicationData" />
+  <file name="data\reset_state.sav" size="3227" writeableType="applicationData" />
+  <file name="data\settings.xml" size="48" writeableType="applicationData" />
+  <file name="help\bbclic_style.css" size="3910" writeableType="applicationData" />
+  <file name="help\help_001.html" size="3453" writeableType="applicationData" />
+  <file name="help\help_002.html" size="6048" writeableType="applicationData" />
+  <file name="help\help_003.html" size="2564" writeableType="applicationData" />
+  <file name="help\help_004.html" size="2632" writeableType="applicationData" />
+  <file name="help\help_005.html" size="2783" writeableType="applicationData" />
+  <file name="help\help_006.html" size="2543" writeableType="applicationData" />
+  <file name="help\help_007.html" size="2616" writeableType="applicationData" />
+  <file name="help\help_008.html" size="2560" writeableType="applicationData" />
+  <file name="help\help_009.html" size="1780" writeableType="applicationData" />
+  <file name="help\help_010.html" size="2610" writeableType="applicationData" />
+  <file name="help\help_011.html" size="2161" writeableType="applicationData" />
+  <file name="help\help_012.html" size="2435" writeableType="applicationData" />
+  <file name="help\help_013.html" size="2114" writeableType="applicationData" />
+  <file name="help\help_014.html" size="2975" writeableType="applicationData" />
+  <file name="help\help_015.html" size="1855" writeableType="applicationData" />
+  <file name="help\help_016.html" size="2930" writeableType="applicationData" />
+  <file name="help\help_017.html" size="2409" writeableType="applicationData" />
+  <file name="help\help_018.html" size="4208" writeableType="applicationData" />
+  <file name="help\help_019.html" size="2842" writeableType="applicationData" />
+  <file name="help\help_020.html" size="1693" writeableType="applicationData" />
+  <file name="help\help_021.html" size="1835" writeableType="applicationData" />
+  <file name="help\help_022.html" size="1830" writeableType="applicationData" />
+  <file name="help\help_023.html" size="2147" writeableType="applicationData" />
+  <file name="help\help_024.html" size="2431" writeableType="applicationData" />
+  <file name="help\help_025.html" size="2066" writeableType="applicationData" />
+  <file name="help\help_026.html" size="2643" writeableType="applicationData" />
+  <file name="help\help_027.html" size="1956" writeableType="applicationData" />
+  <file name="help\help_028.html" size="2190" writeableType="applicationData" />
+  <file name="help\help_029.html" size="1834" writeableType="applicationData" />
+  <file name="help\help_030.html" size="1551" writeableType="applicationData" />
+  <file name="help\help_031.html" size="1978" writeableType="applicationData" />
+  <file name="help\help_032.html" size="1909" writeableType="applicationData" />
+  <file name="help\help_033.html" size="3619" writeableType="applicationData" />
+  <file name="help\help_034.html" size="2475" writeableType="applicationData" />
+  <file name="help\help_035.html" size="2885" writeableType="applicationData" />
+  <file name="help\help_036.html" size="3511" writeableType="applicationData" />
+  <file name="help\help_037.html" size="3422" writeableType="applicationData" />
+  <file name="help\help_038.html" size="1780" writeableType="applicationData" />
+  <file name="help\help_039.html" size="2405" writeableType="applicationData" />
+  <file name="help\img\bandeau_bas.png" size="5244" writeableType="applicationData" />
+  <file name="help\img\Image1.png" size="34986" writeableType="applicationData" />
+  <file name="help\img\Image2.png" size="122857" writeableType="applicationData" />
+  <file name="help\img\Image3.png" size="551046" writeableType="applicationData" />
+  <file name="help\img\Image4.png" size="47812" writeableType="applicationData" />
+  <file name="help\img\Image5.png" size="36621" writeableType="applicationData" />
+  <file name="help\img\Image8.png" size="78920" writeableType="applicationData" />
+  <file name="help\img\LOGO_BBCLIC2020.png" size="12147" writeableType="applicationData" />
+  <file name="help\img\logo_CERIB_blanc.png" size="4711" writeableType="applicationData" />
+  <file name="help\img\logo_FIB_blanc.png" size="14372" writeableType="applicationData" />
+  <file name="help\index.html" size="1679" writeableType="applicationData" />
+  <file name="help\template.html" size="664" writeableType="applicationData" />
+  <file name="img\bandeau_bas.png" size="6358" writeableType="applicationData" />
+  <file name="img\bbclic2020.ico" size="381142" writeableType="applicationData" />
+  <file name="img\blank-file.png" size="1400" writeableType="applicationData" />
+  <file name="img\help_button.png" size="9989" writeableType="applicationData" />
+  <file name="img\help_button.svg" size="4488" writeableType="applicationData" />
+  <file name="img\help_button_on.png" size="9652" writeableType="applicationData" />
+  <file name="img\help_button_on.svg" size="4493" writeableType="applicationData" />
+  <file name="img\LOGO_BBCLIC2020.png" size="12147" writeableType="applicationData" />
+  <file name="img\logo_CERIB.png" size="26764" writeableType="applicationData" />
+  <file name="img\logo_FIB_blanc.png" size="14372" writeableType="applicationData" />
+  <file name="img\save-file.png" size="2736" writeableType="applicationData" />
+  <file name="img\upload-file.png" size="2696" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_GAZ-TAE.xml" size="340831" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_HYBRIDE.xml" size="337894" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_PAAG-rev-TAE.xml" size="360862" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_PAAG-TAE.xml" size="359184" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_PAAG-TAE-brasseur.xml" size="358840" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_PAO-DS.xml" size="338753" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_POG-PR-TAE.xml" size="355758" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_SPLIT-PR-TAE.xml" size="362753" writeableType="applicationData" />
+  <file name="input\01\RSET_1N_SPLIT-PR-TAE-DF-PV.xml" size="367695" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_GAZ-TAE.xml" size="100527" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_HYBRIDE.xml" size="99751" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_PAAG-rev-TAE.xml" size="106120" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_PAAG-TAE.xml" size="105925" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_PAAG-TAE-brasseur.xml" size="106876" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_PAO-DS.xml" size="99416" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_POG-PR-TAE.xml" size="106190" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_SPLIT-PR-TAE.xml" size="113108" writeableType="applicationData" />
+  <file name="input\03\RSET_R1_SPLIT-PR-TAE-DF-PV.xml" size="117432" writeableType="applicationData" />
+  <file name="input\sources\base_projet.xml" size="82374" writeableType="applicationData" />
+  <file name="input\sources\template_projet.xml" size="62" writeableType="applicationData" />
+  <file name="Newtonsoft.Json.dll" size="695336">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>cs8pHUurDt0IqbB8YXPh560au3q3J/1wRL9jBddRVmE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="output\ouput.txt" size="17" writeableType="applicationData" />
+  <file name="RE2020.dll" size="15099392">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Aq7igEG3W1ioqyazGsSF0kYDU8S58PfSR+3usG2V7Q0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="RE2020.Extensions.dll" size="1560576">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>e83Dtff/iC6aEN/gDBf16ig33uyHzXnUN/jAI2GxHg8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="System.ComponentModel.Composition.dll" size="280168">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>lgCUgWByFITPfhcEPgzoEe98xDkgwt7JbPiHlw4lms8=</dsig:DigestValue>
+    </hash>
+  </file>
+</asmv1:assembly>
