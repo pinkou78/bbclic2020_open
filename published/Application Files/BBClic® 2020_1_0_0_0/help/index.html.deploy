@@ -1,0 +1,53 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html" charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="./bbclic_style.css">
+	<title>BBClic 2020 - Aide</title>
+	<meta name="robots" content="none" />
+</head>
+<body>
+	<header>
+	<table style="width: 100% ; margin-left:auto; margin-right:auto;" >
+		<tbody>
+			<tr>
+				<td width="200px"><img src="./img/LOGO_BBCLIC2020.png" alt="logo BBClic 2020" width="178" height="102" style="float:left; padding-left: 30px;"><br></td>
+				<td class="title">Aide & guide d'utilisation</td>
+				<td width="200px"><p style="text-align: right; margin-top: -50px;">Version v 0.1</p></td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+</header>
+	<main style="width: 95%; margin-left:auto; margin-right:auto;">
+		<div>Onglet Typologie</div>
+		<ul>
+			<li>Type de maison</li>
+			<li>Système de chauffage / ECS</li>
+		</ul>
+		<ul>
+			<li>Zone climatique</li>
+			<li>Altitude</li>
+			<li>Zone de bruit</li>
+			<li>Orientation</li>
+		</ul>
+		<br>
+		<div>Onglet Parois</div>
+		<ul>
+			<li>Mode simple
+				<ul>
+					<li>Structure</li>
+					<li>Type d'isolation</li>
+					<li>Epaisseur isolant</li>
+					<li>Couleur façade</li>
+				</ul>
+			</li>
+			<li>Mode avancé</li>
+		</ul>
+	</main>
+	<footer>
+		<div><img src="./img/bandeau_bas.png" alt="logo CERIB Blanc" width="345" height="45" style="float:left; padding-left: 30px;"></div>
+	</footer>
+</body>
+</html>
