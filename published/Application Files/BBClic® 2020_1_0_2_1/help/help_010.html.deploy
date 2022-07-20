@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	<meta http-equiv="content-type" content="application/xhtml+xml" charset="UTF-8">
+	<title>BBClic 2020 - Aide</title>
+	<meta name="robots" content="none" />
+	<link rel="stylesheet" type="text/css" href="./bbclic_style.css">
+	</head>
+<body>
+<header>
+	<table style="width: 100% ; margin-left:auto; margin-right:auto;">
+		<tbody>
+			<tr>
+				<td width="200px"><img src="./img/LOGO_BBCLIC2020.png" alt="logo BBClic 2020" width="178" height="102" style="float:left; padding-left: 30px;"><br></td>
+				<td class="title">Aide & guide d'utilisation</td>
+				<td width="200px"><p style="text-align: right; margin-top: -50px;">Version v 0.1</p></td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+</header>
+<main>
+	<table style="width:90%; margin-left:auto; margin-right:auto;">
+		<tbody>
+			<tr>
+				<td class="onglet" colspan="2">Onglet "Parois" - "Couleur façade"</td>
+			</tr>
+			<tr>
+				<td style="width:70%; vertical-align: top;">
+					<ul>
+						<li>Ce paramètre représente la couleur associée au <b>revêtement extérieur</b> de la façade (enduit) – Voir tableau suivant.</li>
+						<br>
+						<li>Ce coefficient est compris entre 0 et 1. Lorsqu’il est égal à <b>1</b>, le revêtement extérieur <b>absorbe en totalité</b> l’énergie issue du <b>rayonnement solaire</b>. Lorsqu’il est égal à <b>0</b>, l’<b>absorption</b> du matériau est considérée comme <b>inexistante</b>.</li>
+						<br>
+						<li>Une surface sombre permet d’absorber une plus grande partie du <b>rayonnement solaire</b> et donc de <b>favoriser les apports de chaleur</b> dans le bâti. Pour rappel, les <b>apports solaires</b> sont <b>bénéfiques aux besoins de chauffage</b> l’hiver mais <b>augmentent les besoins de rafraîchissement</b> l’été. Les résultats en termes de Bbio et de DH sont donc impactés par ce paramètre.</li>
+						<br>
+						<li><i>Dans le cas de la maison de plain-pied, passer d’une couleur de façade claire à sombre fait légèrement varier le Bbio d’environ 1 point selon la zone climatique du site, mais peut augmenter l’inconfort en été de 40 à 100 °C.h.</i></li>
+					</ul>
+				</td>
+				<td style="width:30%; text-align: center;"><a href="./img/image4.png" target="_Blank"><img id="image_mi" src="./img/image4.png" width="350"></a><br><em>Tableau de valeurs issue de l'arrêté du 4 aout 2021</em></td>
+			</tr>
+		</tbody>
+	</table>
+</main>
+</body>
+</html>
