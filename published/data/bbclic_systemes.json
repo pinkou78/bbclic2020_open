@@ -1,0 +1,76 @@
+[
+	{
+		"id": 0,
+		"nom": "1- Chaudière gaz (chauffage) et ballon thermodynamique (ECS)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_GAZ-TAE.xml"
+	},
+	{
+		"id": 1,
+		"nom": "2- Générateur hybride : PAC air/eau avec appoint par chaudière gaz (chauffage + ECS)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_HYBRIDE.xml"
+
+	},
+	{
+		"id": 2,
+		"nom": "3- PAC air/air réversible (chauffage + refroidissement) et ballon thermodynamique (ECS)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_PAAG_rev-TAE.xml"
+	},
+	{
+		"id": 3,
+		"nom": "4- PAC air/air (chauffage) et ballon thermodynamique (ECS)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_PAAG-TAE.xml"
+	},
+	{
+		"id": 4,
+		"nom": "5- PAC air/air (chauffage), ballon thermodynamique (ECS) et brasseur d’air (rafraîchissement)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_PAAG-TAE-brasseur.xml"
+	},
+	{
+		"id": 5,
+		"nom": "6- PAC air/eau double service (chauffage + ECS)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_PAO-DS.xml" 
+	},
+	{
+		"id": 6,
+		"nom": "7- Poêle à granulés et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_POG-PR-TAE.xml"
+	},
+	{
+		"id": 7,
+		"nom": "8- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_SPLIT-PR-TAE.xml"
+	},
+	{
+		"id": 8,
+		"nom": "9- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS) + Double Flux (Ventilation) + Panneaux photovoltaïques (production d’électricité en autoconsommation)",
+		"chauffage":"",
+		"ECS":"",
+		"ventilation":"",
+		"fichier":"RSET_1N_SPLIT-PR-TAE-DF-PV.xml"
+
+	}
+]
