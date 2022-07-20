@@ -1,0 +1,27 @@
+[
+{
+	"id": 0,
+	"texte": "Sans",
+	"valeur": ""
+},
+{
+	"id": 1,
+	"texte": "Resistance thermique",
+	"valeur": "(m².K)/W"
+},
+{
+	"id": 2,
+	"texte": "Coefficient déperditif surfacique",
+	"valeur": "W/(m².K)"
+},
+{
+	"id": 3,
+	"texte": "Conductivité thermique Lambda",
+	"valeur": "W/(m.K)"
+},
+{
+	"id": 4,
+	"texte": "Angle",
+	"valeur": "°"
+}
+]
