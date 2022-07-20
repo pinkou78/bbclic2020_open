@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	<meta http-equiv="content-type" content="application/xhtml+xml" charset="UTF-8">
+	<title>BBClic 2020 - Aide</title>
+	<meta name="robots" content="none" />
+	<link rel="stylesheet" type="text/css" href="./bbclic_style.css">
+	</head>
+<body>
+<header>
+	<table style="width: 100% ; margin-left:auto; margin-right:auto;">
+		<tbody>
+			<tr>
+				<td width="200px"><img src="./img/LOGO_BBCLIC2020.png" alt="logo BBClic 2020" width="178" height="102" style="float:left; padding-left: 30px;"><br></td>
+				<td class="title">Aide & guide d'utilisation</td>
+				<td width="200px"><p style="text-align: right; margin-top: -50px;">Version v 0.1</p></td>
+			</tr>
+		</tbody>
+	</table>
+	<br>
+</header>
+<main>
+	<table style="width:90%; margin-left:auto; margin-right:auto;">
+		<tbody>
+			<tr>
+				<td class="onglet" colspan="2">Onglet "Parois" - Type d'isolation"</td>
+			</tr>
+			<tr>
+				<td>
+					<ul>
+						<li>Le type d’isolation permet de définir la <b>nature de l’isolant</b> intérieur et le <b>type de pose</b> (collée ou sur ossature). En cas de pose collée, l’influence thermique des plots de colle et de la lame d’air environnante est négligée; en cas de pose sur ossature la résistance de la lame d’air, réduite par les ponts thermiques de l’ossature, est prise en compte.</li>
+						<br>
+						<li>La nature de l’isolant fait essentiellement varier sa <b>conductivité thermique</b> (&lambda;). Cette grandeur traduit la quantité de chaleur traversant l’isolation pour une épaisseur de 1m et une différence de température de 1°C. Elle s’exprime en W/(m.K). <b>Plus elle est faible, plus le matériau est thermiquement performant</b>.</li>
+						<br>
+						<li>A noter que la présente version de l’outil ne couvre que l’isolation de façade par l’intérieur, à l’exclusion de tout autre principe d’isolation (extérieur, intégré et réparti).</li>
+						<br>
+						<li>A noter également que dans le cadre du présent outil et par soucis de simplification, <b>les parois isolées vers les locaux non chauffés</b> (garage, celliers …) <b>ne font pas l’objet d’une description spécifique</b>. On considère cependant pour les calculs la <b>même résistance thermique totale qu’en façade et pignon</b>.</li>
+						<br>
+					</ul>
+				</td>
+			</tr>
+		</tbody>
+	</table>
+</main>
+</body>
+</html>
