@@ -1,3 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <projet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2021.D1E1C1" xsi:noNamespaceSchemaLocation="../RE2020_D1E1C1.xsd">
     <RSET>
     <Entree_Projet>
@@ -221,6 +222,37 @@
           </Source_Amont_Collection>
           <Distribution_Rafraichissement_Direct_Collection />
         </Generation>
+        <Generation>
+          <Index>3</Index>
+          <Name>EJO</Name>
+          <Description />
+          <Type_Priorite>1</Type_Priorite>
+          <Idraccord_Gnr>0</Idraccord_Gnr>
+          <Idraccord_Reseau_Gen>1</Idraccord_Reseau_Gen>
+          <Pos_Gen>1</Pos_Gen>
+          <Id_Bat>1</Id_Bat>
+          <Id_Et>0</Id_Et>
+          <Type_Gestion_Chaud_Gen>2</Type_Gestion_Chaud_Gen>
+          <Theta_Wm_Ch>60</Theta_Wm_Ch>
+          <Type_Gestion_Froid_Gen>2</Type_Gestion_Froid_Gen>
+          <Theta_Wm_Fr>12</Theta_Wm_Fr>
+          <Theta_Wm_Ecs>45</Theta_Wm_Ecs>
+          <Generateur_Collection>
+            <Generateur_Effet_Joule>
+              <Index>6</Index>
+              <Name>Effet Joule</Name>
+              <Description />
+              <Rdim>1</Rdim>
+              <Pmax>4</Pmax>
+              <Id_Fou_Gen>1</Id_Fou_Gen>
+              <Idpriorite_Ch>102</Idpriorite_Ch>
+              <Idpriorite_Ecs>2</Idpriorite_Ecs>
+            </Generateur_Effet_Joule>
+          </Generateur_Collection>
+          <Production_Stockage_ECS_Collection />
+          <Source_Amont_Collection />
+          <Distribution_Rafraichissement_Direct_Collection />
+        </Generation>
       </Generation_Collection>
       <Batiment_Collection>
         <Batiment>
@@ -308,7 +340,7 @@
                       <Index>2</Index>
                       <Name>Mur Murs exterieurs</Name>
                       <Description />
-                      <Alpha>0</Alpha>
+                      <Alpha>45</Alpha>
                       <Beta>90</Beta>
                       <Ak>37.148</Ak>
                       <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
@@ -327,7 +359,7 @@
                       <Index>3</Index>
                       <Name>VR ~ Mur Murs exterieurs</Name>
                       <Description />
-                      <Alpha>0</Alpha>
+                      <Alpha>45</Alpha>
                       <Beta>90</Beta>
                       <Ak>1.512</Ak>
                       <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
@@ -346,7 +378,7 @@
                       <Index>4</Index>
                       <Name>Mur Murs exterieurs</Name>
                       <Description />
-                      <Alpha>90</Alpha>
+                      <Alpha>135</Alpha>
                       <Beta>90</Beta>
                       <Ak>34.3</Ak>
                       <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
@@ -365,7 +397,7 @@
                       <Index>5</Index>
                       <Name>Mur Murs exterieurs</Name>
                       <Description />
-                      <Alpha>180</Alpha>
+                      <Alpha>225</Alpha>
                       <Beta>90</Beta>
                       <Ak>32.044</Ak>
                       <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
@@ -384,7 +416,7 @@
                       <Index>6</Index>
                       <Name>VR ~ Mur Murs exterieurs</Name>
                       <Description />
-                      <Alpha>180</Alpha>
+                      <Alpha>225</Alpha>
                       <Beta>90</Beta>
                       <Ak>1.372</Ak>
                       <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
@@ -403,7 +435,7 @@
                       <Index>7</Index>
                       <Name>Mur Murs exterieurs</Name>
                       <Description />
-                      <Alpha>270</Alpha>
+                      <Alpha>315</Alpha>
                       <Beta>90</Beta>
                       <Ak>19.305</Ak>
                       <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
@@ -508,7 +540,7 @@
                     </Lineaire>
                     <Lineaire>
                       <Index>3</Index>
-                      <Name>lineique 3 Pl. haut l&#233;ger facade</Name>
+                      <Name>lineique 3 Pl. haut léger facade</Name>
                       <Description />
                       <Is_Detail_Calcul>1</Is_Detail_Calcul>
                       <Alpha>180</Alpha>
@@ -522,7 +554,7 @@
                     </Lineaire>
                     <Lineaire>
                       <Index>4</Index>
-                      <Name>lineique 4 Pl. haut l&#233;ger pignon</Name>
+                      <Name>lineique 4 Pl. haut léger pignon</Name>
                       <Description />
                       <Is_Detail_Calcul>1</Is_Detail_Calcul>
                       <Alpha>180</Alpha>
@@ -912,7 +944,7 @@
                   <Baie_Collection>
                     <Baie>
                       <Index>1</Index>
-                      <Name>Vitrage PG PG$Porte &#224; &#226;me isolante RIGHINI Rigitherm 2 1 Huisserie Neolys</Name>
+                      <Name>Vitrage PG PG$Porte à âme isolante RIGHINI Rigitherm 2 1 Huisserie Neolys</Name>
                       <Description />
                       <Alpha>180</Alpha>
                       <Beta>90</Beta>
@@ -993,7 +1025,7 @@
                       <Index>2</Index>
                       <Name>Vitrage 120/105h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
                       <Description />
-                      <Alpha>0</Alpha>
+                      <Alpha>45</Alpha>
                       <Beta>90</Beta>
                       <Ab>1.26</Ab>
                       <Type_volume>1</Type_volume>
@@ -1072,7 +1104,7 @@
                       <Index>3</Index>
                       <Name>Vitrage 220/215h CO1$ALU_DV$Men. ALU MEN. FRANCAISES Prestance. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
                       <Description />
-                      <Alpha>0</Alpha>
+                      <Alpha>45</Alpha>
                       <Beta>90</Beta>
                       <Ab>4.73</Ab>
                       <Type_volume>1</Type_volume>
@@ -1151,7 +1183,7 @@
                       <Index>4</Index>
                       <Name>Vitrage 60/75 FE1$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). interc. chaud. sans volet</Name>
                       <Description />
-                      <Alpha>0</Alpha>
+                      <Alpha>45</Alpha>
                       <Beta>90</Beta>
                       <Ab>0.45</Ab>
                       <Type_volume>1</Type_volume>
@@ -1230,7 +1262,7 @@
                       <Index>5</Index>
                       <Name>Vitrage 100/105h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
                       <Description />
-                      <Alpha>0</Alpha>
+                      <Alpha>45</Alpha>
                       <Beta>90</Beta>
                       <Ab>2.1</Ab>
                       <Type_volume>1</Type_volume>
@@ -1309,7 +1341,7 @@
                       <Index>6</Index>
                       <Name>Vitrage 120/215h PF2$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
                       <Description />
-                      <Alpha>180</Alpha>
+                      <Alpha>225</Alpha>
                       <Beta>90</Beta>
                       <Ab>5.16</Ab>
                       <Type_volume>1</Type_volume>
@@ -1386,9 +1418,9 @@
                     </Baie>
                     <Baie>
                       <Index>7</Index>
-                      <Name>Vitrage PE PE$Porte ACIER &#224; occulus &#224; &#226;me isolante BEL'M Trap&#232;ze</Name>
+                      <Name>Vitrage PE PE$Porte ACIER à occulus à âme isolante BEL'M Trapèze</Name>
                       <Description />
-                      <Alpha>180</Alpha>
+                      <Alpha>225</Alpha>
                       <Beta>90</Beta>
                       <Ab>1.935</Ab>
                       <Type_volume>1</Type_volume>
@@ -1467,7 +1499,7 @@
                       <Index>8</Index>
                       <Name>Vitrage 50/305h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
                       <Description />
-                      <Alpha>180</Alpha>
+                      <Alpha>225</Alpha>
                       <Beta>90</Beta>
                       <Ab>1.525</Ab>
                       <Type_volume>1</Type_volume>
@@ -1546,7 +1578,7 @@
                       <Index>9</Index>
                       <Name>Vitrage 100/105h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
                       <Description />
-                      <Alpha>180</Alpha>
+                      <Alpha>225</Alpha>
                       <Beta>90</Beta>
                       <Ab>2.1</Ab>
                       <Type_volume>1</Type_volume>
@@ -1779,7 +1811,7 @@
           <Type_Prim>0</Type_Prim>
           <Lvc_Prim>0</Lvc_Prim>
           <Lhvc_Prim>0</Lhvc_Prim>
-          <Id_Gen>1</Id_Gen>
+          <Id_Gen>3</Id_Gen>
           <Id_Et>0</Id_Et>
           <Umoyen_Vc_Prim_Ch>0</Umoyen_Vc_Prim_Ch>
           <Umoyen_Hvc_Prim_Ch>0</Umoyen_Hvc_Prim_Ch>

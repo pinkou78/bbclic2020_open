@@ -89,8 +89,8 @@
     ],
     "donnees_technique": {
       "SHAB": 103.4,
-      "hauteur_plancher/exterieure": 0.20,
-      "hauteur_plancherVS/exterieure": 0.40,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
       "perimetreVS": 46.64,
       "surfaceVS": 123.70,
       "epaisseurVoile": 0.35,
@@ -196,8 +196,8 @@
     ],
     "donnees_technique": {
       "SHAB": 103.4,
-      "hauteur_plancher/exterieure": 0.20,
-      "hauteur_plancherVS/exterieure": 0.40,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
       "perimetreVS": 46.64,
       "surfaceVS": 123.70,
       "epaisseurVoile": 0.35,
@@ -218,7 +218,7 @@
     "image": ".\\data\\MI\\03\\00.png",
     "bbclic_interne": {
       "plancher_bas": true,
-      "plancher_intermediaire": false,
+      "plancher_intermediaire": true,
       "plancher_haut": false,
       "comble": true,
       "toiture_terrasse": false
@@ -300,8 +300,8 @@
     ],
     "donnees_technique": {
       "SHAB": 103.4,
-      "hauteur_plancher/exterieure": 0.20,
-      "hauteur_plancherVS/exterieure": 0.40,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
       "perimetreVS": 46.64,
       "surfaceVS": 123.70,
       "epaisseurVoile": 0.35,
@@ -406,8 +406,8 @@
     ],
     "donnees_technique": {
       "SHAB": 103.4,
-      "hauteur_plancher/exterieure": 0.20,
-      "hauteur_plancherVS/exterieure": 0.40,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
       "perimetreVS": 46.64,
       "surfaceVS": 123.70,
       "epaisseurVoile": 0.35,
@@ -512,8 +512,8 @@
     ],
     "donnees_technique": {
       "SHAB": 103.4,
-      "hauteur_plancher/exterieure": 0.20,
-      "hauteur_plancherVS/exterieure": 0.40,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
       "perimetreVS": 46.64,
       "surfaceVS": 123.70,
       "epaisseurVoile": 0.35,
