@@ -1273,21 +1273,24 @@
 	],
 
 	"jlst_pi_type" :[
-		{"id":0, "texte":"Dalle béton de 16cm","value":0},
-		{"id":1, "texte":"Plancher à entrevous béton","value":1},
-		{"id":2, "texte":"Plancher à entrevous PSE sans languette","value":2},
-		{"id":3, "texte":"Plancher à entrevous de coffrage bois","value":3},
-		{"id":4, "texte":"Plancher à entrevous de coffrage PVC","value":4}
+		{"id":0, "texte":"Dalle béton de 16cm","value":0.00},
+		{"id":1, "texte":"Plancher à entrevous béton","value":1.00},
+		{"id":2, "texte":"Plancher à entrevous PSE sans languette","value":2.00},
+		{"id":3, "texte":"Plancher à entrevous de coffrage bois","value":3.00},
+		{"id":4, "texte":"Plancher à entrevous de coffrage PVC","value":4.00}
 	],
-	"jlst_pi_epaisseur" :[
-		{"id":0, "texte":"12+4","value":0},
-		{"id":1, "texte":"16+4","value":1},
-		{"id":2, "texte":"12+5","value":2},
-		{"id":3, "texte":"16+5","value":3}
+	"jlst_pi_epaisseur1" :[
+		{"id":0, "texte":"12+4","value":1.00},
+		{"id":1, "texte":"16+4","value":2.00}
 	],
+	"jlst_pi_epaisseur2" :[
+		{"id":0, "texte":"12+5","value":3.00},
+		{"id":1, "texte":"16+5","value":4.00}
+	],
+	
 	"jlst_yesno" :[
-		{"id":0, "texte":"Non","value":0},
-		{"id":1, "texte":"Oui","value":1}
+		{"id":0, "texte":"Non","value":0.00},
+		{"id":1, "texte":"Oui","value":1.00}
 	],
 
 

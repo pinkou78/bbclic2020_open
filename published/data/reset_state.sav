@@ -14,7 +14,7 @@
       <radioButton_choixMI4>False</radioButton_choixMI4>
       <listeboxSysteme>-1</listeboxSysteme>
       <listeZoneClimatique>-1</listeZoneClimatique>
-      <listeAltitude>-1</listeAltitude>
+      <comboBoxAltitude>-1</comboBoxAltitude>
       <listeZoneDeBruit>-1</listeZoneDeBruit>
       <textBoxSaisieAngle>0</textBoxSaisieAngle>
     </typologie>

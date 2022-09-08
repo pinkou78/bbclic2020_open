@@ -23,5 +23,10 @@
 	"id": 4,
 	"texte": "Angle",
 	"valeur": "°"
+},
+{
+	"id": 5,
+	"texte": "Indice de perméabilité à l’air",
+	"valeur": "m³/(h.m²)"
 }
 ]
