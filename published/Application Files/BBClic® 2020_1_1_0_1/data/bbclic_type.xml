@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<group id="definition">
+		<data id="d01" color="0">Murs extérieurs</data>
+		<data id="d02" color="1">Murs sur locaux non chauffés</data>
+		<data id="d03" color="2">Coffres de volets roulant</data>
+		<data id="d04" color="3">Planchers bas</data>
+		<data id="d05" color="4">Planchers sur terre plein</data>
+		<data id="d06" color="5">Plafond</data>
+		<data id="d12" color="11">Menuiseries</data>
+		<data id="d07" color="6">Ponts thermique de planchers bas (L8)</data>
+		<data id="d08" color="7">Ponts thermique de planchers intermédiaires (L9)</data>
+		<data id="d09" color="8">Ponts thermique de planchers hauts (L10)</data>
+		<data id="d10" color="9">Ponts thermique de menuiseries</data>
+		<data id="d11" color="10">Autres ponts thermiques (verticaux)</data>		
+	</group>
+	<group id="paroi">
+		<data id="0" type="d01">Mur exterieur</data>
+		<data id="1" type="d02">Mur contre LNC</data>
+		<data id="2" type="d03">Mur VR</data>
+		<data id="3" type="d04">Plancher sur VS</data>
+		<data id="4" type="d06">Plafond</data>
+		<data id="5" type="d02">Mur de redressement</data>
+		<data id="6" type="d01">Mur jouee de lucarne</data>
+		<data id="7" type="d06">Plafond haut de pente</data>
+		<data id="8" type="d02">Plafond bas de pente</data>
+		<data id="9" type="d06">Plafond rampant</data>	
+	</group>
+	<group id="lineaire">
+		<data id="0" type="d07">Jonction plancher bas / facade</data>
+		<data id="1" type="d09">Jonction plafond / facade</data>
+		<data id="2" type="d07">Jonction plancher bas / LNC</data>
+		<data id="3" type="d09">Jonction plafond / LNC</data>
+		<data id="4" type="d10">Jonction vitrages</data>
+		<data id="5" type="d07">Jonction plancher bas / Refend VS</data>
+		<data id="6" type="d08">Jonction plancher intermediaire / facade</data>
+		<data id="7" type="d11">Jonction Angle rentrant</data>
+		<data id="8" type="d08">Jonction plancher intermediaire/ LNC</data>
+		<data id="9" type="d11">Jonction LNC / Refend RDC</data>
+		<data id="10" type="d09">Plancher intermediaire sous encuvements</data>
+	</group>
+	<group id="baie">
+		<data id="0" type="d12">Porte entrée</data>
+		<data id="1" type="d12">Porte LNC</data>
+		<data id="2" type="d12">Fenetre</data>
+		<data id="3" type="d12">Porte fenetre</data>
+		<data id="4" type="d12">Baie vitree</data>
+		<data id="5" type="d12">Fenetre de sdb</data>
+		<data id="6" type="d12">Fenetre de toit type 1</data>
+		<data id="7" type="d12">Fenetre de toit type 2</data>
+		<data id="8" type="d12">Fenetre specifique</data>
+	</group>
+</root>

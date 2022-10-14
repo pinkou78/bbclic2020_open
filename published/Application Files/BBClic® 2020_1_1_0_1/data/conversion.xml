@@ -1,0 +1,88 @@
+<root>
+	<groupe id="0">
+		<name>simulation</name>
+		<localisation>/Projet/Simu</localisation>
+		<noeuds>
+			<parametre id="valeurDepartement">Departement</parametre>
+			<parametre id="valeurAltitude">Altitude</parametre>
+		</noeuds>
+	</groupe>
+	<groupe id="1">
+		<name>groupe</name>
+		<localisation>/Projet/Batiment_Collection/Batiment/Zone_Collection/Zone/Groupe_Collection/Groupe</localisation>
+		<noeuds>
+			<parametre id="categorieCE">Categorie_CE</parametre>
+			<parametre id="valeurBR">Exp_BR_Groupe</parametre>
+		</noeuds>
+	</groupe>
+	<groupe id="2">
+		<name>paroi_opaque</name>
+		<localisation>/Projet/Batiment_Collection/Batiment/Zone_Collection/Zone/Groupe_Collection/Groupe/Paroi_opaque_Collection/Paroi_Opaque</localisation>
+		<noeuds>
+			<parametre>Alpha</parametre>
+			<parametre>Uk</parametre>
+			<parametre>Sf_ek</parametre>
+			<parametre>Sf_ck</parametre>
+		</noeuds>
+	</groupe>
+	<groupe id="3">
+		<name>lineaire</name>
+		<localisation>/Projet/Batiment_Collection/Batiment/Zone_Collection/Zone/Groupe_Collection/Groupe/Lineaire_Collection/Lineaire</localisation>
+		<noeuds>
+			<parametre>Alpha</parametre>
+			<parametre>Psil</parametre>
+			<parametre>Sf_el</parametre>
+			<parametre>Sf_cl</parametre>
+		</noeuds>
+	</groupe>
+	<groupe id="4">
+		<name>Inertie</name>
+		<localisation>/Projet/Batiment_Collection/Batiment/Zone_Collection/Zone/Groupe_Collection/Groupe/Inertie</localisation>
+		<noeuds>
+			<parametre id="classe_Iq">Type_Inertie_Quotidienne</parametre>
+			<parametre id="Inertie_Amq">Amq_surf</parametre>
+			<parametre id="Inertie_Cmq">Cmq_surf</parametre>
+			<parametre id="classe_Is">Type_Inertie_Sequentielle</parametre>
+			<parametre id="Inertie_Ams">Ams_surf</parametre>
+			<parametre id="Inertie_Cms">Cms_surf</parametre>
+			<parametre id="classe_Ia">Type_Inertie_Annuelle</parametre>
+			<parametre id="Inertie_Ama">Ama_surf</parametre>
+			<parametre id="Inertie_Cma">Cma_surf</parametre>
+		</noeuds>
+	</groupe>	
+	<groupe id="5">
+		<name>Permeabilite</name>
+		<localisation>/Projet/Batiment_Collection/Batiment/Zone_Collection/Zone/Groupe_Collection/Groupe/Permeabilite</localisation>
+		<noeuds>
+			<parametre id="valeurQ4PaSurf">Q4PaSurf</parametre>
+		</noeuds>
+	</groupe>
+	<groupe id="6">
+		<name>Baie</name>
+		<localisation>/Projet/Batiment_Collection/Batiment/Zone_Collection/Zone/Groupe_Collection/Groupe/Baie_Collection/Baie</localisation>
+		<noeuds>
+			<parametre>Alpha</parametre>
+			<parametre>Choix_PM_GPM</parametre>
+			<parametre>Typo_Permea_PM</parametre>
+			<parametre>Uap_Vert</parametre>
+			<parametre>Usp_Vert</parametre>
+			<parametre>Uap_Horiz</parametre>
+			<parametre>Usp_Horiz</parametre>
+			<parametre>Sw1_sp_c</parametre>
+			<parametre>Sw2_sp_c</parametre>
+			<parametre>Sw3_sp_c</parametre>
+			<parametre>Sw1_sp_e</parametre>
+			<parametre>Sw2_sp_e</parametre>
+			<parametre>Sw3_sp_e</parametre>
+			<parametre>Tli_sp</parametre>
+			<parametre>Tlid_sp</parametre>
+			<parametre>Sw1_ap</parametre>
+			<parametre>Sw2_ap</parametre>
+			<parametre>Sw3_ap</parametre>
+			<parametre>Tli_ap</parametre>
+			<parametre>Tlid_ap</parametre>
+			<parametre>Type_Horl</parametre>
+			<parametre>Exp_BR</parametre>
+		</noeuds>
+	</groupe>
+</root>
