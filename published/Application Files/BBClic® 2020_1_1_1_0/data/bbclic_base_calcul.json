@@ -1,0 +1,123 @@
+{
+	"coefficient_absorption_solaire_paroi_vegetalise" :[
+		{"texte":"Extensive", "value":0.70},
+		{"texte":"Semi_intensive", "value": 0.40}],
+	"resistance_thermique_additionnelle_vegetalise" : [
+		{
+			"type_drain": "Polystyrene",
+			"type_vegetalise" : [
+				{
+					"nom": "Extensive",
+					"epaisseur": "6cm",
+					"Rveg" : 0.60
+				},
+				{
+					"nom": "Semi_intensive",
+					"epaisseur": "14cm",
+					"Rveg" : 0.45
+				}
+			]
+		},
+				{
+			"type_drain": "autres type",
+			"type_vegetalise" : [
+				{
+					"nom": "Extensive",
+					"epaisseur": "6cm",
+					"Rveg" : 0.15
+				},
+				{
+					"nom": "Semi_intensive",
+					"epaisseur": "14cm",
+					"Rveg" : 0.30
+				}
+			]
+		}
+	],
+	"classe_climatique_thermique" :[
+		{
+			"code":"H1a",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 75},{"texte": "non","value": 25}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 50},{"texte": "non","value": 20}]}
+			]
+		},
+		{
+			"code":"H1b",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 75},{"texte": "non","value": 25}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 50},{"texte": "non","value": 20}]}
+			]
+		},
+		{
+			"code":"H1c",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 75},{"texte": "non","value": 25}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 50},{"texte": "non","value": 20}]}
+			]
+		},
+		{
+			"code":"H2a",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 35},{"texte": "non","value": 10}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 20},{"texte": "non","value": 10}]}
+			]
+		},
+		{
+			"code":"H2b",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 35},{"texte": "non","value": 10}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 20},{"texte": "non","value": 10}]}
+			]
+		},
+		{
+			"code":"H2c",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 35},{"texte": "non","value": 10}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 20},{"texte": "non","value": 10}]}
+			]
+		},
+		{
+			"code":"H2d",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 20},{"texte": "non","value": 5}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 15},{"texte": "non","value": 5}]}
+			]
+		},
+		{
+			"code":"H3",
+			"type_vegetalise" : [
+				{"nom": "Extensive","irrigation": [{"texte": "oui","value": 20},{"texte": "non","value": 5}]},
+				{"nom": "Semi_intensive","irrigation": [{"texte": "oui","value": 15},{"texte": "non","value": 5}]}
+			]
+		}
+	],
+	"resistance_superficielle":[
+		{
+			"type": "Horizontal",
+			"liste" : [
+				{"nom": "Rsi", "value": 0.10},
+				{"nom": "Rsi-c", "value": 0.10},
+				{"nom": "Rsi-e", "value": 0.10},
+				{"nom": "Rse", "value": 0.04},
+				{"nom": "Rse-c", "value": 0.04},
+				{"nom": "Rse-e", "value": 0.07}
+			]
+		}
+	],
+	"performance_thermique_generic":[
+		{
+			"usage": "isolant thermique",
+			"liste": [
+						{"nom": "Polyurethane","donnees" : [{"conductivite_thermique" : 0.022}]},
+						{"nom": "Polystyrene","donnees" : [{"conductivite_thermique" : 0.038}]}
+					]
+		},
+				{
+			"usage": "divers",
+			"liste": [
+						{"nom": "plaque de platre","donnees" : [{"resistance_thermique" : 0.040}]},
+					]
+		}
+	]
+}

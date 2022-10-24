@@ -1,0 +1,159 @@
+[
+	{
+		"id":0,
+		"type":"paroi",
+		"name":"Bloc creux - granulats courants - maçonné - R=0.23 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":0.23},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}
+		]
+	},
+	{
+		"id":1,
+		"type":"paroi",
+		"name":"Bloc creux - granulats courants - collé - R=0.29 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":0.29},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}	
+		]
+	},
+	{
+		"id":2,
+		"type":"paroi",
+		"name":"Bloc creux - multialveolaire - granulats leger - R=1.00 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":1.00},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}
+		]
+	},
+	{
+		"id":3,
+		"type":"paroi",
+		"name":"Bloc creux - isolant intégré - collé - R=1.00 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":1.00},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}
+		]
+	},
+	{
+		"id":4,
+		"type":"paroi",
+		"name":"Bloc creux - isolant intégré - collé - R=1.50 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":1.50},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}
+		]
+	},
+	{
+		"id":5,
+		"type":"paroi",
+		"name":"Bloc creux - isolant intégré - collé - R=2.00 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":2.00},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}
+		]
+	},
+	{
+		"id":6,
+		"type":"paroi",
+		"name":"Bloc béton cellulaire - R=1.50 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":1.50},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}
+		]
+	},
+	{
+		"id":7,
+		"type":"paroi",
+		"name":"Bloc béton cellulaire - R=2.00 (m².K)/W",
+		"values":[
+			{"valuename": "Rthermique", "value":2.00},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":"paroi"},
+			{"groupename":"soubassement"}
+		]
+	},
+	{
+		"id":8,
+		"type":"",
+		"name":"",
+		"values":[
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":""},
+			{"groupename":""},
+			{"groupename":""}
+		]
+	},
+	{
+		"id":9,
+		"type":"",
+		"name":"",
+		"values":[
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":""},
+			{"groupename":""},
+			{"groupename":""}
+		]
+	},
+	{
+		"id":10,
+		"type":"",
+		"name":"",
+		"values":[
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00},
+			{"valuename": "", "value":0.00}
+		],
+		"groupeofuse":[
+			{"groupename":""},
+			{"groupename":""},
+			{"groupename":""}
+		]
+	},
+]
