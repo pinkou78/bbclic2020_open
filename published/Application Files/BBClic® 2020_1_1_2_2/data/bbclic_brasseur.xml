@@ -1,0 +1,19 @@
+<Brasseur_Air_Collection>
+  <Brasseur_Air>
+    <Index>1</Index>
+    <Name>VENTILBSMT01001   Ultra Plat# 0#</Name>
+    <Description />
+    <Nb>3</Nb>
+    <Rat_surf>0.39</Rat_surf>
+    <Rat_Us>0</Rat_Us>
+    <Us>0</Us>
+    <Mode_gestion_brasseur>0</Mode_gestion_brasseur>
+    <Delta_theta_op_auto_thermostat>0 0 0</Delta_theta_op_auto_thermostat>
+    <Delta_theta_op_auto>0 0 0</Delta_theta_op_auto>
+    <Theta_op_dec_auto>0</Theta_op_dec_auto>
+    <Type_Qv_air_max>0</Type_Qv_air_max>
+    <Qv_air_max>11893</Qv_air_max>
+    <Type_P_elec_max>0</Type_P_elec_max>
+    <P_elec_max>43</P_elec_max>
+  </Brasseur_Air>
+</Brasseur_Air_Collection>

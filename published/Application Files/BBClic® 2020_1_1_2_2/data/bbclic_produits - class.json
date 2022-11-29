@@ -1,0 +1,569 @@
+[
+	{
+		"id": 0,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc creux - granulats courants - maçonné - R=0.23 (m².K)/W",
+		"values":
+		[
+			{"name": "Rthermique","value": 0.23},
+			{"name": "","value": 0.00},
+			{"name": "","value": 0.00}
+		],
+		"groupeofuse":
+		[
+			{"name": "paroi"},
+			{"name": "soubassement"}
+		],
+		"donnees_inertie": 
+			{
+				"pts_standard": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePH": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB_thermique": {"pts_Quotidienne": 1,"pts_Sequentielle": 0}
+			}
+	},
+	{
+		"id": 1,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc creux - granulats courants - collé - R=0.29 (m².K)/W",
+		"values": 
+		[
+			{"name": "Rthermique","value": 0.29},
+			{"name": "","value": 0.00},
+			{"name": "","value": 0.00}
+		],
+		"groupeofuse":
+		[
+			{"name": "paroi"},
+			{"name": "soubassement"}
+		],
+		"donnees_inertie":
+			{
+				"pts_standard": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePH": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB_thermique": {"pts_Quotidienne": 1,"pts_Sequentielle": 0}
+			}
+	},
+	{
+		"id": 2,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc creux - multialveolaire - granulats leger - R=1.00 (m².K)/W",
+		"values":
+		[
+			{"name": "Rthermique","value": 1.00},
+			{"name": "","value": 0.00},
+			{"name": "","value": 0.00}
+		],
+		"groupeofuse":
+		[
+			{"name": "paroi"},
+			{"name": "soubassement"}
+		],
+		"donnees_inertie":
+			{
+				"pts_standard": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePH": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB_thermique": {"pts_Quotidienne": 1,"pts_Sequentielle": 0}
+			}
+	},
+	{
+		"id": 3,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc creux - isolant intégré - collé - R=1.00 (m².K)/W",
+		"values":
+		[
+			{"name": "Rthermique","value": 1.00},
+			{"name": "","value": 0.00},
+			{"name": "","value": 0.00}
+		],
+		"groupeofuse":
+		[
+			{ "name": "paroi" },
+			{ "name": "soubassement" }
+		],
+		"donnees_inertie":
+			{
+				"pts_standard": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePH": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB_thermique": {"pts_Quotidienne": 1,"pts_Sequentielle": 0}
+			}
+	},
+	{
+		"id": 4,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc creux - isolant intégré - collé - R=1.50 (m².K)/W",
+		"values": 
+		[
+			{"name": "Rthermique","value": 1.50},
+			{"name": "","value": 0.00},
+			{"name": "","value": 0.00}
+		],
+		"groupeofuse":
+		[
+			{ "name": "paroi" },
+			{ "name": "soubassement" }
+		],
+		"donnees_inertie":
+			{
+				"pts_standard": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePH": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB_thermique": {"pts_Quotidienne": 1,"pts_Sequentielle": 0}
+			}
+	},
+	{
+		"id": 5,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc creux - isolant intégré - collé - R=2.00 (m².K)/W",
+		"values":
+		[
+			{"name": "Rthermique","value": 2.00},
+			{"name": "","value": 0.00},
+			{"name": "","value": 0.00}
+		],
+		"groupeofuse":
+		[
+			{ "name": "paroi" },
+			{ "name": "soubassement" }
+		],
+		"donnees_inertie":
+			{
+				"pts_standard": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePH": {"pts_Quotidienne": 1,"pts_Sequentielle": 0},
+				"pts_facePB_thermique": {"pts_Quotidienne": 1,"pts_Sequentielle": 0}
+			}
+	},
+	{
+		"id": 6,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc béton cellulaire - R=1.50 (m².K)/W",
+		"values": [
+			{
+				"name": "Rthermique",
+				"value": 1.50
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "paroi" },
+			{ "name": "soubassement" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 7,
+		"guid_produit": "",
+		"type": "paroi",
+		"name": "Bloc béton cellulaire - R=2.00 (m².K)/W",
+		"values": [
+			{
+				"name": "Rthermique",
+				"value": 2.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "paroi" },
+			{ "name": "soubassement" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 1,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 8,
+		"guid_produit": "",
+		"type": "isolation",
+		"name": "Isolant Polyuréthane (λ=0.022 W/(m.K))",
+		"values": [
+			{
+				"name": "lambda",
+				"value": 0.022
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "toiture-terrasse" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 9,
+		"guid_produit": "",
+		"type": "isolation",
+		"name": "Isolant Polystyrène (λ=0.038 W/(m.K))",
+		"values": [
+			{
+				"name": "lambda",
+				"value": 0.038
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "toiture-terrasse" },
+			{ "name": "" },
+			{ "name": "" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 10,
+		"guid_produit": "454B7C65-638F-428A-A037-C8961BBAD4C7",
+		"type": "plancher",
+		"name": "Dalle béton de 16cm",
+		"values": [
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "plancher_bas" },
+			{ "name": "plancher_intermediaire" },
+			{ "name": "toiture-terrasse" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 6,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 6,
+				"pts_Sequentielle": 4
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 4,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 11,
+		"guid_produit": "149F6ABF-81E5-469B-88BA-E20D70473452",
+		"type": "plancher",
+		"name": "Plancher à entrevous béton",
+		"values": [
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "plancher_bas" },
+			{ "name": "plancher_intermediaire" },
+			{ "name": "toiture-terrasse" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 5,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 2,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 4,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 12,
+		"guid_produit": "EFE2B3C8-D6FC-468C-B1B0-D1E90ADF5B00",
+		"type": "plancher",
+		"name": "Plancher à entrevous PSE",
+		"values": [
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "plancher_bas" },
+			{ "name": "plancher_intermediaire" },
+			{ "name": "toiture-terrasse" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 5,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 2,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 4,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 13,
+		"guid_produit": "2BBD9C54-C32F-465F-A6AA-D091E392818B",
+		"type": "plancher",
+		"name": "Plancher à entrevous de coffrage bois",
+		"values": [
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "plancher_bas" },
+			{ "name": "plancher_intermediaire" },
+			{ "name": "toiture-terrasse" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 5,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 2,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 4,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 14,
+		"guid_produit": "35A05394-CC55-4DA6-B499-D169B67E7397",
+		"type": "plancher",
+		"name": "Plancher à entrevous de coffrage PVC",
+		"values": [
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			},
+			{
+				"name": "",
+				"value": 0.00
+			}
+		],
+		"groupeofuse": [
+			{ "name": "plancher_bas" },
+			{ "name": "plancher_intermediaire" },
+			{ "name": "toiture-terrasse" }
+		],
+		"donnees_inertie": {
+			"pts_standard": {
+				"pts_Quotidienne": 0,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB": {
+				"pts_Quotidienne": 5,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePH": {
+				"pts_Quotidienne": 2,
+				"pts_Sequentielle": 0
+			},
+			"pts_facePB_thermique": {
+				"pts_Quotidienne": 4,
+				"pts_Sequentielle": 0
+			}
+		}
+	},
+	{
+		"id": 15,
+		"guid_produit": "",
+		"type": "divers",
+		"name": "Plaque de platre type BA13",
+		"values": [
+			{
+				"name": "lambda",
+				"value": 0.25
+			},
+			{
+				"name": "Rthermique",
+				"value": 0.04
+			}
+		],
+		"groupeofuse": [
+			{ "name": "divers" }
+		]
+	},
+	{
+		"id": 16,
+		"guid_produit": "",
+		"type": "divers",
+		"name": "Enduit EXT",
+		"values": [
+			{
+				"name": "lambda",
+				"value": 0.87
+			},
+			{
+				"name": "Rthermique",
+				"value": 0.03
+			}
+		],
+		"groupeofuse": [
+			{ "name": "divers" }
+		]
+	}
+]

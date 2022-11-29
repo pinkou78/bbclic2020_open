@@ -1,0 +1,68 @@
+﻿Version actuelle : 1.1.2
+Date : 24/11/2022
+Description
+
+Ajout Maison Individuelle R+1 Toiture-terrasse.
+Ajout option brasseur d'air.
+Modifications affichage du résultat du calcul.
+Optimisation code source.
+
+*-*-*-*-*-*-*
+
+Version : 1.1.1
+Date : 24/10/2022
+Description
+
+Correctif RSET Maison R+1 entrainant un calcul erroné.
+
+*-*-*-*-*-*-*
+
+Version : 1.1.0
+Date : 14/10/2022
+Description
+
+Ajout modèles Maisons individuelles.
+Recalage des valeurs types des menuiseries.
+Blocage du calcul RT si manques des informations.
+Optimisations des calculs des resultats thermiques.
+Optimisations code sources.
+
+*-*-*-*-*-*-*
+
+Version 1.0.3
+Date : 07/09/2022
+Description :
+
+Ajout des calculs Psi planchers intermédiaires.
+Ajout calcul Psi9.
+Ajout calcul des deperditions + Ubat.
+Ajout interface des vues et plans des batiments.
+Ajout interface de suivi des versions.
+Affichage du tableau des valeurs interactif.
+Ajustement liste altitude selon choix département.
+Modifications des fonctions de sauvegarde et chargement de fichiers.
+Mise à jour du moteur de calcul CSTB en version 2022.2.1.0
+
+
+*-*-*-*-*-*-*
+
+Version 1.0.2
+Date 29/07/2022
+Description
+
+Ajout calcul Ic energies.
+Ajout interface d'analyse des résultats.
+Modification des menus "Menuiseries".
+Modifications des fonctions de sauvegarde et chargement de fichiers.
+Mise à jour du moteur de calcul CSTB en version 2022.2.0.0
+Application avec installation "Clickonce"
+Intégration des mises à jour de l'application en automatique.
+
+*-*-*-*-*-*-*
+
+Versions précedentes : 1.0.0
+date de publication : 17/06/2022
+Description :
+
+Première mise à disposition de l'outil avec uniquement calcul thermique sur une maison individuelle de type plain-pied.
+
