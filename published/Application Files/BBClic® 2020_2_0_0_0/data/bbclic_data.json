@@ -1,0 +1,1935 @@
+{
+	"jlst_departement": [
+		{
+			"id": 1,
+			"texte": "01- Ain",
+			"classe": "H1c",
+			"value": 1,
+			"altmini": 1,
+			"altmaxi": 17
+		},
+		{
+			"id": 2,
+			"texte": "02- Aisne",
+			"classe": "H1a",
+			"value": 2,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 3,
+			"texte": "03- Allier",
+			"classe": "H1c",
+			"value": 3,
+			"altmini": 1,
+			"altmaxi": 12
+		},
+		{
+			"id": 4,
+			"texte": "04- Alpes-de-Haute-Provence",
+			"classe": "H2d",
+			"value": 4,
+			"altmini": 2,
+			"altmaxi": 34
+		},
+		{
+			"id": 5,
+			"texte": "05- Hautes-Alpes",
+			"classe": "H1c",
+			"value": 5,
+			"altmini": 4,
+			"altmaxi": 41
+		},
+		{
+			"id": 6,
+			"texte": "06- Alpes-Maritimes",
+			"classe": "H3",
+			"value": 6,
+			"altmini": 0,
+			"altmaxi": 31
+		},
+		{
+			"id": 7,
+			"texte": "07- Ardèche",
+			"classe": "H2c",
+			"value": 7,
+			"altmini": 0,
+			"altmaxi": 17
+		},
+		{
+			"id": 8,
+			"texte": "08- Ardennes",
+			"classe": "H1b",
+			"value": 8,
+			"altmini": 0,
+			"altmaxi": 5
+		},
+		{
+			"id": 9,
+			"texte": "09- Ariège",
+			"classe": "H2c",
+			"value": 9,
+			"altmini": 1,
+			"altmaxi": 31
+		},
+		{
+			"id": 10,
+			"texte": "10- Aube",
+			"classe": "H1b",
+			"value": 10,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 11,
+			"texte": "11-Aude",
+			"classe": "H3",
+			"value": 11,
+			"altmini": 0,
+			"altmaxi": 24
+		},
+		{
+			"id": 12,
+			"texte": "12- Aveyron",
+			"classe": "H2c",
+			"value": 12,
+			"altmini": 1,
+			"altmaxi": 14
+		},
+		{
+			"id": 13,
+			"texte": "13- Bouches-du-Rhône",
+			"classe": "H3",
+			"value": 13,
+			"altmini": 0,
+			"altmaxi": 10
+		},
+		{
+			"id": 14,
+			"texte": "14- Calvados",
+			"classe": "H1a",
+			"value": 14,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 15,
+			"texte": "15- Cantal",
+			"classe": "H1c",
+			"value": 15,
+			"altmini": 1,
+			"altmaxi": 18
+		},
+		{
+			"id": 16,
+			"texte": "16- Charente",
+			"classe": "H2b",
+			"value": 16,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 17,
+			"texte": "17- Charente-Maritime",
+			"classe": "H2b",
+			"value": 17,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 18,
+			"texte": "18- Cher",
+			"classe": "H2b",
+			"value": 18,
+			"altmini": 0,
+			"altmaxi": 5
+		},
+		{
+			"id": 19,
+			"texte": "19- Corrèze",
+			"classe": "H1c",
+			"value": 19,
+			"altmini": 0,
+			"altmaxi": 9
+		},
+		{
+			"id": 99,
+			"texte": "2A- Corse-du-Sud",
+			"classe": "H3",
+			"value": 99,
+			"altmini": 0,
+			"altmaxi": 24
+		},
+		{
+			"id": 100,
+			"texte": "2B- Haute-Corse",
+			"classe": "H3",
+			"value": 100,
+			"altmini": 0,
+			"altmaxi": 27
+		},
+		{
+			"id": 21,
+			"texte": "21- Côte-d'Or",
+			"classe": "H1c",
+			"value": 21,
+			"altmini": 1,
+			"altmaxi": 7
+		},
+		{
+			"id": 22,
+			"texte": "22- Côtes d'Armor",
+			"classe": "H2a",
+			"value": 22,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 23,
+			"texte": "23- Creuse",
+			"classe": "H1c",
+			"value": 23,
+			"altmini": 1,
+			"altmaxi": 9
+		},
+		{
+			"id": 24,
+			"texte": "24- Dordogne",
+			"classe": "H2c",
+			"value": 24,
+			"altmini": 0,
+			"altmaxi": 4
+		},
+		{
+			"id": 25,
+			"texte": "25- Doubs",
+			"classe": "H1c",
+			"value": 25,
+			"altmini": 2,
+			"altmaxi": 14
+		},
+		{
+			"id": 26,
+			"texte": "26- Drôme",
+			"classe": "H2d",
+			"value": 26,
+			"altmini": 0,
+			"altmaxi": 24
+		},
+		{
+			"id": 27,
+			"texte": "27- Eure",
+			"classe": "H1a",
+			"value": 27,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 28,
+			"texte": "28- Eure-et-Loir",
+			"classe": "H1a",
+			"value": 28,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 29,
+			"texte": "29- Finistère",
+			"classe": "H2a",
+			"value": 29,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 30,
+			"texte": "30- Gard",
+			"classe": "H3",
+			"value": 30,
+			"altmini": 0,
+			"altmaxi": 15
+		},
+		{
+			"id": 31,
+			"texte": "31- Haute-Garonne",
+			"classe": "H2c",
+			"value": 31,
+			"altmini": 0,
+			"altmaxi": 32
+		},
+		{
+			"id": 32,
+			"texte": "32- Gers",
+			"classe": "H2c",
+			"value": 32,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 33,
+			"texte": "33- Gironde",
+			"classe": "H2c",
+			"value": 33,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 34,
+			"texte": "34- Hérault",
+			"classe": "H3",
+			"value": 34,
+			"altmini": 0,
+			"altmaxi": 11
+		},
+		{
+			"id": 35,
+			"texte": "35- lle-et-Vilaine",
+			"classe": "H2a",
+			"value": 35,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 36,
+			"texte": "36- Indre",
+			"classe": "H2b",
+			"value": 36,
+			"altmini": 0,
+			"altmaxi": 4
+		},
+		{
+			"id": 37,
+			"texte": "37- Indre-et-Loire",
+			"classe": "H2b",
+			"value": 37,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 38,
+			"texte": "38- Isère",
+			"classe": "H1c",
+			"value": 38,
+			"altmini": 1,
+			"altmaxi": 40
+		},
+		{
+			"id": 39,
+			"texte": "39- Jura",
+			"classe": "H1c",
+			"value": 39,
+			"altmini": 1,
+			"altmaxi": 14
+		},
+		{
+			"id": 40,
+			"texte": "40- Landes",
+			"classe": "H2c",
+			"value": 40,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 41,
+			"texte": "41- Loir-et-Cher",
+			"classe": "H2b",
+			"value": 41,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 42,
+			"texte": "42- Loire",
+			"classe": "H1c",
+			"value": 42,
+			"altmini": 1,
+			"altmaxi": 16
+		},
+		{
+			"id": 43,
+			"texte": "43- Haute-Loire",
+			"classe": "H1c",
+			"value": 43,
+			"altmini": 3,
+			"altmaxi": 17
+		},
+		{
+			"id": 44,
+			"texte": "44- Loire-Atlantique",
+			"classe": "H2b",
+			"value": 44,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 45,
+			"texte": "45- Loiret",
+			"classe": "H1b",
+			"value": 45,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 46,
+			"texte": "46- Lot",
+			"classe": "H2c",
+			"value": 46,
+			"altmini": 0,
+			"altmaxi": 7
+		},
+		{
+			"id": 47,
+			"texte": "47- Lot-et-Garonne",
+			"classe": "H2c",
+			"value": 47,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 48,
+			"texte": "48- Lozère",
+			"classe": "H2d",
+			"value": 48,
+			"altmini": 1,
+			"altmaxi": 16
+		},
+		{
+			"id": 49,
+			"texte": "49- Maine-et-Loire",
+			"classe": "H2b",
+			"value": 49,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 50,
+			"texte": "50- Manche",
+			"classe": "H2a",
+			"value": 50,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 51,
+			"texte": "51- Marne",
+			"classe": "H1b",
+			"value": 51,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 52,
+			"texte": "52- Haute-Marne",
+			"classe": "H1b",
+			"value": 52,
+			"altmini": 1,
+			"altmaxi": 5
+		},
+		{
+			"id": 53,
+			"texte": "53- Mayenne",
+			"classe": "H2b",
+			"value": 53,
+			"altmini": 0,
+			"altmaxi": 4
+		},
+		{
+			"id": 54,
+			"texte": "54- Meurthe-et-Moselle",
+			"classe": "H1b",
+			"value": 54,
+			"altmini": 1,
+			"altmaxi": 7
+		},
+		{
+			"id": 55,
+			"texte": "55- Meuse",
+			"classe": "H1b",
+			"value": 55,
+			"altmini": 1,
+			"altmaxi": 4
+		},
+		{
+			"id": 56,
+			"texte": "56- Morbihan",
+			"classe": "H2a",
+			"value": 56,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 57,
+			"texte": "57- Moselle",
+			"classe": "H1b",
+			"value": 57,
+			"altmini": 1,
+			"altmaxi": 9
+		},
+		{
+			"id": 58,
+			"texte": "58- Nièvre",
+			"classe": "H1b",
+			"value": 58,
+			"altmini": 1,
+			"altmaxi": 8
+		},
+		{
+			"id": 59,
+			"texte": "59- Nord",
+			"classe": "H1a",
+			"value": 59,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 60,
+			"texte": "60- Oise",
+			"classe": "H1a",
+			"value": 60,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 61,
+			"texte": "61- Orne",
+			"classe": "H1a",
+			"value": 61,
+			"altmini": 0,
+			"altmaxi": 4
+		},
+		{
+			"id": 62,
+			"texte": "62- Pas-de-Calais",
+			"classe": "H1a",
+			"value": 62,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 63,
+			"texte": "63- Puy-de-Dôme",
+			"classe": "H1c",
+			"value": 63,
+			"altmini": 2,
+			"altmaxi": 18
+		},
+		{
+			"id": 64,
+			"texte": "64- Pyrénées-Atlantiques",
+			"classe": "H2c",
+			"value": 64,
+			"altmini": 0,
+			"altmaxi": 29
+		},
+		{
+			"id": 65,
+			"texte": "65- Hautes-Pyrénées",
+			"classe": "H2c",
+			"value": 65,
+			"altmini": 1,
+			"altmaxi": 32
+		},
+		{
+			"id": 66,
+			"texte": "66- Pyrénées-Orientales",
+			"classe": "H3",
+			"value": 66,
+			"altmini": 0,
+			"altmaxi": 29
+		},
+		{
+			"id": 67,
+			"texte": "67- Bas-Rhin",
+			"classe": "H1b",
+			"value": 67,
+			"altmini": 1,
+			"altmaxi": 10
+		},
+		{
+			"id": 68,
+			"texte": "68- Haut-Rhin",
+			"classe": "H1b",
+			"value": 68,
+			"altmini": 1,
+			"altmaxi": 14
+		},
+		{
+			"id": 69,
+			"texte": "69- Rhône",
+			"classe": "H1c",
+			"value": 69,
+			"altmini": 1,
+			"altmaxi": 10
+		},
+		{
+			"id": 70,
+			"texte": "70- Haute-Saône",
+			"classe": "H1b",
+			"value": 70,
+			"altmini": 1,
+			"altmaxi": 12
+		},
+		{
+			"id": 71,
+			"texte": "71- Saône-et-Loire",
+			"classe": "H1c",
+			"value": 71,
+			"altmini": 1,
+			"altmaxi": 9
+		},
+		{
+			"id": 72,
+			"texte": "72- Sarthe",
+			"classe": "H2b",
+			"value": 72,
+			"altmini": 0,
+			"altmaxi": 3
+		},
+		{
+			"id": 73,
+			"texte": "73- Savoie",
+			"classe": "H1c",
+			"value": 73,
+			"altmini": 2,
+			"altmaxi": 38
+		},
+		{
+			"id": 74,
+			"texte": "74- Haute-Savoie",
+			"classe": "H1c",
+			"value": 74,
+			"altmini": 2,
+			"altmaxi": 48
+		},
+		{
+			"id": 75,
+			"texte": "75- Paris",
+			"classe": "H1a",
+			"value": 75,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 76,
+			"texte": "76- Seine-Maritime",
+			"classe": "H1a",
+			"value": 76,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 77,
+			"texte": "77- Seine-et-Marne",
+			"classe": "H1a",
+			"value": 77,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 78,
+			"texte": "78- Yvelines",
+			"classe": "H1a",
+			"value": 78,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 79,
+			"texte": "79- Deux-Sèvres",
+			"classe": "H2b",
+			"value": 79,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 80,
+			"texte": "80- Somme",
+			"classe": "H1a",
+			"value": 80,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 81,
+			"texte": "81- Tarn",
+			"classe": "H2c",
+			"value": 81,
+			"altmini": 0,
+			"altmaxi": 12
+		},
+		{
+			"id": 82,
+			"texte": "82- Tarn-et-Garonne",
+			"classe": "H2c",
+			"value": 82,
+			"altmini": 0,
+			"altmaxi": 5
+		},
+		{
+			"id": 83,
+			"texte": "83- Var",
+			"classe": "H3",
+			"value": 83,
+			"altmini": 0,
+			"altmaxi": 17
+		},
+		{
+			"id": 84,
+			"texte": "84- Vaucluse",
+			"classe": "H2d",
+			"value": 84,
+			"altmini": 0,
+			"altmaxi": 19
+		},
+		{
+			"id": 85,
+			"texte": "85- Vendée",
+			"classe": "H2b",
+			"value": 85,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 86,
+			"texte": "86- Vienne",
+			"classe": "H2b",
+			"value": 86,
+			"altmini": 0,
+			"altmaxi": 2
+		},
+		{
+			"id": 87,
+			"texte": "87- Haute-Vienne",
+			"classe": "H1c",
+			"value": 87,
+			"altmini": 1,
+			"altmaxi": 7
+		},
+		{
+			"id": 88,
+			"texte": "88- Vosges",
+			"classe": "H1b",
+			"value": 88,
+			"altmini": 2,
+			"altmaxi": 13
+		},
+		{
+			"id": 89,
+			"texte": "89- Yonne",
+			"classe": "H1b",
+			"value": 89,
+			"altmini": 0,
+			"altmaxi": 6
+		},
+		{
+			"id": 90,
+			"texte": "90- Territoire de Belfort",
+			"classe": "H1b",
+			"value": 90,
+			"altmini": 3,
+			"altmaxi": 12
+		},
+		{
+			"id": 91,
+			"texte": "91- Essonne",
+			"classe": "H1a",
+			"value": 91,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 92,
+			"texte": "92- Hauts-de-Seine",
+			"classe": "H1a",
+			"value": 92,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 93,
+			"texte": "93- Seine-St-Denis",
+			"classe": "H1a",
+			"value": 93,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 94,
+			"texte": "94- Val-de-Marne",
+			"classe": "H1a",
+			"value": 94,
+			"altmini": 0,
+			"altmaxi": 1
+		},
+		{
+			"id": 95,
+			"texte": "95- Val-D'Oise",
+			"classe": "H1a",
+			"value": 95,
+			"altmini": 0,
+			"altmaxi": 2
+		}
+	],
+	"jlst_altitude": [
+		{
+			"id": 0,
+			"texte": "Entre 0m et 400m inclus",
+			"value": 0
+		},
+		{
+			"id": 1,
+			"texte": "Entre 400m et 800m inclus",
+			"value": 1
+		},
+		{
+			"id": 2,
+			"texte": "Supérieure à 800m",
+			"value": 2
+		}
+	],
+	"jcoefficient_a_zc": [
+		{
+			"id": 0,
+			"texte": "H1a",
+			"value": 1.30
+		},
+		{
+			"id": 1,
+			"texte": "H1b",
+			"value": 1.30
+		},
+		{
+			"id": 2,
+			"texte": "H1c",
+			"value": 1.20
+		},
+		{
+			"id": 3,
+			"texte": "H2a",
+			"value": 1.10
+		},
+		{
+			"id": 4,
+			"texte": "H2b",
+			"value": 1.00
+		},
+		{
+			"id": 5,
+			"texte": "H2c",
+			"value": 0.90
+		},
+		{
+			"id": 6,
+			"texte": "H2d",
+			"value": 0.90
+		},
+		{
+			"id": 7,
+			"texte": "H3",
+			"value": 0.80
+		}
+	],
+	"jlst_orientation": [
+		{
+			"id": 0,
+			"texte": "Sud/Nord",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"texte": "Est/Ouest",
+			"value": 0.00
+		},
+		{
+			"id": 2,
+			"texte": "Nord/Sud",
+			"value": 0.00
+		},
+		{
+			"id": 3,
+			"texte": "Ouest/Est",
+			"value": 0.00
+		}
+	],
+	"jlst_zonebruit": [
+		{
+			"id": 0,
+			"texte": "BR1 (par défaut)",
+			"value": 1
+		},
+		{
+			"id": 1,
+			"texte": "BR2",
+			"value": 2
+		},
+		{
+			"id": 2,
+			"texte": "BR3",
+			"value": 3
+		}
+	],
+	"jlst_structure": [
+		{
+			"id": 0,
+			"guid_produit": "6F8CB49C-41B5-4B28-ADA5-2B244518AC19",
+			"texte": "Blocs creux – granulats courants – maçonnés – B40",
+			"value": 0.23,
+			"choix_psil": 0,
+			"type": 0
+		},
+		{
+			"id": 1,
+			"guid_produit": "D7859845-4B5D-46CB-A19B-5FC9D4C3DBF3",
+			"texte": "Blocs creux – granulats courants – maçonnés – B60",
+			"value": 0.23,
+			"choix_psil": 0,
+			"type": 0
+		},
+		{
+			"id": 2,
+			"guid_produit": "2C76BFA8-DA46-4698-B334-A5216A60FC9E",
+			"texte": "Blocs creux – granulats courants – collés – B40",
+			"value": 0.29,
+			"choix_psil": 1,
+			"type": 0
+		},
+		{
+			"id": 3,
+			"guid_produit": "68FD2FF6-3546-43B5-A2B0-D097E6DC9335",
+			"texte": "Blocs creux – granulats courants – collés – B60",
+			"value": 0.29,
+			"choix_psil": 1,
+			"type": 0
+		},
+		{
+			"id": 4,
+			"guid_produit": "",
+			"texte": "Bloc creux - multialveolaire - granulats leger - R=1.00 (m².K)/W",
+			"value": 1.00,
+			"choix_psil": 2,
+			"type": 0
+		},
+		{
+			"id": 5,
+			"guid_produit": "",
+			"texte": "Bloc creux - isolant intégré - collé - R=1.00 (m².K)/W",
+			"value": 1.00,
+			"choix_psil": 3,
+			"type": 1
+		},
+		{
+			"id": 6,
+			"guid_produit": "",
+			"texte": "Bloc creux - isolant intégré - collé - R=1.50 (m².K)/W",
+			"value": 1.50,
+			"choix_psil": 4,
+			"type": 1
+		},
+		{
+			"id": 7,
+			"guid_produit": "",
+			"texte": "Bloc creux - isolant intégré - collé - R=2.00 (m².K)/W",
+			"value": 2.00,
+			"choix_psil": 5,
+			"type": 1
+		},
+		{
+			"id": 8,
+			"guid_produit": "",
+			"texte": "Bloc béton cellulaire - R=1.50 (m².K)/W",
+			"value": 1.50,
+			"choix_psil": 6,
+			"type": 1
+		},
+		{
+			"id": 9,
+			"guid_produit": "",
+			"texte": "Bloc béton cellulaire - R=2.00 (m².K)/W",
+			"value": 2.00,
+			"choix_psil": 7,
+			"type": 1
+		}
+	],
+	"jlst_epaisseur_isolant": [
+		{
+			"id": 0,
+			"texte": " 8 cm",
+			"value": 0.08
+		},
+		{
+			"id": 1,
+			"texte": "10 cm",
+			"value": 0.10
+		},
+		{
+			"id": 2,
+			"texte": "12 cm",
+			"value": 0.12
+		},
+		{
+			"id": 3,
+			"texte": "14 cm",
+			"value": 0.14
+		},
+		{
+			"id": 4,
+			"texte": "16 cm",
+			"value": 0.16
+		}
+	],
+	"jlst_typeisolant": [
+		{
+			"id": 0,
+			"guid_produit":"641EBBB4-8D95-4A83-ABA5-E33B5BCCDC2B",
+			"texte": "Doublage sur ossature laine de verre (λ = 0,032 W/(m.K))",
+			"value": 0.032
+		},
+		{
+			"id": 1,
+			"guid_produit":"5884E78A-A9F4-4AD4-900C-E72D5D9ECCAF",
+			"texte": "Doublage collé PSE (λ = 0,032 W/(m.K))",
+			"value": 0.032
+		},
+		{
+			"id": 2,
+			"guid_produit":"D77765BB-B2DC-4A60-BE2E-9F721BFB8E9B",
+			"texte": "Doublage collé PSE (λ = 0,030 W/(m.K))",
+			"value": 0.030
+		},
+		{
+			"id": 3,
+			"guid_produit":"328ACC72-D7E5-49DE-A9DD-37D7C70A97BA",
+			"texte": "Doublage collé Polyuréthane (λ = 0,022 W/(m.K))",
+			"value": 0.022
+		},
+		{
+			"id": 4,
+			"guid_produit":"4AAA6794-88C4-4885-B141-FFF504D121D9",
+			"texte": "Doublage collé laine de roche (λ = 0,036 W/(m.K))",
+			"value": 0.036
+		},
+		{
+			"id": 5,
+			"guid_produit":"58C61547-3E45-49D9-8593-876BCC762B96",
+			"texte": "Doublage sur ossature fibre de bois (λ = 0,038 W/(m.K))",
+			"value": 0.038
+		}
+
+
+	],
+	"jlst_couleur_facade": [
+		{
+			"id": 0,
+			"texte": "Ton clair",
+			"value": 0.40
+		},
+		{
+			"id": 1,
+			"texte": "Ton moyen",
+			"value": 0.60
+		},
+		{
+			"id": 2,
+			"texte": "Ton sombre",
+			"value": 0.80
+		},
+		{
+			"id": 3,
+			"texte": "Ton noir",
+			"value": 1.00
+		}
+	],
+	"jlst_menuiserie_performance": [
+		{
+			"id": 0,
+			"guid_produit": "58E1ED6C-8A93-4829-879E-62C62CD36D52",
+			"texte": "Basse",
+			"value": 1.00
+		},
+		{
+			"id": 1,
+			"guid_produit": "EEBB4402-567C-4DAF-B11F-410BCB2CFD95",
+			"texte": "Standard",
+			"value": 2.00
+		},
+		{
+			"id": 2,
+			"guid_produit": "405F98D8-F9EB-4CB9-BA98-BEF49957CF5F",
+			"texte": "Haute",
+			"value": 3.00
+		}
+	],
+	"jlst_mex_volets":[
+		{
+			"id": 0,
+			"guid_produit": "F91D8D4B-CD45-410A-871B-BEECAAE3CE68",
+			"texte": "Volets battants",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"guid_produit": "B5260A30-10F9-413A-B1D0-D30C0889B7D1",
+			"texte": "Volets roulants",
+			"value": 1.00
+		},
+		{
+			"id": 2,
+			"guid_produit": "5EA99DE0-F83C-44B7-BAF4-10F44A7828D7",
+			"texte": "Volets persiennes",
+			"value": 3.00
+		},
+		{
+			"id": 3,
+			"guid_produit": "2AD830A5-29EC-414D-B47C-669BB41CDE15",
+			"texte": "Stores",
+			"value": 5.00
+		}
+	],
+	"jlst_mex_mode":[
+		{"id":0,"texte": "Manuelle", "value" : 0.00},
+		{"id":1,"texte": "Automatique", "value" : 1.00}
+	],
+	"jlst_mex_PmFt":[
+		{"id":2,"texte": "Volet roulants", "value" : 1.00},
+		{"id":5,"texte": "Store interieur", "value" : 5.00}
+	],
+
+	"jlst_menuiserie_protection_mobile": [
+		{
+			"id": 0,
+			"texte": "Pas de protection mobile",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"texte": "Autre cas avec gestion Automatique",
+			"value": 1.00
+		},
+		{
+			"id": 2,
+			"texte": "Autre cas avec gestion Manuelle Non Motorisée",
+			"value": 2.00
+		},
+		{
+			"id": 3,
+			"texte": "Autre cas avec gestion Manuelle Motorisée",
+			"value": 3.00
+		},
+		{
+			"id": 4,
+			"texte": "Store enroulable avec gestion Automatique",
+			"value": 4.00
+		},
+		{
+			"id": 5,
+			"texte": "Store enroulable avec gestion Manuelle Non Motorisée",
+			"value": 5.00
+		},
+		{
+			"id": 6,
+			"texte": "Store enroulable avec gestion Manuelle Motorisée",
+			"value": 6.00
+		}
+	],
+	"jlst_menuiserie_permeabilite_protection_solaire": [
+		{
+			"id": 0,
+			"texte": "Volets ajourés(par défaut)",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"texte": "Volets roulants",
+			"value": 1.00
+		},
+		{
+			"id": 2,
+			"texte": "Lames Verticales",
+			"value": 2.00
+		},
+		{
+			"id": 3,
+			"texte": "Volets Persiennes",
+			"value": 3.00
+		},
+		{
+			"id": 4,
+			"texte": "Brises soleil Horizontaux",
+			"value": 4.00
+		},
+		{
+			"id": 5,
+			"texte": "Protections mobiles perméables",
+			"value": 5.00
+		}
+	],
+	"jlst_menuiserie_horloge_protection_mobiles": [
+		{
+			"id": 0,
+			"texte": "Pas de distinction Jour/Nuit",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"texte": "Horloge Crepusculaire",
+			"value": 1.00
+		}
+	],
+	"jlst_U_coffret_VR": [
+		{
+			"id": 0,
+			"texte": "U= 1.50 W/(m².K)",
+			"value": 1.50
+		},
+		{
+			"id": 1,
+			"texte": "U= 1.00 W/(m².K)",
+			"value": 1.00
+		},
+		{
+			"id": 2,
+			"texte": "U= 0.50 W/(m².K)",
+			"value": 0.50
+		}
+	],
+	"jlst_permeabilite_air": [
+		{
+			"id": 0,
+			"texte": "0.6 m³/(h.m²)",
+			"value": 0.6
+		},
+		{
+			"id": 1,
+			"texte": "0.5 m³/(h.m²)",
+			"value": 0.5
+		},
+		{
+			"id": 2,
+			"texte": "0.4 m³/(h.m²)",
+			"value": 0.4
+		},
+		{
+			"id": 3,
+			"texte": "0.3 m³/(h.m²)",
+			"value": 0.3
+		}
+	],
+	"jlst_cloison_int": [
+		{
+			"id": 0,
+			"guid_produit":"C59A7DB8-ADC9-4361-9E0A-EE886CAA68F7",
+			"texte": "BA13 sur ossature 72/48",
+			"value": 2
+		},
+		{
+			"id": 1,
+			"guid_produit":"FF6855D4-81F8-4D3A-AFAC-8468F949CF6C",
+			"texte": "Cloison alvéolaire carton avec parement BA10",
+			"value": 2
+		},
+		{
+			"id": 2,
+			"guid_produit":"BD7EB50D-4436-4036-BB7D-9EB8406CAEB1",
+			"texte": "Carreaux de platres plein 6 cm",
+			"value": 4
+		},
+		{
+			"id": 3,
+			"guid_produit":"3E4AE162-1D02-4934-93B2-4DF54FE9AA5F",
+			"texte": "Blocs pleins en béton 7.5cm + enduits 2 faces",
+			"value": 7
+		},
+		{
+			"id": 4,
+			"guid_produit":"783396DE-8610-41A7-AB04-94F6477A81DF",
+			"texte": "Blocs perforé en béton de 10 cm enduit",
+			"value": 8
+		}
+	],
+	"jlst_type_plancher_bas": [
+		{
+			"id": 0,
+			"guid_produit": "D54FE3D1-88A1-4C4D-B13F-19A160A5B874",
+			"texte": "Dalle béton pleine 16cm sur VS",
+			"value": 2.380
+		},
+		{
+			"id": 1,
+			"guid_produit": "93D84CA5-B17C-4ACF-8906-A7FD7D0A5A0A",
+			"texte": "Entrevous béton 12+4",
+			"value": 2.127
+		},
+		{
+			"id": 2,
+			"guid_produit": "162D9A10-FF82-4AA7-9C57-C67987CC479D",
+			"texte": "Entrevous PSE 12+5 - Up= 0.27 W/(m².K)",
+			"value": 0.270
+		},
+		{
+			"id": 3,
+			"guid_produit": "223A3221-DA6E-4AA2-BD69-4CB12357468D",
+			"texte": "Entrevous PSE 12+5 - Up= 0.23 W/(m².K)",
+			"value": 0.230
+		},
+		{
+			"id": 4,
+			"guid_produit": "3FDBE679-77EC-47DC-AB71-E7AC96F52FD4",
+			"texte": "Entrevous PSE 12+5 - Up= 0.19 W/(m².K)",
+			"value": 0.190
+		},
+		{
+			"id": 5,
+			"guid_produit": "CC776579-66F2-4CBE-BE5A-F7FDA74D6774",
+			"texte": "Entrevous PSE 12+5 - Up= 0.15 W/(m².K)",
+			"value": 0.150
+		},
+		{
+			"id": 6,
+			"guid_produit": "D37EF00A-2A34-41FE-BE77-1D37AA89A76F",
+			"texte": "Entrevous PSE 12+5 - Up= 0.13 W/(m².K)",
+			"value": 0.130
+		}
+	],
+	"jlst_type_plancher_intermediaire": [
+		{
+			"id": 0,
+			"guid_produit":"",
+			"texte": "Dalle béton pleine 16cm",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"guid_produit":"",
+			"texte": "Entrevous béton 12+4",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"guid_produit":"",
+			"texte": "Entrevous béton 16+4",
+			"value": 0.00
+		},
+		{
+			"id": 2,
+			"guid_produit":"",
+			"texte": "Entrevous PSE sans languette 12+4",
+			"value": 0.00
+		},
+		{
+			"id": 2,
+			"guid_produit":"",
+			"texte": "Entrevous PSE sans languette 16+4",
+			"value": 0.00
+		},
+		{
+			"id": 3,
+			"guid_produit":"",
+			"texte": "Entrevous de coffrage bois 12+4",
+			"value": 0.00
+		},
+		{
+			"id": 3,
+			"guid_produit":"",
+			"texte": "Entrevous de coffrage bois 16+4",
+			"value": 0.00
+		},
+		{
+			"id": 3,
+			"guid_produit":"",
+			"texte": "Entrevous de coffrage PVC 12+4",
+			"value": 0.00
+		},
+		{
+			"id": 4,
+			"guid_produit":"",
+			"texte": "Entrevous de coffrage PVC 16+4",
+			"value": 0.00
+		}
+	],
+
+	"jlst_pi_type" :[
+		{"id":0,"guid_produit": "", "texte":"Dalle béton de 16cm","value":0.00},
+		{"id":1,"guid_produit": "", "texte":"Plancher à entrevous béton","value":1.00},
+		{"id":2,"guid_produit": "", "texte":"Plancher à entrevous PSE sans languette","value":2.00},
+		{"id":3,"guid_produit": "", "texte":"Plancher à entrevous de coffrage bois","value":3.00},
+		{"id":4,"guid_produit": "", "texte":"Plancher à entrevous de coffrage PVC","value":4.00}
+	],
+	"jlst_pi_epaisseur1" :[
+		{"id":0, "texte":"12+4","value":1.00},
+		{"id":1, "texte":"16+4","value":2.00}
+	],
+	"jlst_pi_epaisseur2" :[
+		{"id":0, "texte":"12+5","value":3.00},
+		{"id":1, "texte":"16+5","value":4.00}
+	],
+	
+	"jlst_yesno" :[
+		{"id":0, "texte":"Non","value":0.00},
+		{"id":1, "texte":"Oui","value":1.00}
+	],
+
+
+	"jlst_complement_sur_plancher": [
+		{
+			"id": 0,
+			"guid_produit":"BC790245-1C56-4E77-9DF8-C7B1A6FFC561",
+			"texte": "Sans",
+			"value": 0.02
+		},
+		{
+			"id": 1,
+			"guid_produit":"7053D6BE-E622-497A-9C3F-3B03BB317E54",
+			"texte": "Isolation sous chape flottante - R= 1.00 (m².K)/W",
+			"value": 1.00
+		},
+		{
+			"id": 2,
+			"guid_produit":"5C31F850-6876-4426-A289-AA6C815E5C39",
+			"texte": "Isolation sous chape flottante - R= 2.00 (m².K)/W",
+			"value": 2.00
+		},
+		{
+			"id": 3,
+			"guid_produit":"19B4AAC1-BC4E-49A4-A414-457CB93777E8",
+			"texte": "Isolation sous chape flottante - R= 3.00 (m².K)/W",
+			"value": 3.00
+		},
+		{
+			"id": 4,
+			"guid_produit":"7FC6AB55-BE51-424F-B219-FB96615ADD72",
+			"texte": "Isolation sous chape flottante - R= 4.00 (m².K)/W",
+			"value": 4.00
+		},
+		{
+			"id": 5,
+			"guid_produit":"957EDE03-20B7-4045-8D7B-13A936BD034E",
+			"texte": "Isolation sous chape flottante - R= 5.00 (m².K)/W",
+			"value": 5.00
+		}
+	],
+	"jlst_complement_sous_plancher": [
+		{
+			"id": 0,
+			"texte": "Sans",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"texte": "Plafond suspendu",
+			"value": 0.00
+		},
+		{
+			"id": 2,
+			"texte": "Plafond suspendu isolé",
+			"value": 0.00
+		}
+	],
+	"jlst_jonction_facade": [
+		{
+			"id": 0,
+			"guid_produit":"B162B1F4-3E2B-4078-A3AD-B46ACA164CC2",
+			"texte": "Planelle traditionnelle R= 0.07 (m².K)/W",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"guid_produit":"6C7C9400-627E-4D2D-8C67-6ABCCA406285",
+			"texte": "Planelle isolante R= 0.50 (m².K)/W",
+			"value": 1.00
+		},
+		{
+			"id": 2,
+			"guid_produit":"FA8FEAA8-4BB3-48C6-BA06-60A602065B54",
+			"texte": "Planelle isolante R= 1.00 (m².K)/W",
+			"value": 2.00
+		},
+		{
+			"id": 3,
+			"guid_produit":"20DB8C34-D99C-47C0-BE37-C97658367C9D",
+			"texte": "Planelle isolante en béton cellulaire R= 0.50 (m².K)/W",
+			"value": 3.00
+		},
+		{
+			"id": 4,
+			"guid_produit":"47484B94-8152-4899-BF51-AE0B2A15FFBE",
+			"texte": "Rupteur total + planelle traditionnelle R= 0.07 (m².K)/W",
+			"value": 4.00
+		},
+		{
+			"id": 5,
+			"guid_produit":"815B1525-35B2-4357-8635-28F5D4227C73",
+			"texte": "Rupteur total + Planelle isolante R= 0.50 (m².K)/W",
+			"value": 5.00
+		},
+		{
+			"id": 6,
+			"guid_produit":"F7846328-CDDA-4696-B4EF-A7FA4B8D4353",
+			"texte": "Rupteur total + Planelle isolante R= 1.00 (m².K)/W",
+			"value": 6.00
+		},
+		{
+			"id": 7,
+			"guid_produit":"3A52D90E-AD61-4A96-AD5D-3EC9D6115775",
+			"texte": "Rupteur total + Planelle isolante en béton cellulaire R= 0.50 (m².K)/W",
+			"value": 7.00
+		}
+	],
+	"jlst_jonction_refend": [
+		{
+			"id": 0,
+			"texte": "Maçonnerie courante",
+			"value": 0.00
+		},
+		{
+			"id": 1,
+			"texte": "Maçonnerie courante isolée 2 faces",
+			"value": 0.00
+		},
+		{
+			"id": 2,
+			"texte": "Maçonnerie isolante 'type a' R=1.00",
+			"value": 0.00
+		},
+		{
+			"id": 3,
+			"texte": "Maçonnerie isolante 'type a' isolée 2 faces",
+			"value": 0.00
+		}
+	],
+	"jlst_plancher_haut_type_isolant": [
+		{
+			"id": 0,
+			"guid_produit":"0872AC8B-DAF5-44CA-A148-EA989CF0574E",
+			"texte": "laine de verre déroulée - λ = 0.040 W/(m.K)",
+			"value": 0.040
+		},
+		{
+			"id": 1,
+			"guid_produit":"064EA1EE-F8D5-4D73-BB5E-161C7E75DA1A",
+			"texte": "laine de verre soufflée - λ = 0.046 W/(m.K)",
+			"value": 0.046
+		}
+	],
+	"jlst_comble_amenages": [
+		{
+			"id": 0,
+			"guid_produit":"0872AC8B-DAF5-44CA-A148-EA989CF0574E",
+			"texte": "laine de verre déroulée - λ = 0.040 W/(m.K)",
+			"value": 0.040
+		}
+	],
+
+	"jlst_epaisseur_isolant_ph": [
+		{
+			"id": 0,
+			"texte": "20 cm",
+			"value": 0.20
+		},
+		{
+			"id": 1,
+			"texte": "25 cm",
+			"value": 0.25
+		},
+		{
+			"id": 2,
+			"texte": "30 cm",
+			"value": 0.30
+		},
+		{
+			"id": 3,
+			"texte": "35 cm",
+			"value": 0.35
+		},
+		{
+			"id": 4,
+			"texte": "40 cm",
+			"value": 0.40
+		},
+		{
+			"id": 5,
+			"texte": "45 cm",
+			"value": 0.45
+		},
+		{
+			"id": 6,
+			"texte": "50 cm",
+			"value": 0.50
+		}
+	],
+	"jlst_r_isolant_ph": [
+		{
+			"id": 0,
+			"texte": "7.00 (m².K)/W",
+			"value": 7.00
+		},
+		{
+			"id": 1,
+			"texte": "7.50 (m².K)/W",
+			"value": 7.50
+		},
+		{
+			"id": 2,
+			"texte": "8.00 (m².K)/W",
+			"value": 8.00
+		},
+		{
+			"id": 3,
+			"texte": "8.50 (m².K)/W",
+			"value": 8.50
+		},
+		{
+			"id": 4,
+			"texte": "9.00 (m².K)/W",
+			"value": 9.00
+		},
+		{
+			"id": 5,
+			"texte": "9.50 (m².K)/W",
+			"value": 9.50
+		},
+		{
+			"id": 6,
+			"texte": "10.00 (m².K)/W",
+			"value": 10.00
+		},
+		{
+			"id": 7,
+			"texte": "10.50 (m².K)/W",
+			"value": 10.50
+		},
+		{
+			"id": 8,
+			"texte": "11.00 (m².K)/W",
+			"value": 11.00
+		},
+		{
+			"id": 9,
+			"texte": "11.50 (m².K)/W",
+			"value": 11.50
+		},
+		{
+			"id": 10,
+			"texte": "12.00 (m².K)/W",
+			"value": 12.00
+		}
+	],
+	"jlst_revetement_sol": [
+		{
+			"id": 0,
+			"guid_produit": "",
+			"texte": "Sans",
+			"value": 4
+		},
+		{
+			"id": 1,
+			"guid_produit": "033A6397-9660-4E92-B79E-5C08D2DB9C9E",
+			"texte": "Carrelage collé",
+			"value": 4
+		},
+		{
+			"id": 2,
+			"guid_produit": "44FC863B-99E3-41AB-834E-63F6F370C487",
+			"texte": "Parquet flottant",
+			"value": 5
+		},
+		{
+			"id": 3,
+			"guid_produit": "2A6D6837-A3B3-418C-BC90-BE79871B6CEB",
+			"texte": "Moquette",
+			"value": 5
+		},
+		{
+			"id": 4,
+			"guid_produit": "65164E11-D79D-4D25-AA3D-21178D258244",
+			"texte": "Revêtement de sol souple",
+			"value": 5
+		}
+	],
+	"jlst_classe_inertie_quotidienne": [
+		{
+			"id": 0,
+			"texte": "Sans",
+			"value": 0.000,
+			"amq": 0.00,
+			"cmq": 0,
+			"classe": 0
+		},
+		{
+			"id": 1,
+			"texte": "TLeg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 80,
+			"classe": 1
+		},
+		{
+			"id": 2,
+			"texte": "TLeg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 80,
+			"classe": 1
+		},
+		{
+			"id": 3,
+			"texte": "TLeg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 80,
+			"classe": 1
+		},
+		{
+			"id": 4,
+			"texte": "TLeg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 80,
+			"classe": 1
+		},
+		{
+			"id": 5,
+			"texte": "TLeg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 80,
+			"classe": 1
+		},
+		{
+			"id": 6,
+			"texte": "TLeg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 80,
+			"classe": 1
+		},
+		{
+			"id": 7,
+			"texte": "Leg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 110,
+			"classe": 2
+		},
+		{
+			"id": 8,
+			"texte": "Leg",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 110,
+			"classe": 2
+		},
+		{
+			"id": 9,
+			"texte": "Moy",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 165,
+			"classe": 3
+		},
+		{
+			"id": 10,
+			"texte": "Moy",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 165,
+			"classe": 3
+		},
+		{
+			"id": 11,
+			"texte": "Moy",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 165,
+			"classe": 3
+		},
+		{
+			"id": 12,
+			"texte": "Moy",
+			"value": 0.000,
+			"amq": 2.5,
+			"cmq": 165,
+			"classe": 3
+		},
+		{
+			"id": 13,
+			"texte": "Lourd",
+			"value": 0.000,
+			"amq": 3.0,
+			"cmq": 260,
+			"classe": 4
+		},
+		{
+			"id": 14,
+			"texte": "Lourd",
+			"value": 0.000,
+			"amq": 3.0,
+			"cmq": 260,
+			"classe": 4
+		},
+		{
+			"id": 15,
+			"texte": "Lourd",
+			"value": 0.000,
+			"amq": 3.0,
+			"cmq": 260,
+			"classe": 4
+		},
+		{
+			"id": 16,
+			"texte": "Lourd",
+			"value": 0.000,
+			"amq": 3.0,
+			"cmq": 260,
+			"classe": 4
+		},
+		{
+			"id": 17,
+			"texte": "Lourd",
+			"value": 0.000,
+			"amq": 3.0,
+			"cmq": 260,
+			"classe": 4
+		},
+		{
+			"id": 18,
+			"texte": "Lourd",
+			"value": 0.000,
+			"amq": 3.0,
+			"cmq": 260,
+			"classe": 4
+		},
+		{
+			"id": 19,
+			"texte": "TLou",
+			"value": 0.000,
+			"amq": 3.5,
+			"cmq": 370,
+			"classe": 5
+		},
+		{
+			"id": 20,
+			"texte": "Tlou",
+			"value": 0.000,
+			"amq": 3.5,
+			"cmq": 370,
+			"classe": 5
+		}
+	],
+	"lst_RplancherComble":[
+		{"type":0, "epaisseur":0, "isolation":0, "valeurR": 0.080},
+		{"type":1, "epaisseur":1, "isolation":0, "valeurR": 0.290},
+		{"type":1, "epaisseur":1, "isolation":1, "valeurR": 1.630},
+		{"type":1, "epaisseur":2, "isolation":0, "valeurR": 0.310},
+		{"type":1, "epaisseur":2, "isolation":1, "valeurR": 1.650},
+		{"type":2, "epaisseur":3, "isolation":0, "valeurR": 0.680},
+		{"type":2, "epaisseur":3, "isolation":1, "valeurR": 2.020},
+		{"type":2, "epaisseur":4, "isolation":0, "valeurR": 0.710},
+		{"type":2, "epaisseur":4, "isolation":1, "valeurR": 2.050},
+		{"type":3, "epaisseur":3, "isolation":0, "valeurR": 0.185},
+		{"type":3, "epaisseur":3, "isolation":1, "valeurR": 1.525},
+		{"type":3, "epaisseur":4, "isolation":0, "valeurR": 0.185},
+		{"type":3, "epaisseur":4, "isolation":1, "valeurR": 1.525},
+		{"type":4, "epaisseur":3, "isolation":0, "valeurR": 0.185},
+		{"type":4, "epaisseur":3, "isolation":1, "valeurR": 1.525},
+		{"type":4, "epaisseur":4, "isolation":0, "valeurR": 0.185},
+		{"type":4, "epaisseur":4, "isolation":1, "valeurR": 1.525}
+
+	],
+	"lst_pts_inertie": [
+		{
+			"texte": "Tlegere",
+			"pts_quot": 5,
+			"pts_quotM": 6,
+			"pts_seq": 0,
+			"pts_seqM": 14,
+			"pts_annuel": 0,
+			"pts_annuelM": 35
+		},
+		{
+			"texte": "Legere",
+			"pts_quot": 7,
+			"pts_quotM": 8,
+			"pts_seq": 15,
+			"pts_seqM": 22,
+			"pts_annuel": 36,
+			"pts_annuelM": 130
+		},
+		{
+			"texte": "Moyenne",
+			"pts_quot": 9,
+			"pts_quotM": 12,
+			"pts_seq": 23,
+			"pts_seqM": 34,
+			"pts_annuel": 131,
+			"pts_annuelM": 998
+		},
+		{
+			"texte": "Lourde",
+			"pts_quot": 13,
+			"pts_quotM": 18,
+			"pts_seq": 35,
+			"pts_seqM": 998,
+			"pts_annuel": 999
+		},
+		{
+			"texte": "Tlourde",
+			"pts_quot": 19,
+			"pts_quotM": 999,
+			"pts_seq": 999,
+			"pts_seqM": 1000,
+			"pts_annuel": 999
+		}
+	],
+	"lst_inertie_define": [
+		{
+			"texte": "Tlegere",
+			"value" :  1,
+			"AMQ": 2.5,
+			"AMS": 2.5,
+			"AMA": 2.5,
+			"CMQ": 80,
+			"CMS": 80,
+			"CMA": 80
+		},
+		{
+			"texte": "Legere",
+			"value": 2,
+			"AMQ": 2.5,
+			"AMS": 2.0,
+			"AMA": 1.0,
+			"CMQ": 110,
+			"CMS": 260,
+			"CMA": 2000
+		},
+		{
+			"texte": "Moyenne",
+			"value": 3,
+			"AMQ": 2.5,
+			"AMS": 2.5,
+			"AMA": 1.0,
+			"CMQ": 165,
+			"CMS": 500,
+			"CMA": 6000
+		},
+		{
+			"texte": "Lourde",
+			"value": 4,
+			"AMQ": 3.0,
+			"AMS": 3.0,
+			"AMA": 0.0,
+			"CMQ": 260,
+			"CMS": 850,
+			"CMA": 9999
+		},
+		{
+			"texte": "Tlourde",
+			"value": 5,
+			"AMQ": 3.5,
+			"AMS": 0.0,
+			"AMA": 0.0,
+			"CMQ": 370,
+			"CMS": 9999,
+			"CMA": 9999
+		}
+	]
+
+}

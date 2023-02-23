@@ -1,0 +1,2077 @@
+[
+	{
+		"Categorie": "Definition",
+		"Parametre": "ChoixMaison",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_ListeMaisons",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Definition",
+		"Parametre": "ChoixSysteme",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeboxSysteme",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto": [
+				{
+					"Lot": 8,
+					"Indicateur_CO2": 0.00
+				},
+				{
+					"Lot": 13,
+					"Indicateur_CO2": 0.00
+				}
+			],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Definition",
+		"Parametre": "ChoixBrasseur",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBox_BrasseurAir",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 8,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Implantation",
+		"Parametre": "ChoixZoneClimatique",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeZoneClimatique",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Implantation",
+		"Parametre": "ChoixAltitude",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBoxAltitude",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Implantation",
+		"Parametre": "ChoixZoneBruit",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeZoneDeBruit",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Implantation",
+		"Parametre": "ChoixAngle",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "textBoxSaisieAngle",
+			"Type": "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Paroi",
+		"Parametre": "ChoixMode",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "modeParoi",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Paroi",
+		"Parametre": "Structure",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeStructure",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode":"Avancé",
+			"Nom" : "valeurRStructure_avance",
+			"Type": "TextBox",
+			"Valeur":"",
+			"Datatype": "Double",
+			"ValeurConvert" : ""
+		}
+	],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 3,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "Structure",
+					"Lot" : 3,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Paroi",
+		"Parametre": "Isolation",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeTypeIsolant",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode": "Simple",
+			"Nom" : "listeEpaisseurIsolant",
+			"Type" : "ComboBox",
+			"Valeur" :"",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "valeurRIsolant_avance",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 5,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "Isolation",
+					"Lot" : 5,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Paroi",
+		"Parametre": "ChoixCouleur",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeCouleurFacade",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "valeurCas_avance",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}
+	],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Soubassement",
+		"Parametre": "ChoixMode",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "modeSoubassement",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Soubassement",
+		"Parametre": "Structure",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeSoubassementStructure",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "textBoxRSoubassement",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 2,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "Structure",
+					"Lot" : 2,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Soubassement",
+		"Parametre": "ChoixIsolationRefend",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBoxIsolationRefend",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 2,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "Isolation",
+					"Lot" : 2,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Soubassement",
+		"Parametre": "PsiPlancherBasRefend",
+		"Control" : [{
+			"Mode" : "Avancé",
+			"Nom" : "textBoxPsiPlancherBasRefend",
+			"Type": "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Avancé",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixFenetre",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeMenuiseriesPerformance",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 6,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 6,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixPorteFenetre",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeMenuiseriesPerformance",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 6,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 6,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixPorteEntree",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeMenuiseriesPerformance",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 6,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 6,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixPorteGarage",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeMenuiseriesPerformance",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 6,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 6,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixProtectionMobile",
+		"Control": [
+			{
+				"Mode": "Simple",
+				"Nom": "comboBoxChoixProtectionSolaire",
+				"Type": "ComboBox",
+				"Valeur": "",
+				"Datatype": "Int",
+				"ValeurConvert": ""
+			},
+			{
+				"Mode": "Simple",
+				"Nom": "comboBoxModeGestion",
+				"Type": "ComboBox",
+				"Valeur": "",
+				"Datatype": "Int",
+				"ValeurConvert": ""
+			},
+			{
+				"Mode": "Simple",
+				"Nom": "checkBoxMotorisation",
+				"Type": "CheckBox",
+				"Valeur": "",
+				"Datatype": "Bool",
+				"ValeurConvert": ""
+			}
+		],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 6,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixHorloge",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBoxHorloge",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixMotorisation",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBoxMotorisation",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixModeGestion",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBoxModeGestion",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Menuiseries",
+		"Parametre": "ChoixCoffretVR",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeUCoffretVR",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Comble",
+		"Parametre": "ChoixProtectionMobile",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBoxChoixPMft",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Comble",
+		"Parametre": "ChoixModeGestion",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBoxModeGestionFT",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Comble",
+		"Parametre": "ChoixMotorisation",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBoxMotorisationFt",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherBas",
+		"Parametre": "ChoixMode",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "modePlancherBas",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherBas",
+		"Parametre": "Structure",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listePbTypePlancher",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},{
+			"Mode" : "Avancé",
+			"Nom" : "textbox_UplancherBas_avance",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 3,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "Structure",
+					"Lot" : 3,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				},
+				{
+					"Nom" : "Isolation sous chape",
+					"Lot" : 5,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				},
+				{
+					"Nom" : "Chape",
+					"Lot" : 7,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				},
+				{
+					"Nom" : "Revetement de Sol",
+					"Lot" : 7,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherBas",
+		"Parametre": "ChoixComplement",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listePbComplementSur",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 5,
+				"Indicateur_CO2" : 0.00
+			},
+			{
+				"Lot" : 7,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherBas",
+		"Parametre": "ChoixRevetement",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listePbRevetementSol",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 7,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+		{
+		"Categorie": "PlancherBas",
+		"Parametre": "JonctionPlancherFacade",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listePbJonctionFacade",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherBas",
+		"Parametre": "PsiPlancherBasFacade",
+		"Control" : [{
+			"Mode" : "Avancé",
+			"Nom" : "textbox_Psil_PB_Facade",
+			"Type": "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Avancé",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherIntermediaire",
+		"Parametre": "ChoixMode",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "modePlancherInter",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherIntermediaire",
+		"Parametre": "Structure",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_PI_TypePlancher",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode":"Simple",
+			"Nom" : "comboBox_PI_EpaisseurPlancher",
+			"Type" : "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherIntermediaire",
+		"Parametre": "ChoixRevetement",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_PI_RevetementSol",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 7,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherIntermediaire",
+		"Parametre": "JonctionPlancherFacade",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_PI_JonctionPlancherFacade",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+		{
+		"Categorie": "PlancherIntermediaire",
+		"Parametre": "IsolationFxPlafond",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBox_PI_IsolationPeripheriqueFxPlafond",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "PlancherIntermediaire",
+		"Parametre": "PsilPlancherIntermediaireFacade",
+		"Control" : [{
+			"Mode" : "Avancé",
+			"Nom" : "textBoxPsilPlancherIntermediaire",
+			"Type": "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Avancé",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Manuel",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "Structure",
+					"Lot" : 3,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				},
+				{
+					"Nom" : "Complement",
+					"Lot" : 5,
+					"ValeurA" : 0.0,
+					"ValeurB" : 0.0,
+					"ValeurC" : 0.0,
+					"ValeurD" : 0.0,
+					"ValeurE" : 0.0
+
+				},
+				{
+					"Nom" : "Revetement de Sol",
+					"Lot" : 7,
+					"ValeurA" : 0.0,
+					"ValeurB" : 0.0,
+					"ValeurC" : 0.0,
+					"ValeurD" : 0.0,
+					"ValeurE" : 0.0
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture",
+		"Parametre": "ChoixMode",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "modeToiture",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture",
+		"Parametre": "Structure",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listePhTypeIsolant",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Simple",
+			"Nom" : "listePhRIsolant",
+			"Type" : "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "textbox_RToiture_avance",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 5,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "Isolation",
+					"Lot" : 5,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture",
+		"Parametre": "PsiToitureFacade",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "textbox_PsiPlancherHautFacade_avance",
+			"Type": "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "ChoixMode",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBox_modeTT",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "Structure",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "ComboBox_typePlancherTT",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Simple",
+			"Nom" : "ComboBox_epaisseurPlancherTT",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "textBox_TT_valeurUp",
+			"Type": "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "Isolation",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_typeIsolationTT",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_epaisseurIsolationTT",
+			"Type" : "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "JonctionPlancherFacade",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_TT_JonctionPlancherFacade",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "IsolationFxPlafond",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBox_TT_IsolationPeripheriquePlafond",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "ChoixCouleur",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "comboBox_couleurTT",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "textBox_TT_valeurCAE",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+		{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "ChoixVegetalisation",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBox_choixVegetalisationTT",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "checkBox_TT_Veget_avance",
+			"Type" : "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "PsiToitureTerrasseFacade",
+		"Control" : [{
+			"Mode" : "Avancé",
+			"Nom" : "textBox_TT_valeurPsil",
+			"Type": "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Avancé",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Toiture-terrasse",
+		"Parametre": "Vegetalisation",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "checkBox_choixVegetalisationTT",
+			"Type": "CheckBox",
+			"Valeur" : "",
+			"Datatype" : "Bool",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "textBox_TT_valeurSfe",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "textBox_TT_valeurSfc",
+			"Type" : "TextBox",
+			"Valeur" : "",
+			"Datatype" : "Double",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "dateTimePicker1",
+			"Type" : "DateTime",
+			"Valeur" : "",
+			"Datatype" : "Date",
+			"ValeurConvert" : ""
+		},
+		{
+			"Mode" : "Avancé",
+			"Nom" : "dateTimePicker2",
+			"Type" : "DateTime",
+			"Valeur" : "",
+			"Datatype" : "Date",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Divers",
+		"Parametre": "Permeabilité à l'air",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeParametresPermeabilitéAir",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Off",
+			"Carbone_Auto" : [{
+				"Lot" : 0,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 0,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	},
+	{
+		"Categorie": "Divers",
+		"Parametre": "Cloisons Interieures",
+		"Control" : [{
+			"Mode" : "Simple",
+			"Nom" : "listeParametresTypeCloisonsInterieures",
+			"Type": "ComboBox",
+			"Valeur" : "",
+			"Datatype" : "Int",
+			"ValeurConvert" : ""
+		}],
+		"Mode":"Simple",
+		"Produit":{
+			"Produit_GUID": "",
+			"ProduitNom":""
+		},
+		"data_carbone" : {
+			"mode" : "Auto",
+			"Carbone_Auto" : [{
+				"Lot" : 5,
+				"Indicateur_CO2" : 0.00
+			}],
+			"Carbone_Manuel" : [
+				{
+					"Nom" : "",
+					"Lot" : 5,
+					"ValeurA" : 0.00,
+					"ValeurB" : 0.00,
+					"ValeurC" : 0.00,
+					"ValeurD" : 0.00,
+					"ValeurE" : 0.00
+				}			
+			]
+		}
+	}
+
+]
