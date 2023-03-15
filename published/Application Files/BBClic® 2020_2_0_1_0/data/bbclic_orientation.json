@@ -1,0 +1,246 @@
+[
+    {
+        "id":0,
+        "orientation":[
+            {
+                "zone_climatique" : "H1a",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"--","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_froid":{"Sud":"+","SudOuest":"-","Ouest":"-","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"--"}
+            },
+            {
+                "zone_climatique" : "H1b",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"--","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"--","SudEst":"+"},
+                "besoin_froid":{"Sud":"+","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H1c",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"--","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H2a",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_froid":{"Sud":"++","SudOuest":"-","Ouest":"++","NordOuest":"++","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H2b",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_froid":{"Sud":"+","SudOuest":"-","Ouest":"-","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H2c",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H2d",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H3",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"--","SudEst":"+"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"-","NordEst":"--","Est":"-","SudEst":"+"},
+                "besoin_froid":{"Sud":"+","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"+","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"}
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "orientation":[
+            {
+                "zone_climatique" : "H1a",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"+"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H1b",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"+","Est":"--","SudEst":"+"},
+                "DH":{"Sud":"+","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H1c",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2a",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"+","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H2b",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"--","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"+","Est":"--","SudEst":"+"},
+                "besoin_froid":{"Sud":"+","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H2c",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H2d",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"}
+            },
+            {
+                "zone_climatique" : "H3",
+                "Bbio":{"Sud":"+","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"+","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"}
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "orientation":[
+            {
+                "zone_climatique" : "H1a",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H1b",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"-","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"--"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"+","Nord":"+","NordEst":"+","Est":"-","SudEst":"+"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H1c",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2a",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"+","SudOuest":"-","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2b",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"--","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2c",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"+","SudOuest":"-","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"-","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"-","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2d",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"+","SudOuest":"-","Ouest":"--","NordOuest":"+","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"-","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"-","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H3",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"+"},
+                "besoin_chaud":{"Sud":"+","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"-","SudEst":"+"}
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "orientation":[
+            {
+                "zone_climatique" : "H1a",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H1b",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H1c",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2a",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2b",
+                "Bbio":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2c",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H2d",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"+"}
+            },
+            {
+                "zone_climatique" : "H3",
+                "Bbio":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"-","Est":"--","SudEst":"-"},
+                "besoin_chaud":{"Sud":"++","SudOuest":"-","Ouest":"--","NordOuest":"-","Nord":"++","NordEst":"+","Est":"--","SudEst":"-"},
+                "besoin_froid":{"Sud":"++","SudOuest":"+","Ouest":"-","NordOuest":"-","Nord":"+","NordEst":"-","Est":"--","SudEst":"-"},
+                "DH":{"Sud":"++","SudOuest":"+","Ouest":"--","NordOuest":"-","Nord":"+","NordEst":"-","Est":"-","SudEst":"+"}
+            }
+        ]
+    }
+]
