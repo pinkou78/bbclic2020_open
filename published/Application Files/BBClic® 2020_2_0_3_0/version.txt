@@ -1,0 +1,24 @@
+﻿Version actuelle : 2.0.3
+Date : 24/03/2023
+Description
+
+Correctif sur erreur lors de la mise à jour 2.0.2
+Correction bug choix du type de menuiserie.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Version : 2.0.1
+Date : 15/03/2023
+Description
+
+Correction bug affichage du mode carbone manuelle.
+
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+
+Version : 2.0.0
+Date : 23/02/2023
+Description
+
+Ajout calcul Carbone pour la maison indivuelle plain-pied.
+Optimisation de l'algorithme de calcul.
+Optimisation de l'aide
