@@ -1,0 +1,1996 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<projet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2021.D1E1C1" xsi:noNamespaceSchemaLocation="../RE2020_D1E1C1.xsd">
+    <RSET>
+    <Entree_Projet>
+      <Index>1</Index>
+      <Name />
+      <Description />
+      <Comment>ras</Comment>
+      <Date>2022055</Date>
+      <Version>2021.E1.0.0</Version>
+      <Statut_PEF_Projet>0</Statut_PEF_Projet>
+      <PEF_bois>1</PEF_bois>
+      <PEF_rdch>1</PEF_rdch>
+      <Generation_Collection>
+        <Generation>
+          <Index>1</Index>
+          <Name>PAA    ATLANTIC FUJITSU    gainable    Confort R32 Non reversible Shogun   AOYG 30 KBTB UE   ARXG 30 KMLA UI  Zone Control</Name>
+          <Description />
+          <Type_Priorite>1</Type_Priorite>
+          <Idraccord_Gnr>0</Idraccord_Gnr>
+          <Idraccord_Reseau_Gen>0</Idraccord_Reseau_Gen>
+          <Pos_Gen>0</Pos_Gen>
+          <Id_Bat>1</Id_Bat>
+          <Id_Et>0</Id_Et>
+          <Type_Gestion_Chaud_Gen>2</Type_Gestion_Chaud_Gen>
+          <Theta_Wm_Ch>0</Theta_Wm_Ch>
+          <Type_Gestion_Froid_Gen>2</Type_Gestion_Froid_Gen>
+          <Theta_Wm_Fr>0</Theta_Wm_Fr>
+          <Theta_Wm_Ecs>50</Theta_Wm_Ecs>
+          <Generateur_Collection>
+            <Generateur_Thermodynamique_Elec_Autre>
+              <Index>3</Index>
+              <Name>AOYG 30 KBTB UE   ARXG 30 KMLA UI</Name>
+              <Description />
+              <Rdim>1</Rdim>
+              <Cat_Gen>503</Cat_Gen>
+              <Idpriorite_Ch>102</Idpriorite_Ch>
+              <Idpriorite_Fr>2</Idpriorite_Fr>
+              <Sys_Thermo>2</Sys_Thermo>
+              <Id_Groupe>0</Id_Groupe>
+              <Id_Source_Amont_Ch>1</Id_Source_Amont_Ch>
+              <Statut_Donnee_Ch>1</Statut_Donnee_Ch>
+              <Theta_Aval_Air_Eau_Ch>0</Theta_Aval_Air_Eau_Ch>
+              <Theta_Amont_Air_Eau_Ch>0</Theta_Amont_Air_Eau_Ch>
+              <Theta_Aval_Air_Exterieur_Air_Recycle>1</Theta_Aval_Air_Exterieur_Air_Recycle>
+              <Theta_Amont_Air_Exterieur_Air_Recycle>2</Theta_Amont_Air_Exterieur_Air_Recycle>
+              <Theta_Aval_Air_Extrait_Air_Neuf>0</Theta_Aval_Air_Extrait_Air_Neuf>
+              <Theta_Amont_Air_Extrait_Air_Neuf>0</Theta_Amont_Air_Extrait_Air_Neuf>
+              <Theta_Aval_Eau_De_Nappe_Air>0</Theta_Aval_Eau_De_Nappe_Air>
+              <Theta_Aval_Eau_De_Nappe_Eau>0</Theta_Aval_Eau_De_Nappe_Eau>
+              <Theta_Amont_Eau_De_Nappe_Air>0</Theta_Amont_Eau_De_Nappe_Air>
+              <Theta_Amont_Eau_De_Nappe_Eau>0</Theta_Amont_Eau_De_Nappe_Eau>
+              <Theta_Aval_Eau_De_Boucle_Air>0</Theta_Aval_Eau_De_Boucle_Air>
+              <Theta_Amont_Eau_De_Boucle_Air>0</Theta_Amont_Eau_De_Boucle_Air>
+              <Theta_Aval_Eau_Glycolee_Eau>0</Theta_Aval_Eau_Glycolee_Eau>
+              <Theta_Amont_Eau_Glycolee_Eau>0</Theta_Amont_Eau_Glycolee_Eau>
+              <COP>0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 2.76 0 3.8 0 ;0 0 0 0 0</COP>
+              <Pabs_Ch>0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 2.56 0 2.63 0 ;0 0 0 0 0</Pabs_Ch>
+              <COR_Ch>0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 1 0 1 0 ;0 0 0 0 0</COR_Ch>
+              <Statut_Val_Pivot_Ch>0</Statut_Val_Pivot_Ch>
+              <Val_Cop>0</Val_Cop>
+              <Val_Pabs_Ch>0</Val_Pabs_Ch>
+              <Lim_Theta_Ch>0</Lim_Theta_Ch>
+              <Theta_Max_Av>24</Theta_Max_Av>
+              <Theta_Min_Am>-15</Theta_Min_Am>
+              <Valeur_Declaree_Defaut_Ch>1</Valeur_Declaree_Defaut_Ch>
+              <Fonctionnement_Compresseur_Ch>1</Fonctionnement_Compresseur_Ch>
+              <Statut_Fonctionnement_Continu_Ch>2</Statut_Fonctionnement_Continu_Ch>
+              <LRcontmin_Ch>0</LRcontmin_Ch>
+              <CCP_LRcontmin_Ch>0</CCP_LRcontmin_Ch>
+              <Statut_Taux_Ch>0</Statut_Taux_Ch>
+              <Taux_Ch>0.0032</Taux_Ch>
+              <Typo_Emetteur_Ch>4</Typo_Emetteur_Ch>
+              <Id_Source_Amont_Fr>1</Id_Source_Amont_Fr>
+              <Statut_Donnee_Fr>1</Statut_Donnee_Fr>
+              <Theta_Aval_Air_Eau_Fr>0</Theta_Aval_Air_Eau_Fr>
+              <Theta_Amont_Air_Eau_Fr>0</Theta_Amont_Air_Eau_Fr>
+              <Theta_Aval_Air_Exterieur_Air_Recycle_Fr>1</Theta_Aval_Air_Exterieur_Air_Recycle_Fr>
+              <Theta_Amont_Air_Exterieur_Air_Recycle_Fr>1</Theta_Amont_Air_Exterieur_Air_Recycle_Fr>
+              <Theta_Aval_Eau_Air_Fr>0</Theta_Aval_Eau_Air_Fr>
+              <Theta_Amont_Eau_Air_Fr>0</Theta_Amont_Eau_Air_Fr>
+              <Theta_Aval_Eau_Eau_Fr>0</Theta_Aval_Eau_Eau_Fr>
+              <Theta_Amont_Eau_Eau_Fr>0</Theta_Amont_Eau_Eau_Fr>
+              <Theta_Aval_Air_Extrait_Air_Neuf_Fr>0</Theta_Aval_Air_Extrait_Air_Neuf_Fr>
+              <Theta_Amont_Air_Extrait_Air_Neuf_Fr>0</Theta_Amont_Air_Extrait_Air_Neuf_Fr>
+              <Theta_Aval_Eau_De_Nappe_Air_Fr>0</Theta_Aval_Eau_De_Nappe_Air_Fr>
+              <Theta_Amont_Eau_De_Nappe_Air_Fr>0</Theta_Amont_Eau_De_Nappe_Air_Fr>
+              <Theta_Aval_Eau_De_Nappe_Eau_Fr>0</Theta_Aval_Eau_De_Nappe_Eau_Fr>
+              <Theta_Amont_Eau_De_Nappe_Eau_Fr>0</Theta_Amont_Eau_De_Nappe_Eau_Fr>
+              <EER>0 0 0 0 0 ;0 0 0 3.21 0 ;0 0 0 0 0 ;0 0 0 0 0</EER>
+              <Pabs_Fr>0 0 0 0 0 ;0 0 0 2.65 0 ;0 0 0 0 0 ;0 0 0 0 0</Pabs_Fr>
+              <COR_Fr>0 0 0 0 0 ;0 0 0 1 0 ;0 0 0 0 0 ;0 0 0 0 0</COR_Fr>
+              <Statut_Val_Pivot_Fr>0</Statut_Val_Pivot_Fr>
+              <Val_EER>0</Val_EER>
+              <Val_Pabs_Fr>0</Val_Pabs_Fr>
+              <Lim_Theta_Fr>0</Lim_Theta_Fr>
+              <Theta_Max_Am>0</Theta_Max_Am>
+              <Theta_Min_Av>0</Theta_Min_Av>
+              <Valeur_Declaree_Defaut_Fr>1</Valeur_Declaree_Defaut_Fr>
+              <Fonctionnement_Compresseur_Fr>1</Fonctionnement_Compresseur_Fr>
+              <Statut_Fonctionnement_Continu_Fr>2</Statut_Fonctionnement_Continu_Fr>
+              <LRcontmin_Fr>0</LRcontmin_Fr>
+              <CCP_LRcontmin_Fr>0</CCP_LRcontmin_Fr>
+              <Statut_Taux_Fr>0</Statut_Taux_Fr>
+              <Taux_Fr>0.0032</Taux_Fr>
+              <Typo_Emetteur_Fr>4</Typo_Emetteur_Fr>
+            </Generateur_Thermodynamique_Elec_Autre>
+          </Generateur_Collection>
+          <Production_Stockage_ECS_Collection />
+          <Source_Amont_Collection>
+            <Source_Amont>
+              <Index>1</Index>
+              <Name>Source Amont 1</Name>
+              <Description />
+              <Id_Fl_Amont>2</Id_Fl_Amont>
+              <Source_Amont_Eau>0</Source_Amont_Eau>
+              <Source_Amont_Air>1</Source_Amont_Air>
+              <Id_Et>0</Id_Et>
+              <Id_SF_Extraction>0</Id_SF_Extraction>
+              <Tair_Lim>0</Tair_Lim>
+              <Idgestion_Captage>0</Idgestion_Captage>
+              <Idgestion_Pompe_Captage>0</Idgestion_Pompe_Captage>
+              <Type_Echangeur>0</Type_Echangeur>
+              <Type_Generateur_Fr>0</Type_Generateur_Fr>
+              <Pvent_Gaine>0</Pvent_Gaine>
+              <Delta_Theta_Evap_Ch>0</Delta_Theta_Evap_Ch>
+              <Delta_Theta_Cond_Fr>0</Delta_Theta_Cond_Fr>
+              <Ppompes_Tour>0</Ppompes_Tour>
+              <Pvent_Tour>0</Pvent_Tour>
+              <Delta_Theta_Tour>0</Delta_Theta_Tour>
+              <Theta_Es_Tour_Consigne>0</Theta_Es_Tour_Consigne>
+              <Ppompes_Cap>0</Ppompes_Cap>
+              <Ppompes_Nappe>0</Ppompes_Nappe>
+              <Ppompes_Inter>0</Ppompes_Inter>
+              <Ppompes_Boucle_Eau>0</Ppompes_Boucle_Eau>
+              <Idmois_Mini>0</Idmois_Mini>
+              <Theta_Min_Source>0</Theta_Min_Source>
+              <Theta_Max_Source>0</Theta_Max_Source>
+              <Theta_Max_Rech_BE>0</Theta_Max_Rech_BE>
+              <Theta_Min_Fr_BE>0</Theta_Min_Fr_BE>
+              <Theta_Min_Boucle>0</Theta_Min_Boucle>
+              <Theta_Max_Boucle>0</Theta_Max_Boucle>
+              <Rb>0</Rb>
+              <L>0</L>
+              <Qv_nappe_nom>0</Qv_nappe_nom>
+              <Qv_inter_nom>0</Qv_inter_nom>
+              <Qv_nom_tour>0</Qv_nom_tour>
+              <Rho_inter>0</Rho_inter>
+              <UA>0</UA>
+              <Cpe_inter>0</Cpe_inter>
+              <Idmois_Mini_sol>0</Idmois_Mini_sol>
+              <Theta_min_sol>0</Theta_min_sol>
+              <Theta_max_sol>0</Theta_max_sol>
+            </Source_Amont>
+          </Source_Amont_Collection>
+          <Distribution_Rafraichissement_Direct_Collection />
+        </Generation>
+        <Generation>
+          <Index>2</Index>
+          <Name>EJO</Name>
+          <Description />
+          <Type_Priorite>1</Type_Priorite>
+          <Idraccord_Gnr>0</Idraccord_Gnr>
+          <Idraccord_Reseau_Gen>1</Idraccord_Reseau_Gen>
+          <Pos_Gen>1</Pos_Gen>
+          <Id_Bat>1</Id_Bat>
+          <Id_Et>0</Id_Et>
+          <Type_Gestion_Chaud_Gen>2</Type_Gestion_Chaud_Gen>
+          <Theta_Wm_Ch>60</Theta_Wm_Ch>
+          <Type_Gestion_Froid_Gen>2</Type_Gestion_Froid_Gen>
+          <Theta_Wm_Fr>12</Theta_Wm_Fr>
+          <Theta_Wm_Ecs>45</Theta_Wm_Ecs>
+          <Generateur_Collection>
+            <Generateur_Effet_Joule>
+              <Index>5</Index>
+              <Name>Effet Joule</Name>
+              <Description />
+              <Rdim>1</Rdim>
+              <Pmax>4</Pmax>
+              <Id_Fou_Gen>1</Id_Fou_Gen>
+              <Idpriorite_Ch>102</Idpriorite_Ch>
+              <Idpriorite_Ecs>2</Idpriorite_Ecs>
+            </Generateur_Effet_Joule>
+          </Generateur_Collection>
+          <Production_Stockage_ECS_Collection />
+          <Source_Amont_Collection />
+          <Distribution_Rafraichissement_Direct_Collection />
+        </Generation>
+        <Generation>
+          <Index>3</Index>
+          <Name>TAE    ATLANTIC    Calypso Connecte VS    200L</Name>
+          <Description />
+          <Type_Priorite>2</Type_Priorite>
+          <Idraccord_Gnr>0</Idraccord_Gnr>
+          <Idraccord_Reseau_Gen>0</Idraccord_Reseau_Gen>
+          <Pos_Gen>1</Pos_Gen>
+          <Id_Bat>1</Id_Bat>
+          <Id_Et>0</Id_Et>
+          <Type_Gestion_Chaud_Gen>2</Type_Gestion_Chaud_Gen>
+          <Theta_Wm_Ch>0</Theta_Wm_Ch>
+          <Type_Gestion_Froid_Gen>2</Type_Gestion_Froid_Gen>
+          <Theta_Wm_Fr>0</Theta_Wm_Fr>
+          <Theta_Wm_Ecs>53</Theta_Wm_Ecs>
+          <Generateur_Collection />
+          <Production_Stockage_ECS_Collection>
+            <Production_Stockage>
+              <Index>1</Index>
+              <Name>ATLANTIC Calypso Connecte VS 200</Name>
+              <Description />
+              <Id_Fou_Sto>3</Id_Fou_Sto>
+              <Type_prod_stockage>1</Type_prod_stockage>
+              <Type_accumulateur_ECS>0</Type_accumulateur_ECS>
+              <nb_sto_b>1</nb_sto_b>
+              <nb_assembl>1</nb_assembl>
+              <V_tot>200</V_tot>
+              <Statut_faux>1</Statut_faux>
+              <f_aux>0.5</f_aux>
+              <Valeur_Certifiee_Justifiee_Defaut>2</Valeur_Certifiee_Justifiee_Defaut>
+              <Nature_Ballon>0</Nature_Ballon>
+              <UA_S>2.8</UA_S>
+              <Theta_Cons>55</Theta_Cons>
+              <Theta_Max>90</Theta_Max>
+              <b_sto_e>1</b_sto_e>
+              <V_tot_appoint>0</V_tot_appoint>
+              <Valeur_Certifiee_Justifiee_Defaut_Appoint>2</Valeur_Certifiee_Justifiee_Defaut_Appoint>
+              <Nature_Ballon_Appoint>1</Nature_Ballon_Appoint>
+              <UA_S_appoint>0</UA_S_appoint>
+              <Theta_Max_appoint>90</Theta_Max_appoint>
+              <type_gest_th_base>0</type_gest_th_base>
+              <Statut_Delta_Theta_Base>1</Statut_Delta_Theta_Base>
+              <Delta_Theta_base>2</Delta_Theta_base>
+              <hech_base>0</hech_base>
+              <z_reg_base>1</z_reg_base>
+              <type_gest_th_appoint>1</type_gest_th_appoint>
+              <Statut_Delta_Theta_Appoint>1</Statut_Delta_Theta_Appoint>
+              <Delta_Theta_appoint>7</Delta_Theta_appoint>
+              <hech_appoint>0</hech_appoint>
+              <z_appoint>3</z_appoint>
+              <z_reg_appoint>3</z_reg_appoint>
+              <Is_Retour_Boucle_Separe>0</Is_Retour_Boucle_Separe>
+              <Pech_ECS>0</Pech_ECS>
+              <qv_prim_ECS>0</qv_prim_ECS>
+              <Type_Circulateur_Prep_ECS>0</Type_Circulateur_Prep_ECS>
+              <Pw_circ_prim_ECS>0</Pw_circ_prim_ECS>
+              <Pw_circ_prim_RB>0</Pw_circ_prim_RB>
+              <delta_reg_bcl_ch>0</delta_reg_bcl_ch>
+              <Idpriorite_Ecs>1</Idpriorite_Ecs>
+              <Idpriorite_Ch>1</Idpriorite_Ch>
+              <Source_Ballon_Base_Collection>
+                <Source_Ballon_Base_Thermodynamique_Elec>
+                  <Index>7</Index>
+                  <Name>Preparateur Thermodynamique</Name>
+                  <Description />
+                  <Rdim>1</Rdim>
+                  <Id_Source_Amont>2</Id_Source_Amont>
+                  <Idpriorite_Ecs>3</Idpriorite_Ecs>
+                  <Sys_Thermo_Ecs>1</Sys_Thermo_Ecs>
+                  <Id_Groupe>0</Id_Groupe>
+                  <Statut_Donnee>1</Statut_Donnee>
+                  <Theta_Aval_Air_Eau_Ecs>1</Theta_Aval_Air_Eau_Ecs>
+                  <Theta_Amont_Air_Eau_Ecs>1</Theta_Amont_Air_Eau_Ecs>
+                  <Theta_Aval_Air_Extrait_Eau_Ecs>0</Theta_Aval_Air_Extrait_Eau_Ecs>
+                  <Theta_Amont_Air_Extrait_Eau_Ecs>0</Theta_Amont_Air_Extrait_Eau_Ecs>
+                  <Theta_Aval_Air_Ambiant_Eau_Ecs>0</Theta_Aval_Air_Ambiant_Eau_Ecs>
+                  <Theta_Amont_Air_Ambiant_Eau_Ecs>0</Theta_Amont_Air_Ambiant_Eau_Ecs>
+                  <Theta_Aval_Eau_De_Nappe_Eau_Ecs>0</Theta_Aval_Eau_De_Nappe_Eau_Ecs>
+                  <Theta_Amont_Eau_De_Nappe_Eau_Ecs>0</Theta_Amont_Eau_De_Nappe_Eau_Ecs>
+                  <Theta_Amont_Eau_Glycolee_Eau_Ecs>0</Theta_Amont_Eau_Glycolee_Eau_Ecs>
+                  <Theta_Aval_Eau_Glycolee_Eau_Ecs>0</Theta_Aval_Eau_Glycolee_Eau_Ecs>
+                  <Theta_Amont_Sol_Eau_Ecs>0</Theta_Amont_Sol_Eau_Ecs>
+                  <Theta_Aval_Sol_Eau_Ecs>0</Theta_Aval_Sol_Eau_Ecs>
+                  <Performance>0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 0 3.52 0 0 ;0 0 0 0 0 ;0 0 0 0 0</Performance>
+                  <Pabs>0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 0 0.31 0 0 ;0 0 0 0 0 ;0 0 0 0 0</Pabs>
+                  <COR>0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 0 0 0 0 ;0 0 1 0 0 ;0 0 0 0 0 ;0 0 0 0 0</COR>
+                  <Statut_Val_Pivot>0</Statut_Val_Pivot>
+                  <Val_Cop>0</Val_Cop>
+                  <Val_Pabs>0</Val_Pabs>
+                  <Lim_Theta>1</Lim_Theta>
+                  <Theta_Max_Av>62</Theta_Max_Av>
+                  <Theta_Min_Am>-5</Theta_Min_Am>
+                  <Valeur_Declaree_Defaut>1</Valeur_Declaree_Defaut>
+                  <Fonctionnement_Compresseur>2</Fonctionnement_Compresseur>
+                  <Statut_Fonctionnement_Continu>2</Statut_Fonctionnement_Continu>
+                  <LRcontmin>0</LRcontmin>
+                  <CCP_LRcontmin>0</CCP_LRcontmin>
+                  <Statut_Taux>0</Statut_Taux>
+                  <Taux>0</Taux>
+                  <Typo_Emetteur>1</Typo_Emetteur>
+                </Source_Ballon_Base_Thermodynamique_Elec>
+              </Source_Ballon_Base_Collection>
+              <Source_Ballon_Appoint_Collection>
+                <Source_Ballon_Appoint_Effet_Joule>
+                  <Index>8</Index>
+                  <Name>Appoint elec. PAC ECS</Name>
+                  <Description />
+                  <Rdim>1</Rdim>
+                  <Pmax>1.8</Pmax>
+                  <Idpriorite_Ch>0</Idpriorite_Ch>
+                  <Idpriorite_Ecs>0</Idpriorite_Ecs>
+                  <Id_Fou_Gen>3</Id_Fou_Gen>
+                </Source_Ballon_Appoint_Effet_Joule>
+              </Source_Ballon_Appoint_Collection>
+            </Production_Stockage>
+          </Production_Stockage_ECS_Collection>
+          <Source_Amont_Collection>
+            <Source_Amont>
+              <Index>2</Index>
+              <Name>Source Amont 2</Name>
+              <Description />
+              <Id_Fl_Amont>2</Id_Fl_Amont>
+              <Source_Amont_Eau>0</Source_Amont_Eau>
+              <Source_Amont_Air>1</Source_Amont_Air>
+              <Id_Et>0</Id_Et>
+              <Id_SF_Extraction>0</Id_SF_Extraction>
+              <Tair_Lim>0</Tair_Lim>
+              <Idgestion_Captage>0</Idgestion_Captage>
+              <Idgestion_Pompe_Captage>0</Idgestion_Pompe_Captage>
+              <Type_Echangeur>0</Type_Echangeur>
+              <Type_Generateur_Fr>0</Type_Generateur_Fr>
+              <Pvent_Gaine>0</Pvent_Gaine>
+              <Delta_Theta_Evap_Ch>0</Delta_Theta_Evap_Ch>
+              <Delta_Theta_Cond_Fr>0</Delta_Theta_Cond_Fr>
+              <Ppompes_Tour>0</Ppompes_Tour>
+              <Pvent_Tour>0</Pvent_Tour>
+              <Delta_Theta_Tour>0</Delta_Theta_Tour>
+              <Theta_Es_Tour_Consigne>0</Theta_Es_Tour_Consigne>
+              <Ppompes_Cap>0</Ppompes_Cap>
+              <Ppompes_Nappe>0</Ppompes_Nappe>
+              <Ppompes_Inter>0</Ppompes_Inter>
+              <Ppompes_Boucle_Eau>0</Ppompes_Boucle_Eau>
+              <Idmois_Mini>0</Idmois_Mini>
+              <Theta_Min_Source>0</Theta_Min_Source>
+              <Theta_Max_Source>0</Theta_Max_Source>
+              <Theta_Max_Rech_BE>0</Theta_Max_Rech_BE>
+              <Theta_Min_Fr_BE>0</Theta_Min_Fr_BE>
+              <Theta_Min_Boucle>0</Theta_Min_Boucle>
+              <Theta_Max_Boucle>0</Theta_Max_Boucle>
+              <Rb>0</Rb>
+              <L>0</L>
+              <Qv_nappe_nom>0</Qv_nappe_nom>
+              <Qv_inter_nom>0</Qv_inter_nom>
+              <Qv_nom_tour>0</Qv_nom_tour>
+              <Rho_inter>0</Rho_inter>
+              <UA>0</UA>
+              <Cpe_inter>0</Cpe_inter>
+              <Idmois_Mini_sol>0</Idmois_Mini_sol>
+              <Theta_min_sol>0</Theta_min_sol>
+              <Theta_max_sol>0</Theta_max_sol>
+            </Source_Amont>
+          </Source_Amont_Collection>
+          <Distribution_Rafraichissement_Direct_Collection />
+        </Generation>
+      </Generation_Collection>
+      <Batiment_Collection>
+        <Batiment>
+          <Index>1</Index>
+          <Name>Batiment n 1</Name>
+          <Description />
+          <Type_Reseau>0</Type_Reseau>
+          <RatENR_rdch>0</RatENR_rdch>
+          <Espace_Tampon_Collection>
+            <Espace_Tampon_Non_Solarise>
+              <Index>1</Index>
+              <Name>Lnc b=0.95</Name>
+              <Description />
+              <b_et_ns>0.95</b_et_ns>
+            </Espace_Tampon_Non_Solarise>
+          </Espace_Tampon_Collection>
+          <PV_install_Collection />
+          <Zone_Collection>
+            <Zone>
+              <Index>1</Index>
+              <Name>Zone 1</Name>
+              <Description />
+              <Usage>1</Usage>
+              <Nocc>2</Nocc>
+              <NB_logement>1</NB_logement>
+              <Hauteur>0.2</Hauteur>
+              <Hauteur_Zone>5.4</Hauteur_Zone>
+              <Is_Traversant>1</Is_Traversant>
+              <Groupe_Collection>
+                <Groupe>
+                  <Index>1</Index>
+                  <Name>Groupe 001</Name>
+                  <Description />
+                  <SU>114.87</SU>
+                  <SHAB>114.87</SHAB>
+                  <V>287.17</V>
+                  <Def_Httf>0</Def_Httf>
+                  <Httf>5.05</Httf>
+                  <Delta_trav_surv>0</Delta_trav_surv>
+                  <Is_Hall>0</Is_Hall>
+                  <Categorie_CE>1</Categorie_CE>
+                  <Is_Climatise>0</Is_Climatise>
+                  <Exp_BR_Groupe>1</Exp_BR_Groupe>
+                  <S_combles>0</S_combles>
+                  <Type_Pgrm_Ch>2</Type_Pgrm_Ch>
+                  <Type_Pgrm_Fr>1</Type_Pgrm_Fr>
+                  <Qv_occ_BBIO>157.5</Qv_occ_BBIO>
+                  <Qv_inocc_BBIO>157.5</Qv_inocc_BBIO>
+                  <Bois_Energie>0</Bois_Energie>
+                  <Is_Reseau_Ch>0</Is_Reseau_Ch>
+                  <Contenu_CO2_Reseau_Ch>0</Contenu_CO2_Reseau_Ch>
+                  <Is_Reseau_Fr>0</Is_Reseau_Fr>
+                  <Contenu_CO2_Reseau_Fr>0</Contenu_CO2_Reseau_Fr>
+                  <Paroi_opaque_Collection>
+                    <Paroi_Opaque>
+                      <Index>1</Index>
+                      <Name>Mur Mur sur garage</Name>
+                      <Description />
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ak>13.511</Ak>
+                      <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
+                      <Uk>0.172</Uk>
+                      <Sf_ck>0</Sf_ck>
+                      <Sf_ek>0</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>1</Id_Et>
+                      <Masque_Collection>
+                        <Masque_Lointain_Azimutal>
+                          <Index>29</Index>
+                          <Name>Masque lointain azimutal</Name>
+                          <Description />
+                          <Gamma>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</Gamma>
+                          <Vegetation>0</Vegetation>
+                          <Debut_Vegetation>0</Debut_Vegetation>
+                          <Fin_Vegetation>0</Fin_Vegetation>
+                        </Masque_Lointain_Azimutal>
+                      </Masque_Collection>
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>2</Index>
+                      <Name>Mur Murs exterieurs</Name>
+                      <Description />
+                      <Alpha>45</Alpha>
+                      <Beta>90</Beta>
+                      <Ak>37.148</Ak>
+                      <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
+                      <Uk>0.175</Uk>
+                      <Sf_ck>0.0035</Sf_ck>
+                      <Sf_ek>0.0064</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>3</Index>
+                      <Name>VR ~ Mur Murs exterieurs</Name>
+                      <Description />
+                      <Alpha>45</Alpha>
+                      <Beta>90</Beta>
+                      <Ak>1.512</Ak>
+                      <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
+                      <Uk>0.5</Uk>
+                      <Sf_ck>0.01</Sf_ck>
+                      <Sf_ek>0.0183</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>4</Index>
+                      <Name>Mur Murs exterieurs</Name>
+                      <Description />
+                      <Alpha>135</Alpha>
+                      <Beta>90</Beta>
+                      <Ak>34.3</Ak>
+                      <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
+                      <Uk>0.175</Uk>
+                      <Sf_ck>0.0035</Sf_ck>
+                      <Sf_ek>0.0064</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>5</Index>
+                      <Name>Mur Murs exterieurs</Name>
+                      <Description />
+                      <Alpha>225</Alpha>
+                      <Beta>90</Beta>
+                      <Ak>32.044</Ak>
+                      <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
+                      <Uk>0.175</Uk>
+                      <Sf_ck>0.0035</Sf_ck>
+                      <Sf_ek>0.0064</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>6</Index>
+                      <Name>VR ~ Mur Murs exterieurs</Name>
+                      <Description />
+                      <Alpha>225</Alpha>
+                      <Beta>90</Beta>
+                      <Ak>1.372</Ak>
+                      <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
+                      <Uk>0.5</Uk>
+                      <Sf_ck>0.01</Sf_ck>
+                      <Sf_ek>0.0183</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>7</Index>
+                      <Name>Mur Murs exterieurs</Name>
+                      <Description />
+                      <Alpha>315</Alpha>
+                      <Beta>90</Beta>
+                      <Ak>19.305</Ak>
+                      <Type_Paroi_Inclk>1</Type_Paroi_Inclk>
+                      <Uk>0.175</Uk>
+                      <Sf_ck>0.0035</Sf_ck>
+                      <Sf_ek>0.0064</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>8</Index>
+                      <Name>Plancher Plancher sur VS</Name>
+                      <Description />
+                      <Alpha>180</Alpha>
+                      <Beta>180</Beta>
+                      <Ak>60.53</Ak>
+                      <Type_Paroi_Inclk>3</Type_Paroi_Inclk>
+                      <Uk>0.184</Uk>
+                      <Sf_ck>0</Sf_ck>
+                      <Sf_ek>0</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0.01</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection>
+                        <Masque_Lointain_Azimutal>
+                          <Index>31</Index>
+                          <Name>Masque lointain azimutal</Name>
+                          <Description />
+                          <Gamma>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</Gamma>
+                          <Vegetation>0</Vegetation>
+                          <Debut_Vegetation>0</Debut_Vegetation>
+                          <Fin_Vegetation>0</Fin_Vegetation>
+                        </Masque_Lointain_Azimutal>
+                      </Masque_Collection>
+                    </Paroi_Opaque>
+                    <Paroi_Opaque>
+                      <Index>9</Index>
+                      <Name>Plafond Combles perdus</Name>
+                      <Description />
+                      <Alpha>180</Alpha>
+                      <Beta>0</Beta>
+                      <Ak>61.78</Ak>
+                      <Type_Paroi_Inclk>2</Type_Paroi_Inclk>
+                      <Uk>0.118</Uk>
+                      <Sf_ck>0</Sf_ck>
+                      <Sf_ek>0</Sf_ek>
+                      <Is_Vegetalise>0</Is_Vegetalise>
+                      <T_Simul_Deb_V>0</T_Simul_Deb_V>
+                      <T_Simul_Fin_V>0</T_Simul_Fin_V>
+                      <Sfc_Vk>0</Sfc_Vk>
+                      <Sfe_Vk>0</Sfe_Vk>
+                      <Id_Et>1</Id_Et>
+                      <Masque_Collection>
+                        <Masque_Lointain_Azimutal>
+                          <Index>33</Index>
+                          <Name>Masque lointain azimutal</Name>
+                          <Description />
+                          <Gamma>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</Gamma>
+                          <Vegetation>0</Vegetation>
+                          <Debut_Vegetation>0</Debut_Vegetation>
+                          <Fin_Vegetation>0</Fin_Vegetation>
+                        </Masque_Lointain_Azimutal>
+                      </Masque_Collection>
+                    </Paroi_Opaque>
+                  </Paroi_opaque_Collection>
+                  <Lineaire_Collection>
+                    <Lineaire>
+                      <Index>1</Index>
+                      <Name>lineique 1 liaison murs ext-plancher VS</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>25.88</Ll>
+                      <Psil>0.21</Psil>
+                      <Sf_cl>0.0034</Sf_cl>
+                      <Sf_el>0.0062</Sf_el>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>2</Index>
+                      <Name>lineique 2</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>24.54</Ll>
+                      <Psil>0.19</Psil>
+                      <Sf_cl>0.003</Sf_cl>
+                      <Sf_el>0.0056</Sf_el>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>3</Index>
+                      <Name>lineique 3 Pl. haut léger facade</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>18.44</Ll>
+                      <Psil>0.04</Psil>
+                      <Sf_cl>0.0006</Sf_cl>
+                      <Sf_el>0.0012</Sf_el>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>4</Index>
+                      <Name>lineique 4 Pl. haut léger pignon</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>13.44</Ll>
+                      <Psil>0.07</Psil>
+                      <Sf_cl>0.0011</Sf_cl>
+                      <Sf_el>0.0021</Sf_el>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>5</Index>
+                      <Name>lineique 5 angle rentrant</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>10</Ll>
+                      <Psil>0.07</Psil>
+                      <Sf_cl>0.0011</Sf_cl>
+                      <Sf_el>0.0021</Sf_el>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>6</Index>
+                      <Name>lineique 6 liaison mur garage-plancher VS</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>6</Ll>
+                      <Psil>0.21</Psil>
+                      <Sf_cl>0.0032</Sf_cl>
+                      <Sf_el>0.0059</Sf_el>
+                      <Id_Et>1</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>7</Index>
+                      <Name>lineique 7</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>6</Ll>
+                      <Psil>0.19</Psil>
+                      <Sf_cl>0.0029</Sf_cl>
+                      <Sf_el>0.0053</Sf_el>
+                      <Id_Et>1</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>8</Index>
+                      <Name>lineique 8</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>2.5</Ll>
+                      <Psil>0.06</Psil>
+                      <Sf_cl>0.0009</Sf_cl>
+                      <Sf_el>0.0017</Sf_el>
+                      <Id_Et>1</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                    <Lineaire>
+                      <Index>9</Index>
+                      <Name>Lineiques vitrages</Name>
+                      <Description />
+                      <Is_Detail_Calcul>1</Is_Detail_Calcul>
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ll>64.44</Ll>
+                      <Psil>0.019</Psil>
+                      <Sf_cl>0.000295</Sf_cl>
+                      <Sf_el>0.000547</Sf_el>
+                      <Id_Et>0</Id_Et>
+                      <Masque_Collection />
+                    </Lineaire>
+                  </Lineaire_Collection>
+                  <Emetteur_Collection>
+                    <Emetteur>
+                      <Index>1</Index>
+                      <Name>Systeme a air partie jour</Name>
+                      <Description />
+                      <Is_emetteur_chaud>1</Is_emetteur_chaud>
+                      <Is_emetteur_froid>1</Is_emetteur_froid>
+                      <Per_dos>0</Per_dos>
+                      <Carac_Haut_Plafond>0</Carac_Haut_Plafond>
+                      <Typologie_Emetteur_Chaud>1</Typologie_Emetteur_Chaud>
+                      <Pem_conv_ch>0</Pem_conv_ch>
+                      <Classe_Variation_Spatiale_Chaud>3</Classe_Variation_Spatiale_Chaud>
+                      <Nombre_niveaux_desservis>0</Nombre_niveaux_desservis>
+                      <Delta_Temp_vs_ch>0</Delta_Temp_vs_ch>
+                      <Statut_Variation_Temporelle_Chaud>2</Statut_Variation_Temporelle_Chaud>
+                      <Couple_Regulateur_Emetteur_Chaud>1</Couple_Regulateur_Emetteur_Chaud>
+                      <Regulation_Poele_Ou_Insert>0</Regulation_Poele_Ou_Insert>
+                      <Delta_Temp_vt_ch>0.4</Delta_Temp_vt_ch>
+                      <detection_presence>0</detection_presence>
+                      <Rat_s_ch>0.872</Rat_s_ch>
+                      <Rat_t_ch>1</Rat_t_ch>
+                      <Typologie_Emetteur_Froid>1</Typologie_Emetteur_Froid>
+                      <Pem_conv_fr>0</Pem_conv_fr>
+                      <Classe_Variation_Spatiale_Froid>2</Classe_Variation_Spatiale_Froid>
+                      <Delta_Temp_vs_fr>0</Delta_Temp_vs_fr>
+                      <Statut_Variation_Temporelle_Froid>2</Statut_Variation_Temporelle_Froid>
+                      <Couple_Regulateur_Emetteur_Froid>1</Couple_Regulateur_Emetteur_Froid>
+                      <Delta_Temp_vt_fr>0</Delta_Temp_vt_fr>
+                      <Rat_s_fr>1</Rat_s_fr>
+                      <Rat_t_fr>1</Rat_t_fr>
+                      <Gest_vcv>0</Gest_vcv>
+                      <I_spv>0</I_spv>
+                      <P_VCV_gv>0</P_VCV_gv>
+                      <P_VCV_mv>0</P_VCV_mv>
+                      <P_VCV_pv>0</P_VCV_pv>
+                      <P_VCV_spv>0</P_VCV_spv>
+                      <Id_Regul_Batt>0</Id_Regul_Batt>
+                      <Q_v_recirc_GV>0</Q_v_recirc_GV>
+                      <Q_v_recirc_MV>0</Q_v_recirc_MV>
+                      <Q_v_recirc_PV>0</Q_v_recirc_PV>
+                      <Distribution_Groupe_Chaud>
+                        <Index>1</Index>
+                        <Name>Systeme a air partie jour_R_distribution</Name>
+                        <Description />
+                        <Type_2nd>0</Type_2nd>
+                        <Lvc>0</Lvc>
+                        <Lhvc>0</Lhvc>
+                        <Q2nd_Resid>0</Q2nd_Resid>
+                        <Id_Et>0</Id_Et>
+                        <Id_Dist_1re>1</Id_Dist_1re>
+                        <Id_Ballon>0</Id_Ballon>
+                        <Gest_2nd_Ch>1</Gest_2nd_Ch>
+                        <Mode_Reg_Debit_Ch>1</Mode_Reg_Debit_Ch>
+                        <Theta_Dep_Dim_Ch>45</Theta_Dep_Dim_Ch>
+                        <Theta_Ret_Dim_Ch>35</Theta_Ret_Dim_Ch>
+                        <Delta_Theta_Em_Dim_Ch>10</Delta_Theta_Em_Dim_Ch>
+                        <Qnom_Ch>0.001</Qnom_Ch>
+                        <Umoyen_Vc_Ch>0</Umoyen_Vc_Ch>
+                        <Umoyen_Hvc_Ch>0</Umoyen_Hvc_Ch>
+                        <Gest_Circ_2nd_Ch>0</Gest_Circ_2nd_Ch>
+                        <Pcirculateur_Ch>0</Pcirculateur_Ch>
+                      </Distribution_Groupe_Chaud>
+                      <Distribution_Groupe_Froid>
+                        <Index>1</Index>
+                        <Name>Systeme a air partie jour_R_distribution_froid</Name>
+                        <Description />
+                        <Type_2nd>0</Type_2nd>
+                        <Lvc>0</Lvc>
+                        <Lhvc>0</Lhvc>
+                        <Q2nd_Resid>0</Q2nd_Resid>
+                        <Id_Et>0</Id_Et>
+                        <Id_Dist_1re>1</Id_Dist_1re>
+                        <Gest_2nd_Fr>0</Gest_2nd_Fr>
+                        <Mode_Reg_Debit_Fr>0</Mode_Reg_Debit_Fr>
+                        <Theta_Dep_Dim_Fr>12</Theta_Dep_Dim_Fr>
+                        <Theta_Ret_Dim_Fr>0</Theta_Ret_Dim_Fr>
+                        <Delta_Theta_Em_Dim_Fr>-5</Delta_Theta_Em_Dim_Fr>
+                        <Qnom_Fr>0</Qnom_Fr>
+                        <Umoyen_Vc_Fr>0</Umoyen_Vc_Fr>
+                        <Umoyen_Hvc_Fr>0</Umoyen_Hvc_Fr>
+                        <Gest_Circ_2nd_Fr>0</Gest_Circ_2nd_Fr>
+                        <Pcirculateur_Fr>0</Pcirculateur_Fr>
+                      </Distribution_Groupe_Froid>
+                    </Emetteur>
+                    <Emetteur>
+                      <Index>2</Index>
+                      <Name>Emetteur salle de bains</Name>
+                      <Description />
+                      <Is_emetteur_chaud>1</Is_emetteur_chaud>
+                      <Is_emetteur_froid>0</Is_emetteur_froid>
+                      <Per_dos>0</Per_dos>
+                      <Carac_Haut_Plafond>0</Carac_Haut_Plafond>
+                      <Typologie_Emetteur_Chaud>1</Typologie_Emetteur_Chaud>
+                      <Pem_conv_ch>0</Pem_conv_ch>
+                      <Classe_Variation_Spatiale_Chaud>5</Classe_Variation_Spatiale_Chaud>
+                      <Nombre_niveaux_desservis>0</Nombre_niveaux_desservis>
+                      <Delta_Temp_vs_ch>0.4</Delta_Temp_vs_ch>
+                      <Statut_Variation_Temporelle_Chaud>0</Statut_Variation_Temporelle_Chaud>
+                      <Couple_Regulateur_Emetteur_Chaud>0</Couple_Regulateur_Emetteur_Chaud>
+                      <Regulation_Poele_Ou_Insert>0</Regulation_Poele_Ou_Insert>
+                      <Delta_Temp_vt_ch>0.2</Delta_Temp_vt_ch>
+                      <detection_presence>0</detection_presence>
+                      <Rat_s_ch>0.096</Rat_s_ch>
+                      <Rat_t_ch>1</Rat_t_ch>
+                      <Typologie_Emetteur_Froid>1</Typologie_Emetteur_Froid>
+                      <Pem_conv_fr>0</Pem_conv_fr>
+                      <Classe_Variation_Spatiale_Froid>0</Classe_Variation_Spatiale_Froid>
+                      <Delta_Temp_vs_fr>0</Delta_Temp_vs_fr>
+                      <Statut_Variation_Temporelle_Froid>0</Statut_Variation_Temporelle_Froid>
+                      <Couple_Regulateur_Emetteur_Froid>0</Couple_Regulateur_Emetteur_Froid>
+                      <Delta_Temp_vt_fr>0</Delta_Temp_vt_fr>
+                      <Rat_s_fr>0</Rat_s_fr>
+                      <Rat_t_fr>1</Rat_t_fr>
+                      <Gest_vcv>0</Gest_vcv>
+                      <I_spv>0</I_spv>
+                      <P_VCV_gv>0</P_VCV_gv>
+                      <P_VCV_mv>0</P_VCV_mv>
+                      <P_VCV_pv>0</P_VCV_pv>
+                      <P_VCV_spv>0</P_VCV_spv>
+                      <Id_Regul_Batt>0</Id_Regul_Batt>
+                      <Q_v_recirc_GV>0</Q_v_recirc_GV>
+                      <Q_v_recirc_MV>0</Q_v_recirc_MV>
+                      <Q_v_recirc_PV>0</Q_v_recirc_PV>
+                      <Distribution_Groupe_Chaud>
+                        <Index>2</Index>
+                        <Name>Emetteur salle de bains_R_distribution</Name>
+                        <Description />
+                        <Type_2nd>0</Type_2nd>
+                        <Lvc>0</Lvc>
+                        <Lhvc>0</Lhvc>
+                        <Q2nd_Resid>0</Q2nd_Resid>
+                        <Id_Et>0</Id_Et>
+                        <Id_Dist_1re>2</Id_Dist_1re>
+                        <Id_Ballon>0</Id_Ballon>
+                        <Gest_2nd_Ch>0</Gest_2nd_Ch>
+                        <Mode_Reg_Debit_Ch>0</Mode_Reg_Debit_Ch>
+                        <Theta_Dep_Dim_Ch>0</Theta_Dep_Dim_Ch>
+                        <Theta_Ret_Dim_Ch>0</Theta_Ret_Dim_Ch>
+                        <Delta_Theta_Em_Dim_Ch>0</Delta_Theta_Em_Dim_Ch>
+                        <Qnom_Ch>0</Qnom_Ch>
+                        <Umoyen_Vc_Ch>0</Umoyen_Vc_Ch>
+                        <Umoyen_Hvc_Ch>0</Umoyen_Hvc_Ch>
+                        <Gest_Circ_2nd_Ch>0</Gest_Circ_2nd_Ch>
+                        <Pcirculateur_Ch>0</Pcirculateur_Ch>
+                      </Distribution_Groupe_Chaud>
+                    </Emetteur>
+                    <Emetteur>
+                      <Index>3</Index>
+                      <Name>Emetteur complementaire   100m2</Name>
+                      <Description />
+                      <Is_emetteur_chaud>1</Is_emetteur_chaud>
+                      <Is_emetteur_froid>0</Is_emetteur_froid>
+                      <Per_dos>0</Per_dos>
+                      <Carac_Haut_Plafond>0</Carac_Haut_Plafond>
+                      <Typologie_Emetteur_Chaud>2</Typologie_Emetteur_Chaud>
+                      <Pem_conv_ch>0</Pem_conv_ch>
+                      <Classe_Variation_Spatiale_Chaud>4</Classe_Variation_Spatiale_Chaud>
+                      <Nombre_niveaux_desservis>0</Nombre_niveaux_desservis>
+                      <Delta_Temp_vs_ch>0.2</Delta_Temp_vs_ch>
+                      <Statut_Variation_Temporelle_Chaud>0</Statut_Variation_Temporelle_Chaud>
+                      <Couple_Regulateur_Emetteur_Chaud>0</Couple_Regulateur_Emetteur_Chaud>
+                      <Regulation_Poele_Ou_Insert>0</Regulation_Poele_Ou_Insert>
+                      <Delta_Temp_vt_ch>0.2</Delta_Temp_vt_ch>
+                      <detection_presence>0</detection_presence>
+                      <Rat_s_ch>0.032</Rat_s_ch>
+                      <Rat_t_ch>1</Rat_t_ch>
+                      <Typologie_Emetteur_Froid>1</Typologie_Emetteur_Froid>
+                      <Pem_conv_fr>0</Pem_conv_fr>
+                      <Classe_Variation_Spatiale_Froid>0</Classe_Variation_Spatiale_Froid>
+                      <Delta_Temp_vs_fr>0</Delta_Temp_vs_fr>
+                      <Statut_Variation_Temporelle_Froid>0</Statut_Variation_Temporelle_Froid>
+                      <Couple_Regulateur_Emetteur_Froid>0</Couple_Regulateur_Emetteur_Froid>
+                      <Delta_Temp_vt_fr>0</Delta_Temp_vt_fr>
+                      <Rat_s_fr>0</Rat_s_fr>
+                      <Rat_t_fr>1</Rat_t_fr>
+                      <Gest_vcv>0</Gest_vcv>
+                      <I_spv>0</I_spv>
+                      <P_VCV_gv>0</P_VCV_gv>
+                      <P_VCV_mv>0</P_VCV_mv>
+                      <P_VCV_pv>0</P_VCV_pv>
+                      <P_VCV_spv>0</P_VCV_spv>
+                      <Id_Regul_Batt>0</Id_Regul_Batt>
+                      <Q_v_recirc_GV>0</Q_v_recirc_GV>
+                      <Q_v_recirc_MV>0</Q_v_recirc_MV>
+                      <Q_v_recirc_PV>0</Q_v_recirc_PV>
+                      <Distribution_Groupe_Chaud>
+                        <Index>3</Index>
+                        <Name>Emetteur complementaire   100m2_R_distribution</Name>
+                        <Description />
+                        <Type_2nd>0</Type_2nd>
+                        <Lvc>0</Lvc>
+                        <Lhvc>0</Lhvc>
+                        <Q2nd_Resid>0</Q2nd_Resid>
+                        <Id_Et>0</Id_Et>
+                        <Id_Dist_1re>2</Id_Dist_1re>
+                        <Id_Ballon>0</Id_Ballon>
+                        <Gest_2nd_Ch>0</Gest_2nd_Ch>
+                        <Mode_Reg_Debit_Ch>0</Mode_Reg_Debit_Ch>
+                        <Theta_Dep_Dim_Ch>0</Theta_Dep_Dim_Ch>
+                        <Theta_Ret_Dim_Ch>0</Theta_Ret_Dim_Ch>
+                        <Delta_Theta_Em_Dim_Ch>0</Delta_Theta_Em_Dim_Ch>
+                        <Qnom_Ch>0</Qnom_Ch>
+                        <Umoyen_Vc_Ch>0</Umoyen_Vc_Ch>
+                        <Umoyen_Hvc_Ch>0</Umoyen_Hvc_Ch>
+                        <Gest_Circ_2nd_Ch>0</Gest_Circ_2nd_Ch>
+                        <Pcirculateur_Ch>0</Pcirculateur_Ch>
+                      </Distribution_Groupe_Chaud>
+                    </Emetteur>
+                  </Emetteur_Collection>
+                  <Emetteur_ECS_Collection>
+                    <Emetteur_ECS>
+                      <Index>1</Index>
+                      <Name>T5</Name>
+                      <Description />
+                      <NB_rat_eviers_lavabos>0</NB_rat_eviers_lavabos>
+                      <Nb_douches_bains_relies>0</Nb_douches_bains_relies>
+                      <Nb_douches_bains_non_relies>0</Nb_douches_bains_non_relies>
+                      <Nb_total_douches_bains>0</Nb_total_douches_bains>
+                      <Rat_em_e>1</Rat_em_e>
+                      <nb_lgt_gr_em_e>0</nb_lgt_gr_em_e>
+                      <nu_gr_em_e>2.086525</nu_gr_em_e>
+                      <part_em_e_melangeurs>0</part_em_e_melangeurs>
+                      <part_em_e_mitigeur_thermo>1</part_em_e_mitigeur_thermo>
+                      <part_em_e_temporisateur>0</part_em_e_temporisateur>
+                      <app_ecs>3</app_ecs>
+                      <corr_util>0.95</corr_util>
+                      <nb_maison_gr_e>1</nb_maison_gr_e>
+                      <Distribution_Groupe_ECS>
+                        <Index>1</Index>
+                        <Name>Reseau ECS</Name>
+                        <Description />
+                        <nb_dist_2nd_e>1</nb_dist_2nd_e>
+                        <delta_lvc>1</delta_lvc>
+                        <l_vc_2nd_e>8.62</l_vc_2nd_e>
+                        <l_hvc_2nd_e>0</l_hvc_2nd_e>
+                        <d_int_2nd_e>12</d_int_2nd_e>
+                        <Id_Dist_Primaire>1</Id_Dist_Primaire>
+                        <Id_Dist_IntergroupeMTA>0</Id_Dist_IntergroupeMTA>
+                        <Id_Ballon>0</Id_Ballon>
+                        <Id_Et>0</Id_Et>
+                      </Distribution_Groupe_ECS>
+                    </Emetteur_ECS>
+                  </Emetteur_ECS_Collection>
+                  <Entree_Air_Collection>
+                    <Entree_Air>
+                      <Index>1</Index>
+                      <Name>Smea hygro</Name>
+                      <Description />
+                      <Type_entree_air>0</Type_entree_air>
+                      <Module>128.72</Module>
+                      <R_f>1</R_f>
+                      <Delta_P1_AR>20</Delta_P1_AR>
+                      <Delta_P2_AR>20</Delta_P2_AR>
+                      <Module_1>0</Module_1>
+                      <Module_2>0</Module_2>
+                    </Entree_Air>
+                  </Entree_Air_Collection>
+                  <Eclairage_Collection>
+                    <Eclairage>
+                      <Index>1</Index>
+                      <Name>Eclairage logement non fractionne</Name>
+                      <Description />
+                      <Locaux_Bureau>0</Locaux_Bureau>
+                      <Locaux_Creche_Garderie_Pouponieres>0</Locaux_Creche_Garderie_Pouponieres>
+                      <Locaux_Enseignement_Primaire>0</Locaux_Enseignement_Primaire>
+                      <Locaux_Secondaire_Jour>0</Locaux_Secondaire_Jour>
+                      <Locaux_Secondaire_Nuit>0</Locaux_Secondaire_Nuit>
+                      <Locaux_Universite>0</Locaux_Universite>
+                      <Locaux_Hebergement_Occ_Continue>0</Locaux_Hebergement_Occ_Continue>
+                      <Locaux_Hebergement_Residence_Etudiante>0</Locaux_Hebergement_Residence_Etudiante>
+                      <Locaux_Hotel_1etoile_Nuit>0</Locaux_Hotel_1etoile_Nuit>
+                      <Locaux_Hotel_2etoile_Nuit>0</Locaux_Hotel_2etoile_Nuit>
+                      <Locaux_Hotel_3etoile_Nuit>0</Locaux_Hotel_3etoile_Nuit>
+                      <Locaux_Hotel_4etoile_Nuit>0</Locaux_Hotel_4etoile_Nuit>
+                      <Locaux_Hotel_1_ou_2etoiles_Jour>0</Locaux_Hotel_1_ou_2etoiles_Jour>
+                      <Locaux_Hotel_3_ou_4etoiles_Jour>0</Locaux_Hotel_3_ou_4etoiles_Jour>
+                      <Locaux_Restaurant_1_Repas_5_7>0</Locaux_Restaurant_1_Repas_5_7>
+                      <Locaux_Restaurant_2_Repas_jour_6_7>0</Locaux_Restaurant_2_Repas_jour_6_7>
+                      <Locaux_Restaurant_2_Repas_jour_7_7>0</Locaux_Restaurant_2_Repas_jour_7_7>
+                      <Locaux_Restaurant_3_Repas_jour_5_7>0</Locaux_Restaurant_3_Repas_jour_5_7>
+                      <Locaux_Restauration_Continue>0</Locaux_Restauration_Continue>
+                      <Locaux_Commerce_Magazin_ZI>0</Locaux_Commerce_Magazin_ZI>
+                      <Locaux_Etablissement_Sportif_Scolaire>0</Locaux_Etablissement_Sportif_Scolaire>
+                      <Locaux_Etablissement_Sportif_Municipal_Prive>0</Locaux_Etablissement_Sportif_Municipal_Prive>
+                      <Locaux_Etablissement_Sanitaire_Avec_Hebergement>0</Locaux_Etablissement_Sanitaire_Avec_Hebergement>
+                      <Locaux_Hopital_partie_nuit>0</Locaux_Hopital_partie_nuit>
+                      <Locaux_Hopital_partie_jour>0</Locaux_Hopital_partie_jour>
+                      <Locaux_Transport_Aerogare>0</Locaux_Transport_Aerogare>
+                      <Locaux_Industrie_3_8>0</Locaux_Industrie_3_8>
+                      <Locaux_Industrie_8h_18>0</Locaux_Industrie_8h_18>
+                      <Locaux_Tribunal>0</Locaux_Tribunal>
+                      <Eiproj>0</Eiproj>
+                      <Rat_local>1</Rat_local>
+                      <Ratio_ecl_nat>1</Ratio_ecl_nat>
+                      <Fr_Grad_Ecl>1</Fr_Grad_Ecl>
+                      <Eff_immo_projet>0</Eff_immo_projet>
+                      <Eff_ecl_immo_projet>0</Eff_ecl_immo_projet>
+                      <Pecl_tot>1.4</Pecl_tot>
+                      <Pecl_aux>0</Pecl_aux>
+                      <Gest_Ecl>1</Gest_Ecl>
+                      <Grad_Ecl>1</Grad_Ecl>
+                    </Eclairage>
+                  </Eclairage_Collection>
+                  <Inertie>
+                    <Index>1</Index>
+                    <Name>inertie</Name>
+                    <Description />
+                    <Type_Inertie_Quotidienne>3</Type_Inertie_Quotidienne>
+                    <Amq_surf>2.5</Amq_surf>
+                    <Cmq_surf>165</Cmq_surf>
+                    <Type_Inertie_Sequentielle>2</Type_Inertie_Sequentielle>
+                    <Ams_surf>2.5</Ams_surf>
+                    <Cms_surf>165</Cms_surf>
+                    <Type_Inertie_Annuelle>1</Type_Inertie_Annuelle>
+                    <Ama_surf>2.5</Ama_surf>
+                    <Cma_surf>165</Cma_surf>
+                  </Inertie>
+                  <Permeabilite>
+                    <Index>1</Index>
+                    <Name>permeabilite</Name>
+                    <Description />
+                    <Valeur_Saisie_Defaut_Q4PaSurf>1</Valeur_Saisie_Defaut_Q4PaSurf>
+                    <Q4PaSurf>0.6</Q4PaSurf>
+                    <id_echantillonnage_permea>1</id_echantillonnage_permea>
+                  </Permeabilite>
+                  <Baie_Collection>
+                    <Baie>
+                      <Index>1</Index>
+                      <Name>Vitrage PG PG$Porte à âme isolante RIGHINI Rigitherm 2 1 Huisserie Neolys</Name>
+                      <Description />
+                      <Alpha>180</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>1.489</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>0</Choix_PM_GPM>
+                      <Typo_Permea_PM>4</Typo_Permea_PM>
+                      <Uap_Vert>1</Uap_Vert>
+                      <Usp_Vert>1</Usp_Vert>
+                      <Uap_Horiz>1</Uap_Horiz>
+                      <Usp_Horiz>1</Usp_Horiz>
+                      <Sw1_sp_c>0</Sw1_sp_c>
+                      <Sw2_sp_c>0.016</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0</Sw1_sp_e>
+                      <Sw2_sp_e>0.029</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>1</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.016</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Tl_E>
+                      <Type_Horl>0</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>0</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>1</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>1</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>1</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>2.04</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>2</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>0.73</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>3</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>0.73</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>2</Index>
+                      <Name>Vitrage 120/105h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
+                      <Description />
+                      <Alpha>45</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>1.26</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>1</Choix_PM_GPM>
+                      <Typo_Permea_PM>1</Typo_Permea_PM>
+                      <Uap_Vert>1.037</Uap_Vert>
+                      <Usp_Vert>1.4</Usp_Vert>
+                      <Uap_Horiz>1.07</Uap_Horiz>
+                      <Usp_Horiz>1.461</Usp_Horiz>
+                      <Sw1_sp_c>0</Sw1_sp_c>
+                      <Sw2_sp_c>0.46</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0</Sw1_sp_e>
+                      <Sw2_sp_e>0.47</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0.58</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.08</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0.03</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0</M_fixe_Tl_E>
+                      <Type_Horl>1</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>1</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>0.8</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>2</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>4</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>1.05</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>5</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>1.2</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>6</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>1.2</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>3</Index>
+                      <Name>Vitrage 220/215h CO1$ALU_DV$Men. ALU MEN. FRANCAISES Prestance. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
+                      <Description />
+                      <Alpha>45</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>4.73</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>1</Choix_PM_GPM>
+                      <Typo_Permea_PM>1</Typo_Permea_PM>
+                      <Uap_Vert>1.143</Uap_Vert>
+                      <Usp_Vert>1.6</Usp_Vert>
+                      <Uap_Horiz>1.184</Uap_Horiz>
+                      <Usp_Horiz>1.681</Usp_Horiz>
+                      <Sw1_sp_c>0.53</Sw1_sp_c>
+                      <Sw2_sp_c>0</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0.52</Sw1_sp_e>
+                      <Sw2_sp_e>0</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0.66</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.03</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0.03</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0</M_fixe_Tl_E>
+                      <Type_Horl>1</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>1</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>0.4</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>2</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>7</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>2.15</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>8</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>2.2</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>9</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>2.2</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>4</Index>
+                      <Name>Vitrage 60/75 FE1$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). interc. chaud. sans volet</Name>
+                      <Description />
+                      <Alpha>45</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>0.45</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>0</Choix_PM_GPM>
+                      <Typo_Permea_PM>4</Typo_Permea_PM>
+                      <Uap_Vert>1.4</Uap_Vert>
+                      <Usp_Vert>1.4</Usp_Vert>
+                      <Uap_Horiz>1.461</Uap_Horiz>
+                      <Usp_Horiz>1.461</Usp_Horiz>
+                      <Sw1_sp_c>0</Sw1_sp_c>
+                      <Sw2_sp_c>0.45</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0</Sw1_sp_e>
+                      <Sw2_sp_e>0.45</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0.58</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.45</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0.55</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Tl_E>
+                      <Type_Horl>0</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>1</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>0.8</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>2</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>10</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>0.75</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>11</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>0.6</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>12</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>0.6</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>5</Index>
+                      <Name>Vitrage 100/105h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
+                      <Description />
+                      <Alpha>45</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>2.1</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>1</Choix_PM_GPM>
+                      <Typo_Permea_PM>1</Typo_Permea_PM>
+                      <Uap_Vert>1.037</Uap_Vert>
+                      <Usp_Vert>1.4</Usp_Vert>
+                      <Uap_Horiz>1.07</Uap_Horiz>
+                      <Usp_Horiz>1.461</Usp_Horiz>
+                      <Sw1_sp_c>0</Sw1_sp_c>
+                      <Sw2_sp_c>0.46</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0</Sw1_sp_e>
+                      <Sw2_sp_e>0.47</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0.58</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.08</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0.03</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0</M_fixe_Tl_E>
+                      <Type_Horl>1</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>1</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>0.8</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>2</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>13</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>1.05</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>14</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>1</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>15</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>1</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>6</Index>
+                      <Name>Vitrage 120/215h PF2$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
+                      <Description />
+                      <Alpha>225</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>5.16</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>1</Choix_PM_GPM>
+                      <Typo_Permea_PM>1</Typo_Permea_PM>
+                      <Uap_Vert>1.037</Uap_Vert>
+                      <Usp_Vert>1.4</Usp_Vert>
+                      <Uap_Horiz>1.07</Uap_Horiz>
+                      <Usp_Horiz>1.461</Usp_Horiz>
+                      <Sw1_sp_c>0.46</Sw1_sp_c>
+                      <Sw2_sp_c>0</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0.45</Sw1_sp_e>
+                      <Sw2_sp_e>0</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0.57</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.08</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0.03</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0</M_fixe_Tl_E>
+                      <Type_Horl>1</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>1</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>0.8</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>2</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>16</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>2.15</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>17</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>1.2</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>18</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>1.2</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>7</Index>
+                      <Name>Vitrage PE PE$Porte ACIER à occulus à âme isolante BEL'M Trapèze</Name>
+                      <Description />
+                      <Alpha>225</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>1.935</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>0</Choix_PM_GPM>
+                      <Typo_Permea_PM>4</Typo_Permea_PM>
+                      <Uap_Vert>1.2</Uap_Vert>
+                      <Usp_Vert>1.2</Usp_Vert>
+                      <Uap_Horiz>1.2</Uap_Horiz>
+                      <Usp_Horiz>1.2</Usp_Horiz>
+                      <Sw1_sp_c>0</Sw1_sp_c>
+                      <Sw2_sp_c>0.019</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0</Sw1_sp_e>
+                      <Sw2_sp_e>0.034</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.019</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ;0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</M_fixe_Tl_E>
+                      <Type_Horl>0</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>0</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>1</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>1</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>19</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>2.15</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>20</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>0.9</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>21</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>0.9</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>8</Index>
+                      <Name>Vitrage 50/305h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
+                      <Description />
+                      <Alpha>225</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>1.525</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>1</Choix_PM_GPM>
+                      <Typo_Permea_PM>1</Typo_Permea_PM>
+                      <Uap_Vert>1.037</Uap_Vert>
+                      <Usp_Vert>1.4</Usp_Vert>
+                      <Uap_Horiz>1.07</Uap_Horiz>
+                      <Usp_Horiz>1.461</Usp_Horiz>
+                      <Sw1_sp_c>0</Sw1_sp_c>
+                      <Sw2_sp_c>0.44</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0</Sw1_sp_e>
+                      <Sw2_sp_e>0.43</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0.55</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.08</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0.03</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0</M_fixe_Tl_E>
+                      <Type_Horl>1</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>1</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>0.8</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>2</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>22</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>3.05</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>23</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>0.5</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>24</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>0.5</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                    <Baie>
+                      <Index>9</Index>
+                      <Name>Vitrage 100/105h FE3$PVC_DV$Men. PVC MEN. FRANCAISES Effybelle. 4 16(argon) 4 (ITR). inter. chaud. VR auto.</Name>
+                      <Description />
+                      <Alpha>225</Alpha>
+                      <Beta>90</Beta>
+                      <Ab>2.1</Ab>
+                      <Type_volume>1</Type_volume>
+                      <Type_Baie>2</Type_Baie>
+                      <Choix_PM_GPM>1</Choix_PM_GPM>
+                      <Typo_Permea_PM>1</Typo_Permea_PM>
+                      <Uap_Vert>1.037</Uap_Vert>
+                      <Usp_Vert>1.4</Usp_Vert>
+                      <Uap_Horiz>1.07</Uap_Horiz>
+                      <Usp_Horiz>1.461</Usp_Horiz>
+                      <Sw1_sp_c>0</Sw1_sp_c>
+                      <Sw2_sp_c>0.46</Sw2_sp_c>
+                      <Sw3_sp_c>0</Sw3_sp_c>
+                      <Sw1_sp_e>0</Sw1_sp_e>
+                      <Sw2_sp_e>0.47</Sw2_sp_e>
+                      <Sw3_sp_e>0</Sw3_sp_e>
+                      <Tli_sp>0.58</Tli_sp>
+                      <Tlid_sp>0</Tlid_sp>
+                      <Id_Et>0</Id_Et>
+                      <Prot_Ext>1</Prot_Ext>
+                      <Sw1_ap>0</Sw1_ap>
+                      <Sw2_ap>0.08</Sw2_ap>
+                      <Sw3_ap>0</Sw3_ap>
+                      <Tli_ap>0.03</Tli_ap>
+                      <Tlid_ap>0</Tlid_ap>
+                      <M_suntracking_Sw_BC>0</M_suntracking_Sw_BC>
+                      <M_suntracking_Sw_E>0</M_suntracking_Sw_E>
+                      <M_suntracking_Tl_BCE>0</M_suntracking_Tl_BCE>
+                      <M_fixe_Sw_BC>0</M_fixe_Sw_BC>
+                      <M_fixe_Sw_E>0</M_fixe_Sw_E>
+                      <M_fixe_Tl_BC>0</M_fixe_Tl_BC>
+                      <M_fixe_Tl_E>0</M_fixe_Tl_E>
+                      <Type_Horl>1</Type_Horl>
+                      <M_Horl_Jour>0 0 0 ;0 0 0</M_Horl_Jour>
+                      <Detec_Pres>1</Detec_Pres>
+                      <Loc_Occ_Pass>0</Loc_Occ_Pass>
+                      <PM2>0</PM2>
+                      <Exp_BR>1</Exp_BR>
+                      <Baie_ouvrable>1</Baie_ouvrable>
+                      <Valeur_Saisie_Defaut_Rouvmax>1</Valeur_Saisie_Defaut_Rouvmax>
+                      <Type_Ouvrant>0</Type_Ouvrant>
+                      <Rouv_Max>0.8</Rouv_Max>
+                      <Has_Gestion_Auto_Ouverture>0</Has_Gestion_Auto_Ouverture>
+                      <Valeur_Declaree_Defaut_Ouverture_Baie_Auto>2</Valeur_Declaree_Defaut_Ouverture_Baie_Auto>
+                      <Param_OuvBaie_Hiver>3 1 26 2 12 18</Param_OuvBaie_Hiver>
+                      <Param_OuvBaie_MiSaison>3 1 24 2 10 18</Param_OuvBaie_MiSaison>
+                      <Param_OuvBaie_Ete>3 1 22 2 8 16</Param_OuvBaie_Ete>
+                      <Masque_Collection>
+                        <Masque_Horizontal>
+                          <Index>25</Index>
+                          <Name>Masque horizontal</Name>
+                          <Description />
+                          <Dhm>0.2</Dhm>
+                          <Dhp>0</Dhp>
+                          <hp_b>1.05</hp_b>
+                        </Masque_Horizontal>
+                        <Masque_Vert_Gauche>
+                          <Index>26</Index>
+                          <Name>Masque vetical gauche</Name>
+                          <Description />
+                          <Dpg>0</Dpg>
+                          <Dvg>0.2</Dvg>
+                          <lp_b>1</lp_b>
+                        </Masque_Vert_Gauche>
+                        <Masque_Vert_Droite>
+                          <Index>27</Index>
+                          <Name>Masque vertical droit</Name>
+                          <Description />
+                          <Dpd>0</Dpd>
+                          <Dvd>0.2</Dvd>
+                          <lp_b>1</lp_b>
+                        </Masque_Vert_Droite>
+                      </Masque_Collection>
+                    </Baie>
+                  </Baie_Collection>
+                  <Bouche_Conduit_Collection>
+                    <Bouche_Conduit>
+                      <Index>1</Index>
+                      <Name>0</Name>
+                      <Description />
+                      <Type_Bouche_Conduit>0</Type_Bouche_Conduit>
+                      <Cdep>2</Cdep>
+                      <valeur_surface_conduit_rep>0</valeur_surface_conduit_rep>
+                      <valeur_surface_conduit_souf>0</valeur_surface_conduit_souf>
+                      <A_cond_rep>0</A_cond_rep>
+                      <A_cond_souf>0</A_cond_souf>
+                      <Cdep_Value>1</Cdep_Value>
+                      <Classe_Etancheite>3</Classe_Etancheite>
+                      <Ratfuitevc>0.25</Ratfuitevc>
+                      <Type_Regul_Non_Res>0</Type_Regul_Non_Res>
+                      <Cndbnr_Value>1</Cndbnr_Value>
+                      <Type_Regul_Res>1</Type_Regul_Res>
+                      <R_rep>0.6</R_rep>
+                      <R_souf>0</R_souf>
+                      <Qv_rep_occ>0</Qv_rep_occ>
+                      <Qv_rep_inocc>0</Qv_rep_inocc>
+                      <Qv_souf_occ>0</Qv_souf_occ>
+                      <Qv_souf_inocc>0</Qv_souf_inocc>
+                      <Qv_rep_pointe>93.52</Qv_rep_pointe>
+                      <Qv_rep_base>93.52</Qv_rep_base>
+                      <Qv_souf_pointe>0</Qv_souf_pointe>
+                      <Qv_souf_base>0</Qv_souf_base>
+                      <Qv_souf_CH>0</Qv_souf_CH>
+                      <Qv_souf_ZN_occ>0</Qv_souf_ZN_occ>
+                      <Qv_souf_ZN_inocc>0</Qv_souf_ZN_inocc>
+                      <Qv_rep_CH>0</Qv_rep_CH>
+                      <Qv_rep_ZN_occ>0</Qv_rep_ZN_occ>
+                      <Qv_rep_ZN_inocc>0</Qv_rep_ZN_inocc>
+                      <Id_Systeme_Mecanique>1</Id_Systeme_Mecanique>
+                      <Emetteur_Collection />
+                      <Qspec_rep_rafnoc>0</Qspec_rep_rafnoc>
+                      <Qspec_souf_rafnoc>0</Qspec_souf_rafnoc>
+                    </Bouche_Conduit>
+                  </Bouche_Conduit_Collection>
+                  <Aeration_Collection />
+                  <Ventilation_Naturelle_Hybride_Collection />
+                  <Brasseur_Air_Collection />
+                  <Emission_Rafraichissement_Direct_Collection />
+                </Groupe>
+              </Groupe_Collection>
+              <Ventilation_Mecanique_Collection>
+                <Ventilation_Mecanique>
+                  <Index>1</Index>
+                  <Name>ATLANTIC HYGROCOSY BC</Name>
+                  <Description />
+                  <Type_Ventilation_Mecanique>0</Type_Ventilation_Mecanique>
+                  <Niveau_Pression>0</Niveau_Pression>
+                  <Type_CTA_DAC>0</Type_CTA_DAC>
+                  <Q_souf_cond_max_occ>0</Q_souf_cond_max_occ>
+                  <Q_souf_cond_max_inocc>0</Q_souf_cond_max_inocc>
+                  <Type_Ventilateur>0</Type_Ventilateur>
+                  <Type_Echangeur>1</Type_Echangeur>
+                  <Type_Echangeur_Detaille>0</Type_Echangeur_Detaille>
+                  <Certificat_Efficacite_Echangeur>2</Certificat_Efficacite_Echangeur>
+                  <Epsilon>0</Epsilon>
+                  <P_elec_ech>0</P_elec_ech>
+                  <UA>0</UA>
+                  <Is_Antigel>0</Is_Antigel>
+                  <Statut_Regulation_Antigel>0</Statut_Regulation_Antigel>
+                  <T_sec_h_rep_LIM>0</T_sec_h_rep_LIM>
+                  <Is_ByPass>0</Is_ByPass>
+                  <T_ext_bp_hiver>0</T_ext_bp_hiver>
+                  <T_int_bp_hiver>0</T_int_bp_hiver>
+                  <T_ext_bp_ete>0</T_ext_bp_ete>
+                  <T_int_bp_ete>0</T_int_bp_ete>
+                  <T_ENC>0</T_ENC>
+                  <T_ENF>0</T_ENF>
+                  <T_aux_AN>0</T_aux_AN>
+                  <Type_Regulation>0</Type_Regulation>
+                  <T_ext_T_AN>0</T_ext_T_AN>
+                  <T_extref>0</T_extref>
+                  <Is_Prechaud>0</Is_Prechaud>
+                  <Is_Prefroid>0</Is_Prefroid>
+                  <Is_ChaudHR>0</Is_ChaudHR>
+                  <Type_Humidification>0</Type_Humidification>
+                  <W_cons>0</W_cons>
+                  <T_cons_prechaud>0</T_cons_prechaud>
+                  <T_ex_prechaud>0</T_ex_prechaud>
+                  <Theta_souf_nom_chaud>0</Theta_souf_nom_chaud>
+                  <Theta_dim_fr>0</Theta_dim_fr>
+                  <T_cons_prefroid>0</T_cons_prefroid>
+                  <T_ex_prefroid>0</T_ex_prefroid>
+                  <Theta_souf_nom_froid>0</Theta_souf_nom_froid>
+                  <Type_Humidification_Ete>0</Type_Humidification_Ete>
+                  <Theta_i_base>0</Theta_i_base>
+                  <Delta_Theta_i_1>0</Delta_Theta_i_1>
+                  <Delta_Theta_i_2>0</Delta_Theta_i_2>
+                  <Rendement_Humidificateur_Ete>0</Rendement_Humidificateur_Ete>
+                  <Pvent_base_souf>0</Pvent_base_souf>
+                  <Pvent_pointe_souf>0</Pvent_pointe_souf>
+                  <Pvent_base_rep>13.6</Pvent_base_rep>
+                  <Pvent_pointe_rep>13.6</Pvent_pointe_rep>
+                  <Pvent_souf_occ>0</Pvent_souf_occ>
+                  <Pvent_souf_inocc>0</Pvent_souf_inocc>
+                  <Pvent_souf_ZN_occ>0</Pvent_souf_ZN_occ>
+                  <Pvent_souf_ZN_inocc>0</Pvent_souf_ZN_inocc>
+                  <Pvent_souf_CH>0</Pvent_souf_CH>
+                  <Pvent_rep_occ>0</Pvent_rep_occ>
+                  <Pvent_rep_inocc>0</Pvent_rep_inocc>
+                  <Pvent_rep_ZN_occ>0</Pvent_rep_ZN_occ>
+                  <Pvent_rep_ZN_inocc>0</Pvent_rep_ZN_inocc>
+                  <Pvent_rep_CH>0</Pvent_rep_CH>
+                  <Pvent>0</Pvent>
+                  <Pvent_pointe>0</Pvent_pointe>
+                  <Id_Puits_Climatique>0</Id_Puits_Climatique>
+                  <Id_Puits_Hydraulique>0</Id_Puits_Hydraulique>
+                  <Type_eff_echangeur>0</Type_eff_echangeur>
+                  <Pch>0</Pch>
+                  <Pfr>0</Pfr>
+                  <Synchro_Surventil_Puits>0</Synchro_Surventil_Puits>
+                  <Origine_Horaire>0</Origine_Horaire>
+                  <Dugd>0</Dugd>
+                  <H_gd>0</H_gd>
+                  <V_vent_reg>0</V_vent_reg>
+                  <Theta_ext_reg>0</Theta_ext_reg>
+                  <Id_Et>0</Id_Et>
+                  <Distribution_CTA_Chaud_Collection />
+                  <Is_Rafnoc>0</Is_Rafnoc>
+                  <Param_Rafnoc_MiSaison>0</Param_Rafnoc_MiSaison>
+                  <Param_Rafnoc_Ete>0</Param_Rafnoc_Ete>
+                  <Pvent_rafnoc_rep>0</Pvent_rafnoc_rep>
+                  <Pvent_rafnoc_souf>0</Pvent_rafnoc_souf>
+                </Ventilation_Mecanique>
+              </Ventilation_Mecanique_Collection>
+              <Puits_Climatique_Collection />
+              <Puits_Hydraulique_Collection />
+            </Zone>
+          </Zone_Collection>
+          <Ascenseur_Collection />
+          <Escalator_Collection />
+        </Batiment>
+      </Batiment_Collection>
+      <Simu>
+        <Index>1</Index>
+        <Name>simu1</Name>
+        <Description />
+        <Mode>3</Mode>
+        <Avec_Clim_Fictive>0</Avec_Clim_Fictive>
+        <Option_Sensibilite>0</Option_Sensibilite>
+        <Departement>67</Departement>
+        <Zone_Ete_Int_Lit>1</Zone_Ete_Int_Lit>
+        <Altitude>0</Altitude>
+      </Simu>
+      <PV_install_Collection />
+      <Distribution_Intergroupe_Chaud_Collection>
+        <Distribution_Intergroupe_Chaud>
+          <Index>1</Index>
+          <Name>Reseau virtuel  1</Name>
+          <Description />
+          <Type_Prim>0</Type_Prim>
+          <Lvc_Prim>0</Lvc_Prim>
+          <Lhvc_Prim>0</Lhvc_Prim>
+          <Id_Gen>1</Id_Gen>
+          <Id_Et>0</Id_Et>
+          <Umoyen_Vc_Prim_Ch>0</Umoyen_Vc_Prim_Ch>
+          <Umoyen_Hvc_Prim_Ch>0</Umoyen_Hvc_Prim_Ch>
+          <Gest_Circ_Prim_Ch>0</Gest_Circ_Prim_Ch>
+          <Pcirc_Prim_Ch>0</Pcirc_Prim_Ch>
+        </Distribution_Intergroupe_Chaud>
+        <Distribution_Intergroupe_Chaud>
+          <Index>2</Index>
+          <Name>Reseau virtuel  2</Name>
+          <Description />
+          <Type_Prim>0</Type_Prim>
+          <Lvc_Prim>0</Lvc_Prim>
+          <Lhvc_Prim>0</Lhvc_Prim>
+          <Id_Gen>2</Id_Gen>
+          <Id_Et>0</Id_Et>
+          <Umoyen_Vc_Prim_Ch>0</Umoyen_Vc_Prim_Ch>
+          <Umoyen_Hvc_Prim_Ch>0</Umoyen_Hvc_Prim_Ch>
+          <Gest_Circ_Prim_Ch>0</Gest_Circ_Prim_Ch>
+          <Pcirc_Prim_Ch>0</Pcirc_Prim_Ch>
+        </Distribution_Intergroupe_Chaud>
+      </Distribution_Intergroupe_Chaud_Collection>
+      <Distribution_Intergroupe_Froid_Collection>
+      <Distribution_Intergroupe_Froid>
+          <Index>1</Index>
+          <Name>Reseau virtuel  1</Name>
+          <Description />
+          <Type_Prim>0</Type_Prim>
+          <Lvc_Prim>0</Lvc_Prim>
+          <Lhvc_Prim>0</Lhvc_Prim>
+          <Id_Gen>1</Id_Gen>
+          <Id_Et>0</Id_Et>
+          <Umoyen_Vc_Prim_Fr>0</Umoyen_Vc_Prim_Fr>
+          <Umoyen_Hvc_Prim_Fr>0</Umoyen_Hvc_Prim_Fr>
+          <Gest_Circ_Prim_Fr>0</Gest_Circ_Prim_Fr>
+          <Pcirc_Prim_Fr>0</Pcirc_Prim_Fr>
+        </Distribution_Intergroupe_Froid>
+      </Distribution_Intergroupe_Froid_Collection>
+      <Distribution_Intergroupe_ECS_Collection>
+        <Distribution_Intergroupe_ECS>
+          <Index>1</Index>
+          <Name>Reseau virtuel ECS 1</Name>
+          <Description />
+          <Type_Reseau_Intergroupe_ECS>0</Type_Reseau_Intergroupe_ECS>
+          <l_vc_prim_bcl_e>0</l_vc_prim_bcl_e>
+          <l_hvc_prim_bcl_e>0</l_hvc_prim_bcl_e>
+          <l_vc_prim_trac_e>0</l_vc_prim_trac_e>
+          <l_hvc_prim_trac_e>0</l_hvc_prim_trac_e>
+          <u_prim_e>0</u_prim_e>
+          <Is_Rechauf_Bcl_e>0</Is_Rechauf_Bcl_e>
+          <type_gest_circ_e>0</type_gest_circ_e>
+          <p_circ_prim_e>0</p_circ_prim_e>
+          <Id_Gen>3</Id_Gen>
+          <Id_PCAD>0</Id_PCAD>
+          <Id_Et>0</Id_Et>
+        </Distribution_Intergroupe_ECS>
+      </Distribution_Intergroupe_ECS_Collection>
+      <Distribution_Intergroupe_ECS_MTA_Collection />
+      <Distribution_Intergroupe_Mixte_MTA_Collection />
+      <Distribution_Intergroupe_Evacuation_EG_Collection />
+      <PCAD_Collection />
+      <Parking_Collection />
+    </Entree_Projet>
+  </RSET>
+</projet>
