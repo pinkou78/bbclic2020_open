@@ -1,0 +1,169 @@
+{
+	"coefficient_absorption_solaire_paroi_vegetalise" :[
+		{"texte":"Extensive", "value":0.70},
+		{"texte":"Semi_intensive", "value": 0.40}],
+	"resistance_thermique_additionnelle_vegetalise" : [
+		{
+			"type_drain": "Polystyrene",
+			"liste" : [
+				{
+					"nom": "Extensive",
+					"epaisseur": "6cm",
+					"Rveg" : 0.30
+				},
+				{
+					"nom": "Semi_intensive",
+					"epaisseur": "14cm",
+					"Rveg" : 0.45
+				}
+			]
+		},
+		{
+			"type_drain": "autres type",
+			"liste": [
+				{
+					"nom": "Extensive",
+					"epaisseur": "6cm",
+					"Rveg": 0.15
+				},
+				{
+					"nom": "Semi_intensive",
+					"epaisseur": "14cm",
+					"Rveg": 0.30
+				}
+			]
+		}
+	],
+	"classe_climatique_thermique" :[
+		{
+			"code":"H1a",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 75.0},{"texte": "non","value": 25.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 50.0},{"texte": "non","value": 20.0}]}
+			]
+		},
+		{
+			"code":"H1b",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 75.0},{"texte": "non","value": 25.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 50.0},{"texte": "non","value": 20.0}]}
+			]
+		},
+		{
+			"code":"H1c",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 75.0},{"texte": "non","value": 25.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 50.0},{"texte": "non","value": 20.0}]}
+			]
+		},
+		{
+			"code":"H2a",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 35.0},{"texte": "non","value": 10.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 20.0},{"texte": "non","value": 10.0}]}
+			]
+		},
+		{
+			"code":"H2b",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 35.0},{"texte": "non","value": 10.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 20.0},{"texte": "non","value": 10.0}]}
+			]
+		},
+		{
+			"code":"H2c",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 35.0},{"texte": "non","value": 10.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 20.0},{"texte": "non","value": 10.0}]}
+			]
+		},
+		{
+			"code":"H2d",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 20.0},{"texte": "non","value": 5.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 15.0},{"texte": "non","value": 5.0}]}
+			]
+		},
+		{
+			"code":"H3",
+			"liste" : [
+				{"nom": "Extensive","donnees": [{"texte": "oui","value": 20.0},{"texte": "non","value": 5.0}]},
+				{"nom": "Semi_intensive","donnees": [{"texte": "oui","value": 15.0},{"texte": "non","value": 5.0}]}
+			]
+		}
+	],
+
+	"resistance_superficielle":[
+  { "type": "Paroi Horizontal",
+  "liste" : [
+    {"nom": "Rsi", "value": 0.10},
+		{"nom": "Rsi-c", "value": 0.10},
+		{"nom": "Rsi-e", "value": 0.10},
+		{"nom": "Rse", "value": 0.04},
+		{"nom": "Rse-c", "value": 0.04},
+		{"nom": "Rse-e", "value": 0.07}
+		]
+  },
+  {"type": "Paroi Vertical",
+  "liste" : [
+    {"nom": "Rsi", "value": 0.13},
+    {"nom": "Rse", "value": 0.04}
+    ]
+  }
+],
+
+	"performance_thermique_generic": [
+		{
+			"usage": "isolant thermique",
+			"liste": [
+				{
+					"nom": "Polyurethane",
+					"donnees": [
+						{
+							"nom": "conductivite_thermique",
+							"value": 0.022
+						}
+					]
+				},
+				{
+					"nom": "Polystyrene",
+					"donnees": [
+						{
+							"nom": "conductivite_thermique",
+							"value": 0.038
+						}
+					]
+				}
+			]
+		},
+		{
+			"usage": "divers",
+			"liste": [
+				{
+					"nom": "plaque de platre",
+					"donnees": [
+						{
+							"nom": "resistance_thermique",
+							"value": 0.040
+						},
+						{
+							"nom": "conductivite_thermique",
+							"value": 0.25
+						}
+					]
+				},
+				{
+					"nom": "Enduit Ext",
+					"donnees": [
+						{
+							"nom": "conductivite_thermique",
+							"value": 0.87
+						}
+					]
+				}
+			]
+		}
+	]
+
+
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "Lot" : 1,
+        "Nom" : "VRD",
+        "Valeurs" : [14.6877,13.866992,12.146333,12.146333]
+    },
+    {
+        "Lot" : 2,
+        "Nom" : "Fondations et infrastructures ",
+        "Valeurs" : [23.98,28.75373,23.63146,23.63146]
+    },
+    {
+        "Lot" : 3,
+        "Nom" : "Superstructure - Maçonnerie",
+        "Valeurs" : [12.5086,23.097054,16.820528,29.336428]
+    },
+    {
+        "Lot" : 4,
+        "Nom" : "Couverture – Etanchéité - Charpente - Zinguerie",
+        "Valeurs" : [13.9467,12.014613,13.83845,26.036261]
+    },
+    {
+        "Lot" : 5,
+        "Nom" : "Cloisonnement - Doublage - Plafonds suspendus - Menuiseries intérieures",
+        "Valeurs" : [12.17,18.45073,13.60139,13.60139]
+    },
+    {
+        "Lot" : 6,
+        "Nom" : "Façades et menuiseries extérieures",
+        "Valeurs" : [7.61,15.57262,10.437088,11.554868]
+    },
+    {
+        "Lot" : 7,
+        "Nom" : "Revêtements des sols, murs et plafonds - Chape -Peintures - Produits de décoration",
+        "Valeurs" : [33.14,15.25395,18.12114,18.12114]
+    },
+    {
+        "Lot" : 8,
+        "Nom" : "CVC (Chauffage – Ventilation – Refroidissement - eau chaude sanitaire)",
+        "Valeurs" : [0,2.85236,5.01243,5.01243]
+    },
+    {
+        "Lot" : 9,
+        "Nom" : "Installations sanitaires",
+        "Valeurs" : [22.2325,14.43022,19.54979,19.54979]
+    },
+    {
+        "Lot" : 10,
+        "Nom" : "Réseaux d’énergie (courant fort)",
+        "Valeurs" : [98,97.9998,97.9998,97.9998]
+    },
+    {
+        "Lot" : 11,
+        "Nom" : "Réseaux de communication (courant faible)",
+        "Valeurs" : [2,1.99648,1.99648,1.99648]
+    },
+    {
+        "Lot" : 12,
+        "Nom" : "Appareils élévateurs et équipements de transport intérieur",
+        "Valeurs" : [0,0,0,0]
+    },
+    {
+        "Lot" : 13,
+        "Nom" : "Equipement de production locale d'électricité",
+        "Valeurs" : [0,0,0,0]
+    }
+]

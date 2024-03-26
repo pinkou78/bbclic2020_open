@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<produits>
+	<produit id="0" GUID="6F8CB49C-41B5-4B28-ADA5-2B244518AC19" groupe="Paroi" name="Blocs creux – granulats courants – maçonnés – B40"/>
+	<produit id="1" GUID="D7859845-4B5D-46CB-A19B-5FC9D4C3DBF3" groupe="Paroi" name="Blocs creux – granulats courants – maçonnés – B60"/>
+	<produit id="2" GUID="2C76BFA8-DA46-4698-B334-A5216A60FC9E" groupe="Paroi" name="Blocs creux – granulats courants – collés – B40"/>
+	<produit id="3" GUID="68FD2FF6-3546-43B5-A2B0-D097E6DC9335" groupe="Paroi" name="Blocs creux – granulats courants – collés – B60"/>
+	<produit id="4" GUID="" groupe="Paroi" name="Bloc creux - multialveolaire - granulats leger - R=1.00 (m².K)/W"/>
+	<produit id="5" GUID="" groupe="Paroi" name="Bloc creux - isolant intégré - collé - R=1.00 (m².K)/W"/>
+	<produit id="6" GUID="" groupe="Paroi" name="Bloc creux - isolant intégré - collé - R=1.50 (m².K)/W"/>
+	<produit id="7" GUID="" groupe="Paroi" name="Bloc creux - isolant intégré - collé - R=2.00 (m².K)/W"/>
+	<produit id="8" GUID="" groupe="Paroi" name="Bloc béton cellulaire - R=1.50 (m².K)/W"/>
+	<produit id="9" GUID="" groupe="Paroi" name="Bloc béton cellulaire - R=2.00 (m².K)/W"/>
+
+	<produit id="10" GUID="641EBBB4-8D95-4A83-ABA5-E33B5BCCDC2B" groupe="Doublage interieur" name="Doublage sur ossature laine de verre (λ = 0,032 W/(m.K))"/>
+	<produit id="11" GUID="5884E78A-A9F4-4AD4-900C-E72D5D9ECCAF" groupe="Doublage interieur" name="Doublage collé PSE (λ = 0,032 W/(m.K))"/>
+	<produit id="12" GUID="D77765BB-B2DC-4A60-BE2E-9F721BFB8E9B" groupe="Doublage interieur" name="Doublage collé PSE (λ = 0,030 W/(m.K))"/>
+	<produit id="13" GUID="328ACC72-D7E5-49DE-A9DD-37D7C70A97BA" groupe="Doublage interieur" name="Doublage collé Polyuréthane (λ = 0,022 W/(m.K))"/>
+	<produit id="14" GUID="4AAA6794-88C4-4885-B141-FFF504D121D9" groupe="Doublage interieur" name="Doublage collé laine de roche (λ = 0,036 W/(m.K))"/>
+	<produit id="15" GUID="58C61547-3E45-49D9-8593-876BCC762B96" groupe="Doublage interieur" name="Doublage sur ossature fibre de bois (λ = 0,038 W/(m.K))"/>
+
+	<produit id="16" GUID="58E1ED6C-8A93-4829-879E-62C62CD36D52" groupe="Menuiseries Exterieures" name="Performance basse - MEX"/>
+	<produit id="17" GUID="EEBB4402-567C-4DAF-B11F-410BCB2CFD95" groupe="Menuiseries Exterieures" name="Performance standard - MEX"/>
+	<produit id="18" GUID="405F98D8-F9EB-4CB9-BA98-BEF49957CF5F" groupe="Menuiseries Exterieures" name="Performance haute - MEX"/>
+	<produit id="19" GUID="A6FD9EFC-5F6E-43BE-9CB1-D110D03DBFB8" groupe="Menuiseries Exterieures" name="Performance basse - FT"/>
+	<produit id="20" GUID="02F761C5-082B-44C6-B35E-883C462AEC25" groupe="Menuiseries Exterieures" name="Performance standard - FT"/>
+	<produit id="21" GUID="EEB3B5EA-3C4B-4BBE-B82C-C7651C9AA3A3" groupe="Menuiseries Exterieures" name="Performance haute - FT"/>
+
+	<produit id="22" GUID="F91D8D4B-CD45-410A-871B-BEECAAE3CE68" groupe="Menuiseries Exterieures" name="Volets battant - MEX"/>
+	<produit id="23" GUID="B5260A30-10F9-413A-B1D0-D30C0889B7D1" groupe="Menuiseries Exterieures" name="Volets roulants - MEX"/>
+	<produit id="24" GUID="5EA99DE0-F83C-44B7-BAF4-10F44A7828D7" groupe="Menuiseries Exterieures" name="Volets persiennes - MEX"/>
+	<produit id="25" GUID="2AD830A5-29EC-414D-B47C-669BB41CDE15" groupe="Menuiseries Exterieures" name="Stores - MEX"/>
+	<produit id="26" GUID="B169A9B3-AA69-421D-AF61-D2F459CC18A7" groupe="Menuiseries Exterieures" name="Volets roulants - FT"/>
+	<produit id="27" GUID="30586BD1-3242-43E4-9847-1978D710DA9D" groupe="Menuiseries Exterieures" name="Stores interieurs - FT"/>
+
+	<produit id="28" GUID="C59A7DB8-ADC9-4361-9E0A-EE886CAA68F7" groupe="Cloisons interieures" name="BA13 sur ossature 72/48"/>
+	<produit id="29" GUID="FF6855D4-81F8-4D3A-AFAC-8468F949CF6C" groupe="Cloisons interieures" name="Cloison alvéolaire carton avec parement BA10"/>
+	<produit id="30" GUID="BD7EB50D-4436-4036-BB7D-9EB8406CAEB1" groupe="Cloisons interieures" name="Carreaux de platres plein 6 cm"/>
+	<produit id="31" GUID="3E4AE162-1D02-4934-93B2-4DF54FE9AA5F" groupe="Cloisons interieures" name="Blocs pleins en béton 7.5cm + enduits 2 faces"/>
+	<produit id="32" GUID="783396DE-8610-41A7-AB04-94F6477A81DF" groupe="Cloisons interieures" name="Blocs perforé en béton de 10 cm enduit"/>
+
+	<produit id="33" GUID="D54FE3D1-88A1-4C4D-B13F-19A160A5B874" groupe="Structure plancher bas" name="Dalle béton pleine 16cm sur VS"/>
+	<produit id="34" GUID="93D84CA5-B17C-4ACF-8906-A7FD7D0A5A0A" groupe="Structure plancher bas" name="Entrevous béton 12+4"/>
+	<produit id="35" GUID="162D9A10-FF82-4AA7-9C57-C67987CC479D" groupe="Structure plancher bas" name="Entrevous PSE 12+5 - Up= 0.27 W/(m².K)"/>
+	<produit id="36" GUID="223A3221-DA6E-4AA2-BD69-4CB12357468D" groupe="Structure plancher bas" name="Entrevous PSE 12+5 - Up= 0.23 W/(m².K)"/>
+	<produit id="37" GUID="3FDBE679-77EC-47DC-AB71-E7AC96F52FD4" groupe="Structure plancher bas" name="Entrevous PSE 12+5 - Up= 0.19 W/(m².K)"/>
+	<produit id="38" GUID="CC776579-66F2-4CBE-BE5A-F7FDA74D6774" groupe="Structure plancher bas" name="Entrevous PSE 12+5 - Up= 0.15 W/(m².K)"/>
+	<produit id="39" GUID="D37EF00A-2A34-41FE-BE77-1D37AA89A76F" groupe="Structure plancher bas" name="Entrevous PSE 12+5 - Up= 0.13 W/(m².K)"/>
+
+	<produit id="40" GUID="BC790245-1C56-4E77-9DF8-C7B1A6FFC561" groupe="Complement plancher bas" name="Sans"/>
+	<produit id="41" GUID="7053D6BE-E622-497A-9C3F-3B03BB317E54" groupe="Complement plancher bas" name="Isolation sous chape flottante - R= 1.00 (m².K)/W"/>
+	<produit id="42" GUID="5C31F850-6876-4426-A289-AA6C815E5C39" groupe="Complement plancher bas" name="Isolation sous chape flottante - R= 2.00 (m².K)/W"/>
+	<produit id="43" GUID="19B4AAC1-BC4E-49A4-A414-457CB93777E8" groupe="Complement plancher bas" name="Isolation sous chape flottante - R= 3.00 (m².K)/W"/>
+	<produit id="44" GUID="7FC6AB55-BE51-424F-B219-FB96615ADD72" groupe="Complement plancher bas" name="Isolation sous chape flottante - R= 4.00 (m².K)/W"/>
+	<produit id="45" GUID="957EDE03-20B7-4045-8D7B-13A936BD034E" groupe="Complement plancher bas" name="Isolation sous chape flottante - R= 5.00 (m².K)/W"/>
+
+	<produit id="46" GUID="B162B1F4-3E2B-4078-A3AD-B46ACA164CC2" groupe="Rive plancher bas" name="Planelle traditionnelle R= 0.07 (m².K)/W"/>
+	<produit id="47" GUID="6C7C9400-627E-4D2D-8C67-6ABCCA406285" groupe="Rive plancher bas" name="Planelle isolante R= 0.50 (m².K)/W"/>
+	<produit id="48" GUID="FA8FEAA8-4BB3-48C6-BA06-60A602065B54" groupe="Rive plancher bas" name="Planelle isolante R= 1.00 (m².K)/W"/>
+	<produit id="49" GUID="20DB8C34-D99C-47C0-BE37-C97658367C9D" groupe="Rive plancher bas" name="Planelle isolante en béton cellulaire R= 0.50 (m².K)/W"/>
+	<produit id="50" GUID="47484B94-8152-4899-BF51-AE0B2A15FFBE" groupe="Rive plancher bas" name="Rupteur total + planelle traditionnelle R= 0.07 (m².K)/W"/>
+	<produit id="51" GUID="815B1525-35B2-4357-8635-28F5D4227C73" groupe="Rive plancher bas" name="Rupteur total + Planelle isolante R= 0.50 (m².K)/W"/>
+	<produit id="52" GUID="F7846328-CDDA-4696-B4EF-A7FA4B8D4353" groupe="Rive plancher bas" name="Rupteur total + Planelle isolante R= 1.00 (m².K)/W"/>
+	<produit id="53" GUID="3A52D90E-AD61-4A96-AD5D-3EC9D6115775" groupe="Rive plancher bas" name="Rupteur total + Planelle isolante en béton cellulaire R= 0.50 (m².K)/W"/>
+
+	<produit id="54" GUID="0872AC8B-DAF5-44CA-A148-EA989CF0574E" groupe="Isolation combles" name="laine de verre déroulée - λ = 0.040 W/(m.K)"/>
+	<produit id="55" GUID="064EA1EE-F8D5-4D73-BB5E-161C7E75DA1A" groupe="Isolation combles" name="laine de verre soufflée - λ = 0.046 W/(m.K)"/>
+
+	<produit id="56" GUID="" groupe="Revetement plancher bas" name="Sans"/>
+	<produit id="57" GUID="033A6397-9660-4E92-B79E-5C08D2DB9C9E" groupe="Revetement plancher bas" name="Carrelage collé"/>
+	<produit id="58" GUID="44FC863B-99E3-41AB-834E-63F6F370C487" groupe="Revetement plancher bas" name="Parquet flottant"/>
+	<produit id="59" GUID="2A6D6837-A3B3-418C-BC90-BE79871B6CEB" groupe="Revetement plancher bas" name="Moquette"/>
+	<produit id="60" GUID="65164E11-D79D-4D25-AA3D-21178D258244" groupe="Revetement plancher bas" name="Revêtement de sol souple"/>
+
+	<produit id="61" GUID="" groupe="Revetement plancher intermediaire" name="Sans"/>
+	<produit id="62" GUID="2D8BE26B-A799-41F9-BD2D-7A209D696BDE" groupe="Revetement plancher intermediaire" name="Carrelage collé"/>
+	<produit id="63" GUID="927C2627-4A7B-4372-B0EE-0CCEDDD686AC" groupe="Revetement plancher intermediaire" name="Parquet flottant"/>
+	<produit id="64" GUID="15E0B29C-72C8-44E1-B641-F47B0092E9F6" groupe="Revetement plancher intermediaire" name="Moquette"/>
+	<produit id="65" GUID="5E8B2C58-A60D-48E6-A676-FBDF38C66EFF" groupe="Revetement plancher intermediaire" name="Revêtement de sol souple"/>
+
+	<produit id="66" GUID="3FE7540D-5474-4333-B843-307B98210DF6" groupe="Structure plancher intermediaire" name="Dalle béton de 16cm"/>
+	<produit id="67" GUID="445C8CC3-FC04-4643-BD3C-82F27EE428E5" groupe="Structure plancher intermediaire" name="Plancher à entrevous béton 12+4"/>
+	<produit id="68" GUID="A12AFE19-83D4-4E83-9CD4-4B9A042E96F2" groupe="Structure plancher intermediaire" name="Plancher à entrevous béton 16+4"/>
+	<produit id="69" GUID="5F4C2ED7-FEDB-4788-A292-D95B88854F13" groupe="Structure plancher intermediaire" name="Plancher à entrevous PSE sans languette 12+5"/>
+	<produit id="70" GUID="43BE187A-D23A-455A-8A18-4ACB15CB6428" groupe="Structure plancher intermediaire" name="Plancher à entrevous PSE sans languette 16+5"/>
+	<produit id="71" GUID="01DCE99A-EFAB-41EB-A781-83D98A47D01D" groupe="Structure plancher intermediaire" name="Plancher à entrevous de coffrage bois 12+5"/>
+	<produit id="72" GUID="88A662AA-ABF7-4C6A-B0D2-2A941B309C0E" groupe="Structure plancher intermediaire" name="Plancher à entrevous de coffrage bois 16+5"/>
+	<produit id="73" GUID="69A75101-4C4F-4EE6-80B4-8BC8B1376EE6" groupe="Structure plancher intermediaire" name="Plancher à entrevous de coffrage PVC 12+5"/>
+	<produit id="74" GUID="D559A56A-EF2D-4AA9-9D61-7B660DE41267" groupe="Structure plancher intermediaire" name="Plancher à entrevous de coffrage PVC 16+5"/>
+
+	<produit id="75" GUID="77206990-8CCA-4075-A1DB-0933901C4531" groupe="Structure plancher Haut" name="Dalle béton de 16cm"/>
+	<produit id="76" GUID="1856382E-41C3-4692-811B-90B2825DAAC1" groupe="Structure plancher Haut" name="Plancher à entrevous béton 12+4"/>
+	<produit id="77" GUID="32848060-F347-4B9A-B54E-20BDD43139CD" groupe="Structure plancher Haut" name="Plancher à entrevous béton 16+4"/>
+	<produit id="78" GUID="B255BA43-1ECF-42BE-ACAF-9B7C75BB3C2E" groupe="Structure plancher Haut" name="Plancher à entrevous PSE sans languette 12+5"/>
+	<produit id="79" GUID="0D183E4A-440D-4B83-8626-1A238BBB58FC" groupe="Structure plancher Haut" name="Plancher à entrevous PSE sans languette 16+5"/>
+	<produit id="80" GUID="37B0E19B-6917-473B-AFDA-1469B64318C1" groupe="Structure plancher Haut" name="Plancher à entrevous de coffrage bois 12+5"/>
+	<produit id="81" GUID="64D7B78E-3C0D-4E4A-AEE0-81C2BAC9950A" groupe="Structure plancher Haut" name="Plancher à entrevous de coffrage bois 16+5"/>
+	<produit id="82" GUID="0F23A3FE-EE2A-4230-9C4C-4EC9B69EC3BF" groupe="Structure plancher Haut" name="Plancher à entrevous de coffrage PVC 12+5"/>
+	<produit id="83" GUID="55DB16B4-2169-49C3-ACD6-094E19110A13" groupe="Structure plancher Haut" name="Plancher à entrevous de coffrage PVC 16+5"/>
+	
+	<produit id="84" GUID="E7CCA163-6681-4074-81A5-999F066B2AFA" groupe="Isolation Toiture terrasse" name="Isolant Polyuréthane (λ=0.022 W/(m.K))"/>
+	<produit id="85" GUID="7338D5A0-7FEC-4763-A3E4-62140AA7FC68" groupe="Isolation Toiture terrasse" name="Isolant Polystyrène (λ=0.038 W/(m.K))"/>
+	
+	<produit id="86" GUID="FCC99363-B8B8-4227-B046-F757F2DC92A7" groupe="Soubassement" name="Isolation du refend de soubassement"/>
+	<produit id="87" GUID="CD4541A3-7D2F-4D36-B2CB-249107A8FDB8" groupe="Complement plancher intermediaire" name="Isolation périphérique plafond suspendu PI"/>
+	<produit id="88" GUID="54658D50-DE3A-4621-A009-E92D9F146316" groupe="Complement plancher haut" name="Isolation périphérique plafond suspendu PH"/>
+	<produit id="89" GUID="FDB4DC36-31DF-47BE-8705-C509EFC7B11B" groupe="Complement plancher haut" name="Végétalisation toiture terrasse"/>
+	
+	<produit id="90" GUID="5282FE67-9196-4C71-B87E-343B10D85E90" groupe="Production" name="Panneau photovoltaïques"/>
+	<produit id="91" GUID="E8D1B4E5-7A5B-4C67-B3B0-858B65426915" groupe="Production" name="Brasseur d'air"/>
+	
+	<produit id="92" GUID="707E590B-13ED-4F34-8644-B30CC3225306" groupe="Production" name="Systeme production 1 - chaudière gaz"/>
+	<produit id="93" GUID="C612C429-06B2-4259-9B16-41D79915DABD" groupe="Production" name="Systeme production 2 - PAC Air/Eau hybride"/>
+	<produit id="94" GUID="D5792B8C-628C-4C05-A857-BDB3778B0E4A" groupe="Production" name="Systeme production 3 - PAC Air/Air gainable + clim"/>
+	<produit id="95" GUID="3B95C869-50AD-472A-9203-F357DEFFDFD6" groupe="Production" name="Systeme production 4 - PAC Air/Air gainable"/>
+	<produit id="96" GUID="AD2CF9F7-7A3E-4419-8680-DD8D3F11C032" groupe="Production" name="Systeme production 5 - PAC Air/Eau double service"/>
+	<produit id="97" GUID="091C32D8-0F8B-4EDC-8CAA-1C7ECB373610" groupe="Production" name="Systeme production 6 - Poele à granulés"/>
+	<produit id="98" GUID="A5A4A782-1EE2-4E3C-A54B-E445E5BDF558" groupe="Production" name="Systeme production 7 - PAC Air/Air Split"/>
+	<produit id="99" GUID="D3693C80-0509-4B29-9F01-E9723738A9CA" groupe="Production" name="Systeme production 9 - PAC Air/Air Split + clim"/>
+
+	<produit id="100" GUID="" groupe="Rive plancher intermediaire" name="Planelle traditionnelle R= 0.07 (m².K)/W"/>
+	<produit id="101" GUID="" groupe="Rive plancher intermediaire" name="Planelle isolante R= 0.50 (m².K)/W"/>
+	<produit id="102" GUID="" groupe="Rive plancher intermediaire" name="Planelle isolante R= 1.00 (m².K)/W"/>
+	<produit id="103" GUID="" groupe="Rive plancher intermediaire" name="Planelle isolante en béton cellulaire R= 0.50 (m².K)/W"/>
+	<produit id="104" GUID="" groupe="Rive plancher intermediaire" name="Rupteur total + planelle traditionnelle R= 0.07 (m².K)/W"/>
+	<produit id="105" GUID="" groupe="Rive plancher intermediaire" name="Rupteur total + Planelle isolante R= 0.50 (m².K)/W"/>
+	<produit id="106" GUID="" groupe="Rive plancher intermediaire" name="Rupteur total + Planelle isolante R= 1.00 (m².K)/W"/>
+	<produit id="107" GUID="" groupe="Rive plancher intermediaire" name="Rupteur total + Planelle isolante en béton cellulaire R= 0.50 (m².K)/W"/>
+
+	<produit id="108" GUID="" groupe="Rive plancher haut" name="Planelle traditionnelle R= 0.07 (m².K)/W"/>
+	<produit id="109" GUID="" groupe="Rive plancher haut" name="Planelle isolante R= 0.50 (m².K)/W"/>
+	<produit id="110" GUID="" groupe="Rive plancher haut" name="Planelle isolante R= 1.00 (m².K)/W"/>
+	<produit id="111" GUID="" groupe="Rive plancher haut" name="Planelle isolante en béton cellulaire R= 0.50 (m².K)/W"/>
+	<produit id="112" GUID="" groupe="Rive plancher haut" name="Rupteur total + planelle traditionnelle R= 0.07 (m².K)/W"/>
+	<produit id="113" GUID="" groupe="Rive plancher haut" name="Rupteur total + Planelle isolante R= 0.50 (m².K)/W"/>
+	<produit id="114" GUID="" groupe="Rive plancher haut" name="Rupteur total + Planelle isolante R= 1.00 (m².K)/W"/>
+	<produit id="115" GUID="" groupe="Rive plancher haut" name="Rupteur total + Planelle isolante en béton cellulaire R= 0.50 (m².K)/W"/>
+	
+	<produit id="116" GUID="5D96E0A8-6476-4B5B-B76C-6B31727811F2" groupe="Production" name="Ventilation simple flux"/>
+	<produit id="117" GUID="9557F438-AEA2-45E9-8A38-DF8FC12C5D0E" groupe="Production" name="Ventilation double flux"/>
+
+	<produit id="118" GUID="6F8CB49C-41B5-4B28-ADA5-2B244518AC19" groupe="Soubassement" name="Blocs creux – granulats courants – maçonnés – B40"/>
+	<produit id="119" GUID="D7859845-4B5D-46CB-A19B-5FC9D4C3DBF3" groupe="Soubassement" name="Blocs creux – granulats courants – maçonnés – B60"/>
+	<produit id="120" GUID="2C76BFA8-DA46-4698-B334-A5216A60FC9E" groupe="Soubassement" name="Blocs creux – granulats courants – collés – B40"/>
+	<produit id="121" GUID="68FD2FF6-3546-43B5-A2B0-D097E6DC9335" groupe="Soubassement" name="Blocs creux – granulats courants – collés – B60"/>
+	<produit id="122" GUID="" groupe="Soubassement" name="Bloc creux - multialveolaire - granulats leger - R=1.00 (m².K)/W"/>
+	<produit id="123" GUID="" groupe="Soubassement" name="Bloc creux - isolant intégré - collé - R=1.00 (m².K)/W"/>
+	<produit id="124" GUID="" groupe="Soubassement" name="Bloc creux - isolant intégré - collé - R=1.50 (m².K)/W"/>
+	<produit id="125" GUID="" groupe="Soubassement" name="Bloc creux - isolant intégré - collé - R=2.00 (m².K)/W"/>
+	<produit id="126" GUID="" groupe="Soubassement" name="Bloc béton cellulaire - R=1.50 (m².K)/W"/>
+	<produit id="127" GUID="" groupe="Soubassement" name="Bloc béton cellulaire - R=2.00 (m².K)/W"/>
+</produits>
