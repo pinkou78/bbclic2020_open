@@ -1,0 +1,185 @@
+<root>
+  <saisieCarboneIsolantPeriphPH parent="groupBoxPhCarbone">False</saisieCarboneIsolantPeriphPH>
+  <itemValeurE parent="saisieCarboneIsolantPeriphPH">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneIsolantPeriphPH">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneIsolantPeriphPH">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneIsolantPeriphPH">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneIsolantPeriphPH">0</itemValeurA>
+  <saisieCarbonePhIsolation parent="groupBoxPhCarbone">False</saisieCarbonePhIsolation>
+  <itemValeurE parent="saisieCarbonePhIsolation">0</itemValeurE>
+  <itemValeurD parent="saisieCarbonePhIsolation">0</itemValeurD>
+  <itemValeurC parent="saisieCarbonePhIsolation">0</itemValeurC>
+  <itemValeurB parent="saisieCarbonePhIsolation">0</itemValeurB>
+  <itemValeurA parent="saisieCarbonePhIsolation">0</itemValeurA>
+  <saisieCarbonePhPlancher parent="groupBoxPhCarbone">False</saisieCarbonePhPlancher>
+  <itemValeurE parent="saisieCarbonePhPlancher">0</itemValeurE>
+  <itemValeurD parent="saisieCarbonePhPlancher">0</itemValeurD>
+  <itemValeurC parent="saisieCarbonePhPlancher">0</itemValeurC>
+  <itemValeurB parent="saisieCarbonePhPlancher">0</itemValeurB>
+  <itemValeurA parent="saisieCarbonePhPlancher">0</itemValeurA>
+  <checkBox_modeTT parent="tabPlancherHaut">False</checkBox_modeTT>
+  <dateTimePicker2 parent="groupBox_TT_avance">30/09/2022 00:00:00</dateTimePicker2>
+  <dateTimePicker1 parent="groupBox_TT_avance">01/04/2022 00:00:00</dateTimePicker1>
+  <textBox_TT_valeurSfe parent="groupBox_TT_avance">
+  </textBox_TT_valeurSfe>
+  <textBox_TT_valeurSfc parent="groupBox_TT_avance">
+  </textBox_TT_valeurSfc>
+  <textBox_TT_valeurCAE parent="groupBox_TT_avance">
+  </textBox_TT_valeurCAE>
+  <textBox_TT_valeurPsil parent="groupBox_TT_avance">
+  </textBox_TT_valeurPsil>
+  <textBox_TT_valeurUp parent="groupBox_TT_avance">
+  </textBox_TT_valeurUp>
+  <checkBox_TT_Veget_avance parent="groupBox_TT_avance">False</checkBox_TT_Veget_avance>
+  <checkBox_TT_IsolationPeripheriePlafond parent="groupBox_TT_simple">False</checkBox_TT_IsolationPeripheriePlafond>
+  <comboBox_TT_JonctionPlancherFacade parent="groupBox_TT_simple">-1</comboBox_TT_JonctionPlancherFacade>
+  <comboBox_couleurTT parent="groupBox_TT_simple">-1</comboBox_couleurTT>
+  <checkBox_choixVegetalisationTT parent="groupBox_TT_simple">False</checkBox_choixVegetalisationTT>
+  <comboBox_epaisseurIsolationTT parent="groupBox_TT_simple">-1</comboBox_epaisseurIsolationTT>
+  <comboBox_typeIsolationTT parent="groupBox_TT_simple">-1</comboBox_typeIsolationTT>
+  <comboBox_epaisseurPlancherTT parent="groupBox_TT_simple">-1</comboBox_epaisseurPlancherTT>
+  <comboBox_typePlancherTT parent="groupBox_TT_simple">-1</comboBox_typePlancherTT>
+  <SystemProductionSetup parent="groupBox4">5</SystemProductionSetup>
+  <checkBoxBrasseur parent="groupBox1">False</checkBoxBrasseur>
+  <checkBoxVentilation parent="groupBox1">False</checkBoxVentilation>
+  <checkBoxPV parent="groupBox1">False</checkBoxPV>
+  <tBoxAppointECS parent="SystemProductionSetup">Aucun</tBoxAppointECS>
+  <tBoxAppointChauffage parent="SystemProductionSetup">Panneaux Rayonnants</tBoxAppointChauffage>
+  <tBoxECS parent="SystemProductionSetup">Ballon Thermodynamique</tBoxECS>
+  <checkBoxFroid parent="SystemProductionSetup">False</checkBoxFroid>
+  <cBoxChauffage parent="SystemProductionSetup">5</cBoxChauffage>
+  <comboBox_ListeMaisons parent="groupBox4">2</comboBox_ListeMaisons>
+  <textBox4 parent="userform_AfficheurOptimisation1">++</textBox4>
+  <textBox3 parent="userform_AfficheurOptimisation1">++</textBox3>
+  <textBox2 parent="userform_AfficheurOptimisation1">++</textBox2>
+  <textBox1 parent="userform_AfficheurOptimisation1">++</textBox1>
+  <textBoxSaisieAngle parent="groupBox3">0</textBoxSaisieAngle>
+  <listeZoneClimatique parent="groupBox3">28</listeZoneClimatique>
+  <listeZoneDeBruit parent="groupBox3">0</listeZoneDeBruit>
+  <comboBoxAltitude parent="groupBox3">0</comboBoxAltitude>
+  <saisieCarboneStructureSoubassement parent="groupBoxCarboneSoubassement">False</saisieCarboneStructureSoubassement>
+  <itemValeurE parent="saisieCarboneStructureSoubassement">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneStructureSoubassement">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneStructureSoubassement">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneStructureSoubassement">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneStructureSoubassement">0</itemValeurA>
+  <saisieCarboneIsolationParoi parent="groupBoxCarboneParoi">False</saisieCarboneIsolationParoi>
+  <itemValeurE parent="saisieCarboneIsolationParoi">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneIsolationParoi">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneIsolationParoi">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneIsolationParoi">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneIsolationParoi">0</itemValeurA>
+  <saisieCarboneStructureParoi parent="groupBoxCarboneParoi">False</saisieCarboneStructureParoi>
+  <itemValeurE parent="saisieCarboneStructureParoi">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneStructureParoi">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneStructureParoi">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneStructureParoi">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneStructureParoi">0</itemValeurA>
+  <textBoxRSoubassement parent="groupeSoubassementAvance">
+  </textBoxRSoubassement>
+  <textBoxPsiPlancherBasRefend parent="groupeSoubassementAvance">
+  </textBoxPsiPlancherBasRefend>
+  <modeSoubassement parent="tabParois">False</modeSoubassement>
+  <checkBoxIsolationRefend parent="groupeSoubassementSimple">True</checkBoxIsolationRefend>
+  <listeSoubassementStructure parent="groupeSoubassementSimple">0</listeSoubassementStructure>
+  <listeCouleurFacade parent="groupeParoiSimple">0</listeCouleurFacade>
+  <listeEpaisseurIsolant parent="groupeParoiSimple">2</listeEpaisseurIsolant>
+  <listeTypeIsolant parent="groupeParoiSimple">2</listeTypeIsolant>
+  <listeStructure parent="groupeParoiSimple">0</listeStructure>
+  <valeurCas_avance parent="groupeParoiAvance">
+  </valeurCas_avance>
+  <valeurRIsolant_avance parent="groupeParoiAvance">
+  </valeurRIsolant_avance>
+  <valeurRStructure_avance parent="groupeParoiAvance">
+  </valeurRStructure_avance>
+  <modeParoi parent="tabParois">False</modeParoi>
+  <comboBoxModeGestionFT parent="panel1">-1</comboBoxModeGestionFT>
+  <comboBoxChoixPMft parent="panel1">-1</comboBoxChoixPMft>
+  <checkBoxMotorisationFt parent="panel1">False</checkBoxMotorisationFt>
+  <listeMenuiseriesPerformance parent="tabMenuiseries">1</listeMenuiseriesPerformance>
+  <checkBoxHorloge parent="tabMenuiseries">False</checkBoxHorloge>
+  <checkBoxMotorisation parent="tabMenuiseries">True</checkBoxMotorisation>
+  <listeUCoffretVR parent="tabMenuiseries">2</listeUCoffretVR>
+  <comboBoxModeGestion parent="tabMenuiseries">0</comboBoxModeGestion>
+  <comboBoxChoixProtectionSolaire parent="tabMenuiseries">1</comboBoxChoixProtectionSolaire>
+  <saisieCarboneChapePB parent="groupBoxCarbonePlancherBas">False</saisieCarboneChapePB>
+  <itemValeurE parent="saisieCarboneChapePB">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneChapePB">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneChapePB">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneChapePB">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneChapePB">0</itemValeurA>
+  <saisieCarboneRevetementPB parent="groupBoxCarbonePlancherBas">False</saisieCarboneRevetementPB>
+  <itemValeurE parent="saisieCarboneRevetementPB">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneRevetementPB">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneRevetementPB">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneRevetementPB">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneRevetementPB">0</itemValeurA>
+  <saisieCarboneIsolationPB parent="groupBoxCarbonePlancherBas">False</saisieCarboneIsolationPB>
+  <itemValeurE parent="saisieCarboneIsolationPB">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneIsolationPB">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneIsolationPB">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneIsolationPB">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneIsolationPB">0</itemValeurA>
+  <saisieCarbonePlancherBas parent="groupBoxCarbonePlancherBas">False</saisieCarbonePlancherBas>
+  <itemValeurE parent="saisieCarbonePlancherBas">0</itemValeurE>
+  <itemValeurD parent="saisieCarbonePlancherBas">0</itemValeurD>
+  <itemValeurC parent="saisieCarbonePlancherBas">0</itemValeurC>
+  <itemValeurB parent="saisieCarbonePlancherBas">0</itemValeurB>
+  <itemValeurA parent="saisieCarbonePlancherBas">0</itemValeurA>
+  <textbox_Psil_PB_Facade parent="groupePlancherBasAvance">
+  </textbox_Psil_PB_Facade>
+  <textbox_UplancherBas_avance parent="groupePlancherBasAvance">
+  </textbox_UplancherBas_avance>
+  <modePlancherBas parent="tabPlancherBas">False</modePlancherBas>
+  <listePbRevetementSol parent="groupePlancherBasSimple">1</listePbRevetementSol>
+  <listePbJonctionFacade parent="groupePlancherBasSimple">6</listePbJonctionFacade>
+  <listePbComplementSur parent="groupePlancherBasSimple">1</listePbComplementSur>
+  <listePbTypePlancher parent="groupePlancherBasSimple">2</listePbTypePlancher>
+  <saisieCarboneIsolantPeriphPI parent="groupBoxPiCarbone">False</saisieCarboneIsolantPeriphPI>
+  <itemValeurE parent="saisieCarboneIsolantPeriphPI">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneIsolantPeriphPI">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneIsolantPeriphPI">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneIsolantPeriphPI">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneIsolantPeriphPI">0</itemValeurA>
+  <saisieCarbonePIRevetement parent="groupBoxPiCarbone">False</saisieCarbonePIRevetement>
+  <itemValeurE parent="saisieCarbonePIRevetement">0</itemValeurE>
+  <itemValeurD parent="saisieCarbonePIRevetement">0</itemValeurD>
+  <itemValeurC parent="saisieCarbonePIRevetement">0</itemValeurC>
+  <itemValeurB parent="saisieCarbonePIRevetement">0</itemValeurB>
+  <itemValeurA parent="saisieCarbonePIRevetement">0</itemValeurA>
+  <saisieCarbonePIStructure parent="groupBoxPiCarbone">False</saisieCarbonePIStructure>
+  <itemValeurE parent="saisieCarbonePIStructure">0</itemValeurE>
+  <itemValeurD parent="saisieCarbonePIStructure">0</itemValeurD>
+  <itemValeurC parent="saisieCarbonePIStructure">0</itemValeurC>
+  <itemValeurB parent="saisieCarbonePIStructure">0</itemValeurB>
+  <itemValeurA parent="saisieCarbonePIStructure">0</itemValeurA>
+  <textBoxPsilPlancherIntermediaire parent="groupePlancherInterAvance">
+  </textBoxPsilPlancherIntermediaire>
+  <modePlancherInter parent="tabPlancherInter">False</modePlancherInter>
+  <checkBox_PI_IsolationPeripheriqueFxPlafond parent="groupePlancherInterSimple">True</checkBox_PI_IsolationPeripheriqueFxPlafond>
+  <comboBox_PI_JonctionPlancherFacade parent="groupePlancherInterSimple">6</comboBox_PI_JonctionPlancherFacade>
+  <comboBox_PI_RevetementSol parent="groupePlancherInterSimple">2</comboBox_PI_RevetementSol>
+  <comboBox_PI_EpaisseurPlancher parent="groupePlancherInterSimple">0</comboBox_PI_EpaisseurPlancher>
+  <comboBox_PI_TypePlancher parent="groupePlancherInterSimple">2</comboBox_PI_TypePlancher>
+  <saisieCarboneComble parent="groupBoxCarboneComble">False</saisieCarboneComble>
+  <itemValeurE parent="saisieCarboneComble">0</itemValeurE>
+  <itemValeurD parent="saisieCarboneComble">0</itemValeurD>
+  <itemValeurC parent="saisieCarboneComble">0</itemValeurC>
+  <itemValeurB parent="saisieCarboneComble">0</itemValeurB>
+  <itemValeurA parent="saisieCarboneComble">0</itemValeurA>
+  <textbox_PsiPlancherHautFacade_avance parent="groupToitureAvance">
+  </textbox_PsiPlancherHautFacade_avance>
+  <textbox_RToiture_avance parent="groupToitureAvance">
+  </textbox_RToiture_avance>
+  <listePhRIsolant parent="groupToitureSimple">4</listePhRIsolant>
+  <listePhTypeIsolant parent="groupToitureSimple">0</listePhTypeIsolant>
+  <modeToiture parent="tabComble">False</modeToiture>
+  <listeParametresTypeCloisonsInterieures parent="tabAutresParametres">0</listeParametresTypeCloisonsInterieures>
+  <listeParametresPermeabilitéAir parent="tabAutresParametres">2</listeParametresPermeabilitéAir>
+  <textBoxResultatCarbone parent="tabCalcul">
+  </textBoxResultatCarbone>
+  <messageCalcul parent="tabCalcul">
+  </messageCalcul>
+  <checkBoxVersionMessage parent="tabConfiguration">True</checkBoxVersionMessage>
+  <settings_mode_saisie parent="tabConfiguration">False</settings_mode_saisie>
+</root>
