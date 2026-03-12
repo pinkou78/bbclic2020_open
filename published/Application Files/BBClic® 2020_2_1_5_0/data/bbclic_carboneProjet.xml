@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Projet>
+    <Lot id="2">
+        <Produit object="structure soubassement">
+            <item id="listeSoubassementStructure"></item>
+        </Produit>
+        <Produit object="isolation refend de soubassement">
+            <item id="checkBoxIsolationRefend"></item>
+        </Produit>
+    </Lot>
+    <Lot id="3">
+        <Produit object="structure paroi">
+            <item id="listeStructure"></item>
+        </Produit>
+        <Produit object="structure plancher bas">
+            <item id="listePbTypePlancher"></item>
+        </Produit>
+        <Produit object="structure plancher intermediaire">
+            <item id="comboBox_PI_TypePlancher"></item>
+            <item id="comboBox_PI_EpaisseurPlancher"></item>
+        </Produit>
+        <Produit object="structure plancher haut">
+            <item id="comboBox_typePlancherTT"></item>
+            <item id="comboBox_epaisseurPlancherTT"></item>
+        </Produit>
+    </Lot>
+    <Lot id="4">
+        <Produit object="isolation toiture-terrasse">
+            <item id="comboBox_typeIsolationTT"></item>
+            <item id="comboBox_epaisseurIsolationTT"></item>
+        </Produit>
+        <Produit object="vegetalisation toiture-terrasse">
+            <item id="checkBox_choixVegetalisationTT"></item>
+        </Produit>
+    </Lot>
+    <Lot id="5">
+        <Produit object="Isolation paroi">
+            <item id="listeTypeIsolant"></item>
+            <item id="listeEpaisseurIsolant"></item>
+        </Produit>
+        <Produit object="Type de cloison interieures">
+            <item id="listeParametresTypeCloisonsInterieures"></item>
+        </Produit>
+        <Produit object="Isolation plancher bas">
+            <item id="listePbComplementSur"></item>
+        </Produit>
+        <Produit object="Isolation fx plafond R1">
+            <item id="checkBox_PI_IsolationPeripheriqueFxPlafond"></item>
+        </Produit>
+        <Produit object="Isolation fx plafond TT">
+            <item id="checkBox_TT_IsolationPeripheriePlafond"></item>
+        </Produit>
+        <Produit object="Isolation Combles">
+            <item id="listePhTypeIsolant"></item>
+            <item id="listePhRIsolant"></item>
+        </Produit>       
+    </Lot>
+    <Lot id="6">
+        <Produit object="Performance Mex">
+            <item id="listeMenuiseriesPerformance"></item>
+        </Produit>
+        <Produit object="Protection mobiles">
+            <item id="comboBoxChoixProtectionSolaire"></item>
+            <item id="comboBoxModeGestion"></item>
+            <item id="checkBoxMotorisation"></item>
+
+        </Produit>
+        <Produit object="Performance Mex TT">
+            <item id="listeMenuiseriesPerformance"></item>
+        </Produit>
+        <Produit object="Protection mobiles TT">
+            <item id="comboBoxChoixPMft"></item>
+            <item id="comboBoxModeGestionFT"></item>
+            <item id="checkBoxMotorisationFt"></item>
+        </Produit>
+    </Lot>
+    <Lot id="7">
+        <Produit object="Isolation plancher RC">
+            <item id="listePbComplementSur"></item>
+        </Produit>
+        <Produit object="Revetement de sol RC">
+            <item id="listePbRevetementSol"></item>
+        </Produit>
+        <Produit object="Revetement de sol R1">
+            <item id="comboBox_PI_RevetementSol"></item>
+        </Produit>
+    </Lot>
+    <Lot id="8">
+        <Produit object="Systeme de production">
+            <item id="SystemProductionSetup"></item>
+        </Produit>
+        <Produit object="Brasseur d'air">
+            <item id="SystemProductionSetup"></item>
+        </Produit>
+        <Produit object="Ventilation">
+            <item id="SystemProductionSetup"></item>
+        </Produit>
+    </Lot>
+    <Lot id="13">
+        <Produit object="PV">
+            <item id="SystemProductionSetup"></item>
+        </Produit>
+    </Lot>
+</Projet>

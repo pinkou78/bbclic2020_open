@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<xs:element name="Maison_ID" type="xs:integer"/>
+	<xs:element name="Produit_GUID" type="xs:string"/>
+	<xs:element name="Nom" type="xs:string"/>
+	<xs:element name="Type" type="xs:string"/>
+	<xs:element name="Lot" type="xs:integer"/>
+	<xs:element name="Valeur" type="xs:decimal"/>
+	<xs:element name="numero" type="xs:integer"/>
+	<xs:element name="part_fixe" type="xs:decimal"/>
+	<xs:element name="identification" type="xs:string"/>
+	<xs:element name="texte" type="xs:string"/>
+
+	<xs:element name="Ic_Lot">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="numero"/>
+				<xs:element ref="part_fixe"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Ic_composants">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Ic_Lot" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="indicateur">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Nom"/>
+				<xs:element ref="Valeur"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="indicateurs">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Lot"/>
+				<xs:element ref="indicateur" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Indicateurs_Collection">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="indicateurs" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Produit">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Produit_GUID"/>
+				<xs:element ref="Nom"/>
+				<xs:element ref="Type"/>
+				<xs:element ref="Indicateurs_Collection"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Produit_Collection">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Produit" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Maison">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Maison_ID"/>
+				<xs:element ref="Nom"/>
+				<xs:element ref="Produit_Collection"/>
+				<xs:element ref="Ic_composants"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Maison_Collection">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Maison" maxOccurs="unbounded"/>
+
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+
+	<xs:element name="carbone">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Maison_Collection" maxOccurs="unbounded"/>
+				<xs:element ref="Dictionnaire"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+	<xs:element name="Dictionnaire">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="item" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>	
+	</xs:element>
+	
+	<xs:element name="item">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="identification"/>
+				<xs:element ref="texte"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+
+
+</xs:schema>

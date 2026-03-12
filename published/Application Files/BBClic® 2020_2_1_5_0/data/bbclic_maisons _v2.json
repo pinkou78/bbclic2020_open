@@ -1,0 +1,1449 @@
+[
+  {
+    "id": 0,
+    "texte": "Maison de plain-pied avec combles perdus",
+    "value": 0,
+    "idHelp": 0,
+    "image": ".\\data\\MI\\01\\vue_3D_R.png",
+    "illustration": [
+      {
+        "id": 0,
+        "texte": "Vue en plan",
+        "chemin": ".\\data\\MI\\01\\01.png"
+      },
+      {
+        "id": 1,
+        "texte": "Coupe",
+        "chemin": ".\\data\\MI\\01\\02.png"
+      },
+      {
+        "id": 2,
+        "texte": "vue de facade rue",
+        "chemin": ".\\data\\MI\\01\\vue_facade_rue.png"
+      },
+      {
+        "id": 3,
+        "texte": "vue de pignon Est",
+        "chemin": ".\\data\\MI\\01\\vue_pignon_E.png"
+      },
+      {
+        "id": 4,
+        "texte": "vue de facade jardin",
+        "chemin": ".\\data\\MI\\01\\vue_facade_jardin.png"
+      },
+      {
+        "id": 5,
+        "texte": "vue de pignon Ouest",
+        "chemin": ".\\data\\MI\\01\\vue_pignon_O.png"
+      },
+      {
+        "id": 6,
+        "texte": "vue Isometrie A",
+        "chemin": ".\\data\\MI\\01\\vue_iso_A.png"
+      },
+      {
+        "id": 7,
+        "texte": "vue Isometrie B",
+        "chemin": ".\\data\\MI\\01\\vue_iso_B.png"
+      },
+      {
+        "id": 8,
+        "texte": "vue Isometrie C",
+        "chemin": ".\\data\\MI\\01\\vue_iso_C.png"
+      },
+      {
+        "id": 9,
+        "texte": "vue Isometrie D",
+        "chemin": ".\\data\\MI\\01\\vue_iso_D.png"
+      },
+      {
+        "id": 10,
+        "texte": "Vue 3D rue",
+        "chemin": ".\\data\\MI\\01\\vue_3D_R.png"
+      },
+      {
+        "id": 11,
+        "texte": "Vue 3d jardin",
+        "chemin": ".\\data\\MI\\01\\vue_3D_J.png"
+      }
+    ],
+    "bbclic_interne": {
+      "plancher_bas": true,
+      "plancher_intermediaire": false,
+      "plancher_haut": false,
+      "comble": false,
+      "toiture_terrasse": false
+    },
+    "systeme": true,
+    "calcul_CO2": true,
+    "systemFiles": [
+      {
+        "id": 0,
+        "produit_GUID": "707E590B-13ED-4F34-8644-B30CC3225306",
+        "nom": "1- Chaudière gaz (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "01\\RSET_1N_GAZ-TAE.xml"
+      },
+      {
+        "id": 1,
+        "produit_GUID": "C612C429-06B2-4259-9B16-41D79915DABD",
+        "nom": "2- Générateur hybride : PAC air/eau avec appoint par chaudière gaz (chauffage + ECS)",
+        "fichier": "01\\RSET_1N_HYBRIDE.xml"
+      },
+      {
+        "id": 2,
+        "produit_GUID": "D5792B8C-628C-4C05-A857-BDB3778B0E4A",
+        "nom": "3- PAC air/air gainable réversible (chauffage + refroidissement) et ballon thermodynamique (ECS)",
+        "fichier": "01\\RSET_1N_PAAG-rev-TAE.xml"
+      },
+      {
+        "id": 3,
+        "produit_GUID": "3B95C869-50AD-472A-9203-F357DEFFDFD6",
+        "nom": "4- PAC air/air gainable (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "01\\RSET_1N_PAAG-TAE.xml"
+      },
+      {
+        "id": 4,
+        "produit_GUID": "AD2CF9F7-7A3E-4419-8680-DD8D3F11C032",
+        "nom": "5- PAC air/eau double service (chauffage + ECS)",
+        "fichier": "01\\RSET_1N_PAO-DS.xml"
+      },
+      {
+        "id": 5,
+        "produit_GUID": "091C32D8-0F8B-4EDC-8CAA-1C7ECB373610",
+        "nom": "6- Poêle à granulés et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "01\\RSET_1N_POG-PR-TAE.xml"
+      },
+      {
+        "id": 6,
+        "produit_GUID": "D3693C80-0509-4B29-9F01-E9723738A9CA",
+        "nom": "7- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "01\\RSET_1N_SPLIT-PR-TAE.xml"
+      },
+      {
+        "id": 7,
+        "produit_GUID": "",
+        "nom": "",
+        "fichier": ""
+      },
+      {
+        "id": 8,
+        "produit_GUID": "A5A4A782-1EE2-4E3C-A54B-E445E5BDF558",
+        "nom": "8- PAC Air/Air SPLIT Reversible + Panneaux Rayonnants + ECS Thermodynamique",
+        "fichier": "01\\RSET_1N_SPLIT-rev-PR-TAE.xml"
+      }
+    ],
+    "donnees_technique": {
+      "SHAB": 103.4,
+      "SCombles": 0.00,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
+      "perimetreVS": 46.64,
+      "surfaceVS": 123.70,
+      "epaisseurVoile": 0.35,
+      "longueurRefendVS": 11.75,
+      "aireVentilationVS": 0.063,
+      "vitesseVentilationVs": 4.00,
+      "Rat_surf": 0.39
+    },
+    "donnees_Env": {
+      "ice_batiment": 160.00,
+      "ic_chantier": 10.05
+    },
+    "metres": {
+      "paroi": 115.54,
+      "soubassement": 49.67,
+      "plancher_bas": {
+        "plancher": 129.37,
+        "isolation": 115.37,
+        "chape": 115.37,
+        "revetement": 84.51,
+        "fxPlafond": 0.00
+      },
+      "plancher_intermediaire": {
+        "plancher": 0.00,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 0.00,
+        "fxPlafond": 0.00
+      },
+      "plancher_haut": {
+        "plancher": 0.00,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 0.00,
+        "fxPlafond": 0.00
+      },
+      "comble" :  112.84
+    },
+    "bbclic_paroi": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 0
+      },
+      {
+        "index": 3,
+        "valeur": 2
+      },
+      {
+        "index": 4,
+        "valeur": 0
+      },
+      {
+        "index": 5,
+        "valeur": 0
+      },
+      {
+        "index": 6,
+        "valeur": 2
+      },
+      {
+        "index": 7,
+        "valeur": 0
+      },
+      {
+        "index": 8,
+        "valeur": 2
+      },
+      {
+        "index": 9,
+        "valeur": 3
+      },
+      {
+        "index": 10,
+        "valeur": 4
+      }
+    ],
+    "bbclic_lineique": [
+      {
+        "index": 1,
+        "valeur": 0
+      },
+      {
+        "index": 2,
+        "valeur": 1
+      },
+      {
+        "index": 3,
+        "valeur": 1
+      },
+      {
+        "index": 4,
+        "valeur": 2
+      },
+      {
+        "index": 5,
+        "valeur": 4
+      }
+    ],
+    "bbclic_L8": [ 1, 4 ],
+    "bbclic_L9": null,
+    "bbclic_L10": [ 2, 3 ],
+    "bbclic_baie": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 3
+      },
+      {
+        "index": 3,
+        "valeur": 4
+      },
+      {
+        "index": 4,
+        "valeur": 2
+      },
+      {
+        "index": 5,
+        "valeur": 2
+      },
+      {
+        "index": 6,
+        "valeur": 0
+      },
+      {
+        "index": 7,
+        "valeur": 2
+      },
+      {
+        "index": 8,
+        "valeur": 2
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "texte": "Maison avec combles aménagés",
+    "value": 0,
+    "idHelp": 0,
+    "image": ".\\data\\MI\\02\\VueA.png",
+    "illustration": [
+      {
+        "id": 0,
+        "texte": "Vue en plan RDC",
+        "chemin": ".\\data\\MI\\02\\01.png"
+      },
+      {
+        "id": 1,
+        "texte": "Vue en plan étage",
+        "chemin": ".\\data\\MI\\02\\02.png"
+      },
+      {
+        "id": 2,
+        "texte": "Coupe",
+        "chemin": ".\\data\\MI\\02\\03.png"
+      },
+      {
+        "id": 3,
+        "texte": "vue de facade rue",
+        "chemin": ".\\data\\MI\\02\\VueG.png"
+      },
+      {
+        "id": 4,
+        "texte": "vue de pignon Est",
+        "chemin": ".\\data\\MI\\02\\VueH.png"
+      },
+      {
+        "id": 5,
+        "texte": "vue de facade jardin",
+        "chemin": ".\\data\\MI\\02\\VueI.png"
+      },
+      {
+        "id": 6,
+        "texte": "vue de pignon Ouest",
+        "chemin": ".\\data\\MI\\02\\VueJ.png"
+      },
+      {
+        "id": 7,
+        "texte": "vue Isometrie A",
+        "chemin": ".\\data\\MI\\02\\VueC.png"
+      },
+      {
+        "id": 8,
+        "texte": "vue Isometrie B",
+        "chemin": ".\\data\\MI\\02\\VueD.png"
+      },
+      {
+        "id": 9,
+        "texte": "vue Isometrie C",
+        "chemin": ".\\data\\MI\\02\\VueE.png"
+      },
+      {
+        "id": 10,
+        "texte": "vue Isometrie D",
+        "chemin": ".\\data\\MI\\02\\VueF.png"
+      },
+      {
+        "id": 11,
+        "texte": "Vue 3D rue",
+        "chemin": ".\\data\\MI\\02\\VueA.png"
+      },
+      {
+        "id": 12,
+        "texte": "Vue 3d jardin",
+        "chemin": ".\\data\\MI\\02\\VueB.png"
+      }
+    ],
+    "bbclic_interne": {
+      "plancher_bas": true,
+      "plancher_intermediaire": true,
+      "plancher_haut": false,
+      "comble": true,
+      "toiture_terrasse": false
+    },
+    "systeme": true,
+    "calcul_CO2": true,
+    "systemFiles": [
+      {
+        "id": 0,
+        "produit_GUID": "707E590B-13ED-4F34-8644-B30CC3225306",
+        "nom": "1- Chaudière gaz (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "02\\RSET_RC_GAZ-TAE.xml"
+      },
+      {
+        "id": 1,
+        "produit_GUID": "C612C429-06B2-4259-9B16-41D79915DABD",
+        "nom": "2- Générateur hybride : PAC air/eau avec appoint par chaudière gaz (chauffage + ECS)",
+        "fichier": "02\\RSET_RC_HYBRIDE.xml"
+      },
+      {
+        "id": 2,
+        "produit_GUID": "D5792B8C-628C-4C05-A857-BDB3778B0E4A",
+        "nom": "3- PAC air/air gainable réversible (chauffage + refroidissement) et ballon thermodynamique (ECS)",
+        "fichier": "02\\RSET_RC_PAAG-rev-TAE.xml"
+      },
+      {
+        "id": 3,
+        "produit_GUID": "3B95C869-50AD-472A-9203-F357DEFFDFD6",
+        "nom": "4- PAC air/air gainable (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "02\\RSET_RC_PAAG-TAE.xml"
+      },
+      {
+        "id": 4,
+        "produit_GUID": "AD2CF9F7-7A3E-4419-8680-DD8D3F11C032",
+        "nom": "5- PAC air/eau double service (chauffage + ECS)",
+        "fichier": "02\\RSET_RC_PAO-DS.xml"
+      },
+      {
+        "id": 5,
+        "produit_GUID": "091C32D8-0F8B-4EDC-8CAA-1C7ECB373610",
+        "nom": "6- Poêle à granulés et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "02\\RSET_RC_POG-PR-TAE.xml"
+      },
+      {
+        "id": 6,
+        "produit_GUID": "D3693C80-0509-4B29-9F01-E9723738A9CA",
+        "nom": "7- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "02\\RSET_RC_SPLIT-PR-TAE.xml"
+      },
+      {
+        "id": 7,
+        "produit_GUID": "A5A4A782-1EE2-4E3C-A54B-E445E5BDF558",
+        "nom": "",
+        "fichier": ""
+      },
+      {
+        "id": 8,
+        "produit_GUID": "",
+        "nom": "",
+        "fichier": "02\\RSET_RC_SPLIT-rev-PR-TAE.xml"
+      }
+    ],
+    "donnees_technique": {
+      "SHAB": 100.95,
+      "SCombles": 12.08,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
+      "perimetreVS": 33.16,
+      "surfaceVS": 67.35,
+      "epaisseurVoile": 0.35,
+      "longueurRefendVS": 9.16,
+      "aireVentilationVS": 0.0645,
+      "vitesseVentilationVs": 4.00,
+      "Rat_surf": 0.40
+    },
+    "donnees_Env": {
+      "ice_batiment": 160.00,
+      "ic_chantier": 10.05
+    },
+    "metres": {
+      "paroi": 153.14,
+      "soubassement": 21.35,
+      "plancher_bas": {
+        "plancher": 93.64,
+        "isolation": 66.32,
+        "chape": 66.32,
+        "revetement": 49.05,
+        "fxPlafond": 0.00
+      },
+      "plancher_intermediaire": {
+        "plancher": 65.48,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 37.94,
+        "fxPlafond": 17.22
+      },
+      "plancher_haut": {
+        "plancher": 0.00,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 0.00,
+        "fxPlafond": 0.00
+      },
+      "comble": 88.78
+    },
+    "bbclic_paroi": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 5
+      },
+      {
+        "index": 3,
+        "valeur": 0
+      },
+      {
+        "index": 4,
+        "valeur": 2
+      },
+      {
+        "index": 5,
+        "valeur": 0
+      },
+      {
+        "index": 6,
+        "valeur": 6
+      },
+      {
+        "index": 7,
+        "valeur": 0
+      },
+      {
+        "index": 8,
+        "valeur": 2
+      },
+      {
+        "index": 9,
+        "valeur": 0
+      },
+      {
+        "index": 10,
+        "valeur": 6
+      },
+      {
+        "index": 11,
+        "valeur": 3
+      },
+      {
+        "index": 12,
+        "valeur": 7
+      },
+      {
+        "index": 13,
+        "valeur": 8
+      },
+      {
+        "index": 14,
+        "valeur": 9
+      },
+      {
+        "index": 15,
+        "valeur": 9
+      }
+    ],
+    "bbclic_lineique": [
+      {
+        "index": 1,
+        "valeur": 0
+      },
+      {
+        "index": 2,
+        "valeur": 10
+      },
+      {
+        "index": 3,
+        "valeur": 2
+      },
+      {
+        "index": 4,
+        "valeur": 6
+      },
+      {
+        "index": 5,
+        "valeur": 8
+      },
+      {
+        "index": 6,
+        "valeur": 1
+      },
+      {
+        "index": 7,
+        "valeur": 9
+      },
+      {
+        "index": 8,
+        "valeur": 4
+      }
+    ],
+    "bbclic_L8": [ 1, 3 ],
+    "bbclic_L9": [ 4, 5 ],
+    "bbclic_L10": [ 2 ],
+    "bbclic_baie": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 2
+      },
+      {
+        "index": 3,
+        "valeur": 4
+      },
+      {
+        "index": 4,
+        "valeur": 5
+      },
+      {
+        "index": 5,
+        "valeur": 2
+      },
+      {
+        "index": 6,
+        "valeur": 2
+      },
+      {
+        "index": 7,
+        "valeur": 3
+      },
+      {
+        "index": 8,
+        "valeur": 0
+      },
+      {
+        "index": 9,
+        "valeur": 6
+      },
+      {
+        "index": 10,
+        "valeur": 6
+      },
+      {
+        "index": 11,
+        "valeur": 7
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "texte": "Maison R+1 avec combles perdus",
+    "value": 0,
+    "idHelp": 0,
+    "image": ".\\data\\MI\\03\\vue_3D_R.png",
+    "illustration": [
+      {
+        "id": 0,
+        "texte": "Vue en plan RDC",
+        "chemin": ".\\data\\MI\\03\\01.png"
+      },
+      {
+        "id": 1,
+        "texte": "Vue en plan étage",
+        "chemin": ".\\data\\MI\\03\\02.png"
+      },
+      {
+        "id": 2,
+        "texte": "Coupe",
+        "chemin": ".\\data\\MI\\03\\03.png"
+      },
+      {
+        "id": 3,
+        "texte": "vue de facade rue",
+        "chemin": ".\\data\\MI\\03\\vue_facade_rue.png"
+      },
+      {
+        "id": 4,
+        "texte": "vue de pignon Est",
+        "chemin": ".\\data\\MI\\03\\vue_pignon_E.png"
+      },
+      {
+        "id": 5,
+        "texte": "vue de facade jardin",
+        "chemin": ".\\data\\MI\\03\\vue_facade_jardin.png"
+      },
+      {
+        "id": 6,
+        "texte": "vue de pignon Ouest",
+        "chemin": ".\\data\\MI\\03\\vue_pignon_O.png"
+      },
+      {
+        "id": 7,
+        "texte": "vue Isometrie A",
+        "chemin": ".\\data\\MI\\03\\vue_iso_A.png"
+      },
+      {
+        "id": 8,
+        "texte": "vue Isometrie B",
+        "chemin": ".\\data\\MI\\03\\vue_iso_B.png"
+      },
+      {
+        "id": 9,
+        "texte": "vue Isometrie C",
+        "chemin": ".\\data\\MI\\03\\vue_iso_C.png"
+      },
+      {
+        "id": 10,
+        "texte": "vue Isometrie D",
+        "chemin": ".\\data\\MI\\03\\vue_iso_D.png"
+      },
+      {
+        "id": 11,
+        "texte": "Vue 3D rue",
+        "chemin": ".\\data\\MI\\03\\vue_3D_R.png"
+      },
+      {
+        "id": 12,
+        "texte": "Vue 3d jardin",
+        "chemin": ".\\data\\MI\\03\\vue_3D_J.png"
+      }
+    ],
+    "bbclic_interne": {
+      "plancher_bas": true,
+      "plancher_intermediaire": true,
+      "plancher_haut": false,
+      "comble": false,
+      "toiture_terrasse": false
+    },
+    "systeme": true,
+    "calcul_CO2": true,
+    "systemFiles": [
+      {
+        "id": 0,
+        "produit_GUID": "707E590B-13ED-4F34-8644-B30CC3225306",
+        "nom": "1- Chaudière gaz (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "03\\RSET_R1_GAZ-TAE.xml"
+      },
+      {
+        "id": 1,
+        "produit_GUID": "C612C429-06B2-4259-9B16-41D79915DABD",
+        "nom": "2- Générateur hybride : PAC air/eau avec appoint par chaudière gaz (chauffage + ECS)",
+        "fichier": "03\\RSET_R1_HYBRIDE.xml"
+      },
+      {
+        "id": 2,
+        "produit_GUID": "D5792B8C-628C-4C05-A857-BDB3778B0E4A",
+        "nom": "3- PAC air/air gainable réversible (chauffage + refroidissement) et ballon thermodynamique (ECS)",
+        "fichier": "03\\RSET_R1_PAAG-rev-TAE.xml"
+      },
+      {
+        "id": 3,
+        "produit_GUID": "3B95C869-50AD-472A-9203-F357DEFFDFD6",
+        "nom": "4- PAC air/air gainable (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "03\\RSET_R1_PAAG-TAE.xml"
+      },
+      {
+        "id": 4,
+        "produit_GUID": "AD2CF9F7-7A3E-4419-8680-DD8D3F11C032",
+        "nom": "5- PAC air/eau double service (chauffage + ECS)",
+        "fichier": "03\\RSET_R1_PAO-DS.xml"
+      },
+      {
+        "id": 5,
+        "produit_GUID": "091C32D8-0F8B-4EDC-8CAA-1C7ECB373610",
+        "nom": "6- Poêle à granulés et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "03\\RSET_R1_POG-PR-TAE.xml"
+      },
+      {
+        "id": 6,
+        "produit_GUID": "D3693C80-0509-4B29-9F01-E9723738A9CA",
+        "nom": "7- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "03\\RSET_R1_SPLIT-PR-TAE.xml"
+      },
+      {
+        "id": 7,
+        "produit_GUID": "A5A4A782-1EE2-4E3C-A54B-E445E5BDF558",
+        "nom": "",
+        "fichier": ""
+      },
+      {
+        "id": 8,
+        "produit_GUID": "",
+        "nom": "",
+        "fichier": "03\\RSET_R1_SPLIT-rev-PR-TAE.xml"
+      }
+    ],
+    "donnees_technique": {
+      "SHAB": 114.87,
+      "SCombles": 0.00,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
+      "perimetreVS": 33.84,
+      "surfaceVS": 59.51,
+      "epaisseurVoile": 0.35,
+      "longueurRefendVS": 9.46,
+      "aireVentilationVS": 0.057,
+      "vitesseVentilationVs": 4.00,
+      "Rat_surf": 0.34
+    },
+    "donnees_Env": {
+      "ice_batiment": 160.00,
+      "ic_chantier": 10.05
+    },
+    "metres": {
+      "paroi": 210.64,
+      "soubassement": 23.34,
+      "plancher_bas": {
+        "plancher": 77.12,
+        "isolation": 60.44,
+        "chape": 60.44,
+        "revetement": 43.28,
+        "fxPlafond": 0.00
+      },
+      "plancher_intermediaire": {
+        "plancher": 57.76,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 46.73,
+        "fxPlafond": 17.30
+      },
+      "plancher_haut": {
+        "plancher": 0.00,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 0.00,
+        "fxPlafond": 0.00
+      },
+      "comble": 66.43
+    },
+    "bbclic_paroi": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 0
+      },
+      {
+        "index": 3,
+        "valeur": 2
+      },
+      {
+        "index": 4,
+        "valeur": 0
+      },
+      {
+        "index": 5,
+        "valeur": 0
+      },
+      {
+        "index": 6,
+        "valeur": 2
+      },
+      {
+        "index": 7,
+        "valeur": 0
+      },
+      {
+        "index": 8,
+        "valeur": 3
+      },
+      {
+        "index": 9,
+        "valeur": 4
+      }
+    ],
+    "bbclic_lineique": [
+      {
+        "index": 1,
+        "valeur": 0
+      },
+      {
+        "index": 2,
+        "valeur": 6
+      },
+      {
+        "index": 3,
+        "valeur": 1
+      },
+      {
+        "index": 4,
+        "valeur": 1
+      },
+      {
+        "index": 5,
+        "valeur": 7
+      },
+      {
+        "index": 6,
+        "valeur": 2
+      },
+      {
+        "index": 7,
+        "valeur": 8
+      },
+      {
+        "index": 8,
+        "valeur": 9
+      },
+      {
+        "index": 9,
+        "valeur": 4
+      }
+    ],
+    "bbclic_L8": [ 1, 6 ],
+    "bbclic_L9": [ 2, 7 ],
+    "bbclic_L10": [ 3, 4 ],
+    "bbclic_baie": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 2
+      },
+      {
+        "index": 3,
+        "valeur": 4
+      },
+      {
+        "index": 4,
+        "valeur": 2
+      },
+      {
+        "index": 5,
+        "valeur": 2
+      },
+      {
+        "index": 6,
+        "valeur": 3
+      },
+      {
+        "index": 7,
+        "valeur": 0
+      },
+      {
+        "index": 8,
+        "valeur": 8
+      },
+      {
+        "index": 9,
+        "valeur": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "texte": "Maison R+1 avec toiture-terrasse",
+    "value": 0,
+    "idHelp": 0,
+    "image": ".\\data\\MI\\04\\VueA.png",
+    "illustration": [
+      {
+        "id": 0,
+        "texte": "Vue en plan RDC",
+        "chemin": ".\\data\\MI\\04\\Niveau0.png"
+      },
+      {
+        "id": 1,
+        "texte": "Vue en plan étage",
+        "chemin": ".\\data\\MI\\04\\Niveau1.png"
+      },
+      {
+        "id": 2,
+        "texte": "Vue 3D rue",
+        "chemin": ".\\data\\MI\\04\\VueA.png"
+      },
+      {
+        "id": 3,
+        "texte": "Vue 3d jardin",
+        "chemin": ".\\data\\MI\\04\\VueB.png"
+      },
+      {
+        "id": 4,
+        "texte": "vue de facade rue",
+        "chemin": ".\\data\\MI\\04\\VueH.png"
+      },
+      {
+        "id": 5,
+        "texte": "vue de pignon Est",
+        "chemin": ".\\data\\MI\\04\\VueG.png"
+      },
+      {
+        "id": 6,
+        "texte": "vue de facade jardin",
+        "chemin": ".\\data\\MI\\04\\VueJ.png"
+      },
+      {
+        "id": 7,
+        "texte": "vue de pignon Ouest",
+        "chemin": ".\\data\\MI\\04\\VueI.png"
+      },
+      {
+        "id": 8,
+        "texte": "vue Isometrie A",
+        "chemin": ".\\data\\MI\\04\\VueC.png"
+      },
+      {
+        "id": 9,
+        "texte": "vue Isometrie B",
+        "chemin": ".\\data\\MI\\04\\VueD.png"
+      },
+      {
+        "id": 10,
+        "texte": "vue Isometrie C",
+        "chemin": ".\\data\\MI\\04\\VueE.png"
+      },
+      {
+        "id": 11,
+        "texte": "vue Isometrie D",
+        "chemin": ".\\data\\MI\\04\\VueF.png"
+      }
+    ],
+    "bbclic_interne": {
+      "plancher_bas": true,
+      "plancher_intermediaire": true,
+      "plancher_haut": false,
+      "comble": false,
+      "toiture_terrasse": true
+    },
+    "systeme": true,
+    "calcul_CO2": true,
+    "systemFiles": [
+      {
+        "id": 0,
+        "produit_GUID": "707E590B-13ED-4F34-8644-B30CC3225306",
+        "nom": "1- Chaudière gaz (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "04\\RSET_TT_GAZ-TAE.xml"
+      },
+      {
+        "id": 1,
+        "produit_GUID": "C612C429-06B2-4259-9B16-41D79915DABD",
+        "nom": "2- Générateur hybride : PAC air/eau avec appoint par chaudière gaz (chauffage + ECS)",
+        "fichier": "04\\RSET_TT_HYBRIDE.xml"
+      },
+      {
+        "id": 2,
+        "produit_GUID": "D5792B8C-628C-4C05-A857-BDB3778B0E4A",
+        "nom": "3- PAC air/air gainable réversible (chauffage + refroidissement) et ballon thermodynamique (ECS)",
+        "fichier": "04\\RSET_TT_PAAG-rev-TAE.xml"
+      },
+      {
+        "id": 3,
+        "produit_GUID": "3B95C869-50AD-472A-9203-F357DEFFDFD6",
+        "nom": "4- PAC air/air gainable (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "04\\RSET_TT_PAAG-TAE.xml"
+      },
+      {
+        "id": 4,
+        "produit_GUID": "AD2CF9F7-7A3E-4419-8680-DD8D3F11C032",
+        "nom": "5- PAC air/eau double service (chauffage + ECS)",
+        "fichier": "04\\RSET_TT_PAO-DS.xml"
+      },
+      {
+        "id": 5,
+        "produit_GUID": "091C32D8-0F8B-4EDC-8CAA-1C7ECB373610",
+        "nom": "6- Poêle à granulés et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "04\\RSET_TT_POG-PR-TAE.xml"
+      },
+      {
+        "id": 6,
+        "produit_GUID": "D3693C80-0509-4B29-9F01-E9723738A9CA",
+        "nom": "7- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "04\\RSET_TT_SPLIT-PR-TAE.xml"
+      },
+      {
+        "id": 7,
+        "produit_GUID": "A5A4A782-1EE2-4E3C-A54B-E445E5BDF558",
+        "nom": "",
+        "fichier": ""
+      },
+      {
+        "id": 8,
+        "produit_GUID": "",
+        "nom": "",
+        "fichier": "04\\RSET_TT_SPLIT-rev-PR-TAE.xml"
+      }
+    ],
+    "donnees_technique": {
+      "SHAB": 114.87,
+      "SCombles": 0.00,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
+      "perimetreVS": 33.84,
+      "surfaceVS": 59.51,
+      "epaisseurVoile": 0.35,
+      "longueurRefendVS": 9.46,
+      "aireVentilationVS": 0.057,
+      "vitesseVentilationVs": 4.00,
+      "Rat_surf": 0.34
+    },
+    "donnees_Env": {
+      "ice_batiment": 160.00,
+      "ic_chantier": 10.05
+    },
+    "metres": {
+      "paroi": 185.19,
+      "soubassement": 23.34,
+      "plancher_bas": {
+        "plancher": 77.12,
+        "isolation": 60.44,
+        "chape": 60.44,
+        "revetement": 43.28,
+        "fxPlafond": 0.00
+      },
+      "plancher_intermediaire": {
+        "plancher": 57.76,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 46.73,
+        "fxPlafond": 17.30
+      },
+      "plancher_haut": {
+        "plancher": 83.12,
+        "isolation": 66.44,
+        "chape": 0.00,
+        "revetement": 0.00,
+        "fxPlafond": 17.30
+      },
+      "comble": 0.00
+    },
+    "bbclic_paroi": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 0
+      },
+      {
+        "index": 3,
+        "valeur": 2
+      },
+      {
+        "index": 4,
+        "valeur": 0
+      },
+      {
+        "index": 5,
+        "valeur": 0
+      },
+      {
+        "index": 6,
+        "valeur": 2
+      },
+      {
+        "index": 7,
+        "valeur": 0
+      },
+      {
+        "index": 8,
+        "valeur": 3
+      },
+      {
+        "index": 9,
+        "valeur": 10
+      }
+    ],
+    "bbclic_lineique": [
+      {
+        "index": 1,
+        "valeur": 0
+      },
+      {
+        "index": 2,
+        "valeur": 6
+      },
+      {
+        "index": 3,
+        "valeur": 1
+      },
+      {
+        "index": 4,
+        "valeur": 1
+      },
+      {
+        "index": 5,
+        "valeur": 7
+      },
+      {
+        "index": 6,
+        "valeur": 2
+      },
+      {
+        "index": 7,
+        "valeur": 8
+      },
+      {
+        "index": 8,
+        "valeur": 9
+      },
+      {
+        "index": 9,
+        "valeur": 4
+      }
+    ],
+    "bbclic_L8": [ 1, 6 ],
+    "bbclic_L9": [ 2, 7 ],
+    "bbclic_L10": [ 3, 4 ],
+    "bbclic_baie": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 2
+      },
+      {
+        "index": 3,
+        "valeur": 4
+      },
+      {
+        "index": 4,
+        "valeur": 2
+      },
+      {
+        "index": 5,
+        "valeur": 2
+      },
+      {
+        "index": 6,
+        "valeur": 3
+      },
+      {
+        "index": 7,
+        "valeur": 0
+      },
+      {
+        "index": 8,
+        "valeur": 8
+      },
+      {
+        "index": 9,
+        "valeur": 2
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "texte": "Logement collectif (à venir)",
+    "value": 0,
+    "idHelp": 0,
+    "image": ".\\data\\MI\\05\\00.png",
+    "illustration": [
+      {
+        "id": 0,
+        "texte": "Vue en plan",
+        "chemin": ".\\data\\MI\\01\\01.png"
+      },
+      {
+        "id": 1,
+        "texte": "Coupe",
+        "chemin": ".\\data\\MI\\01\\02.png"
+      },
+      {
+        "id": 2,
+        "texte": "vue de facade rue",
+        "chemin": ".\\data\\MI\\01\\03.png"
+      },
+      {
+        "id": 3,
+        "texte": "vue de facade jardin",
+        "chemin": ".\\data\\MI\\01\\04.png"
+      },
+      {
+        "id": 4,
+        "texte": "Vue 3D rue",
+        "chemin": ".\\data\\MI\\01\\vue_a.png"
+      },
+      {
+        "id": 5,
+        "texte": "Vue 3d jardin",
+        "chemin": ".\\data\\MI\\01\\vue_b.png"
+      }
+    ],
+    "bbclic_interne": {
+      "plancher_bas": true,
+      "plancher_intermediaire": false,
+      "plancher_haut": false,
+      "comble": true,
+      "toiture_terrasse": false
+    },
+    "systeme": false,
+    "calcul_CO2": false,
+    "systemFiles": [
+      {
+        "id": 0,
+        "produit_GUID": "",
+        "nom": "1- Chaudière gaz (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "RSET_1N_GAZ-TAE.xml"
+      },
+      {
+        "id": 1,
+        "produit_GUID": "",
+        "nom": "2- Générateur hybride : PAC air/eau avec appoint par chaudière gaz (chauffage + ECS)",
+        "fichier": "RSET_1N_HYBRIDE.xml"
+      },
+      {
+        "id": 2,
+        "produit_GUID": "",
+        "nom": "3- PAC air/air gainable réversible (chauffage + refroidissement) et ballon thermodynamique (ECS)",
+        "fichier": "RSET_1N_PAAG_rev-TAE.xml"
+      },
+      {
+        "id": 3,
+        "produit_GUID": "",
+        "nom": "4- PAC air/air gainable (chauffage) et ballon thermodynamique (ECS)",
+        "fichier": "RSET_1N_PAAG-TAE.xml"
+      },
+      {
+        "id": 4,
+        "produit_GUID": "",
+        "nom": "5- PAC air/air (chauffage), ballon thermodynamique (ECS) et brasseur d’air (rafraîchissement)",
+        "fichier": "RSET_1N_PAAG-TAE-brasseur.xml"
+      },
+      {
+        "id": 5,
+        "produit_GUID": "",
+        "nom": "6- PAC air/eau double service (chauffage + ECS)",
+        "fichier": "RSET_1N_PAO-DS.xml"
+      },
+      {
+        "id": 6,
+        "produit_GUID": "",
+        "nom": "7- Poêle à granulés et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "RSET_1N_POG-PR-TAE.xml"
+      },
+      {
+        "id": 7,
+        "produit_GUID": "",
+        "nom": "8- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS)",
+        "fichier": "RSET_1N_SPLIT-PR-TAE.xml"
+      },
+      {
+        "id": 8,
+        "produit_GUID": "",
+        "nom": "9- PAC air/air split et panneaux rayonnants électriques (chauffage) + ballon thermodynamique (ECS) + Double Flux (Ventilation) + Panneaux photovoltaïques (production d’électricité en autoconsommation)",
+        "fichier": "RSET_1N_SPLIT-PR-TAE-DF-PV.xml"
+      },
+      {
+        "id": 8,
+        "produit_GUID": "",
+        "nom": "",
+        "fichier": ""
+      }
+    ],
+    "donnees_technique": {
+      "SHAB": 103.4,
+      "SCombles": 0.00,
+      "hauteur_plancher_exterieure": 0.20,
+      "hauteur_plancherVS_exterieure": 0.40,
+      "perimetreVS": 46.64,
+      "surfaceVS": 123.70,
+      "epaisseurVoile": 0.35,
+      "longueurRefendVS": 11.75,
+      "aireVentilationVS": 0.063,
+      "vitesseVentilationVs": 4.00
+    },
+    "donnees_Env": {
+      "ice_batiment": 160.00,
+      "ic_chantier": 0.00
+    },
+    "metres": {
+      "paroi": 115.54,
+      "soubassement": 25.34,
+      "plancher_bas": {
+        "plancher": 0.00,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 0.00
+      },
+      "plancher_intermediaire": {
+        "plancher": 0.00,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 0.00
+      },
+      "plancher_haut": {
+        "plancher": 0.00,
+        "isolation": 0.00,
+        "chape": 0.00,
+        "revetement": 0.00
+      }
+    },
+    "bbclic_paroi": [
+      {
+        "index": 1,
+        "valeur": 1
+      },
+      {
+        "index": 2,
+        "valeur": 0
+      },
+      {
+        "index": 3,
+        "valeur": 2
+      },
+      {
+        "index": 4,
+        "valeur": 0
+      },
+      {
+        "index": 5,
+        "valeur": 0
+      },
+      {
+        "index": 6,
+        "valeur": 2
+      },
+      {
+        "index": 7,
+        "valeur": 0
+      },
+      {
+        "index": 8,
+        "valeur": 2
+      },
+      {
+        "index": 9,
+        "valeur": 3
+      },
+      {
+        "index": 10,
+        "valeur": 4
+      }
+    ],
+    "bbclic_lineique": [
+      {
+        "index": 1,
+        "valeur": 0
+      },
+      {
+        "index": 2,
+        "valeur": 1
+      },
+      {
+        "index": 3,
+        "valeur": 1
+      },
+      {
+        "index": 4,
+        "valeur": 0
+      },
+      {
+        "index": 5,
+        "valeur": 2
+      }
+    ],
+    "bbclic_L8": [ 1, 4 ],
+    "bbclic_L9": null,
+    "bbclic_L10": [ 2, 3 ],
+    "bbclic_baie": [
+      {
+        "index": 1,
+        "valeur": 0
+      },
+      {
+        "index": 2,
+        "valeur": 3
+      },
+      {
+        "index": 3,
+        "valeur": 4
+      },
+      {
+        "index": 4,
+        "valeur": 2
+      },
+      {
+        "index": 5,
+        "valeur": 2
+      },
+      {
+        "index": 6,
+        "valeur": 1
+      },
+      {
+        "index": 7,
+        "valeur": 2
+      },
+      {
+        "index": 8,
+        "valeur": 2
+      }
+    ]
+  }
+]

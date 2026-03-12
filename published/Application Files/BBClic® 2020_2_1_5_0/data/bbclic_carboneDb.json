@@ -1,0 +1,557 @@
+[
+	{
+		"Groupe" : "Production",
+		"Produits" : 
+		[
+			{
+				"Id" : 92,
+				"GUID" : "707E590B-13ED-4F34-8644-B30CC3225306",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [69.163452,58.397362,53.758061,53.758061]}]}]
+			},
+			{
+				"Id" : 93,
+				"GUID" : "C612C429-06B2-4259-9B16-41D79915DABD",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [80.897811,76.069118,69.285277,69.285277]}]}]
+			},
+			{
+				"Id" : 94,
+				"GUID" : "D5792B8C-628C-4C05-A857-BDB3778B0E4A",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [133.784308,113.591042,101.376121,101.376121]}]}]
+			},
+			{
+				"Id" : 95,
+				"GUID" : "3B95C869-50AD-472A-9203-F357DEFFDFD6",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [133.784308,113.591042,101.376121,101.376121]}]}]
+			},
+			{
+				"Id" : 96,
+				"GUID" : "AD2CF9F7-7A3E-4419-8680-DD8D3F11C032",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [143.99107,146.466318,131.140077,131.140077]}]}]
+			},
+			{
+				"Id" : 97,
+				"GUID" : "091C32D8-0F8B-4EDC-8CAA-1C7ECB373610",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [78.424148,70.851452,64.042391,64.042391]}]}]
+			},
+			{
+				"Id" : 98,
+				"GUID" : "A5A4A782-1EE2-4E3C-A54B-E445E5BDF558",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [196.969777,185.51606,179.120981,179.120981]}]}]
+			},
+			{
+				"Id" : 99,
+				"GUID" : "D3693C80-0509-4B29-9F01-E9723738A9CA",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [196.969777,185.51606,179.120981,179.120981]}]}]
+			},
+			{
+				"Id" : 116,
+				"GUID" : "5D96E0A8-6476-4B5B-B76C-6B31727811F2",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [4.046512,3.803627,3.512491,3.512491]}]}]
+			},
+			{
+				"Id" : 117,
+				"GUID" : "9557F438-AEA2-45E9-8A38-DF8FC12C5D0E",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [15.449164,14.629268,13.906522,13.906522]}]}]
+			},
+			{
+				"Id" : 90,
+				"GUID" : "5282FE67-9196-4C71-B87E-343B10D85E90",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 13, "Valeurs" : [21.6477,22.1776,19.4862,19.4862]}]}]
+			},
+			{
+				"Id" : 91,
+				"GUID" : "E8D1B4E5-7A5B-4C67-B3B0-858B65426915",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 8, "Valeurs" : [11.1241,11.3963,10.0133,10.0133]}]}]
+			}
+		]
+	},
+	{
+		"Groupe" : "Mex",
+		"Produits" :
+		[
+			{
+				"Id" : 16,
+				"GUID" : "58E1ED6C-8A93-4829-879E-62C62CD36D52",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [20.66,14.05323,15.56133,15.56133]}]}]
+			},
+			{
+				"Id" : 17,
+				"GUID" : "EEBB4402-567C-4DAF-B11F-410BCB2CFD95",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [20.66,14.05323,15.56133,15.56133]}]}]
+			},
+			{
+				"Id" : 18,
+				"GUID" : "405F98D8-F9EB-4CB9-BA98-BEF49957CF5F",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [20.66,14.05323,15.56133,15.56133]}]}]
+			},
+			{
+				"Id" : 22,
+				"GUID" : "F91D8D4B-CD45-410A-871B-BEECAAE3CE68",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [15.03,12.3239,12.4247,12.4247]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 6, "Valeurs" : [51.17,46.2439,58.4849,58.4849]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 6, "Valeurs" : [57.47,46.515703,58.758492,58.758492]}]}]
+			},
+			{
+				"Id" : 23,
+				"GUID" : "B5260A30-10F9-413A-B1D0-D30C0889B7D1",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [19.6,16.03883,16.27932,16.27932]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 6, "Valeurs" : [25.41,20.80483,21.08432,21.08432]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 6, "Valeurs" : [25.85,21.189344,21.48524,21.48524]}]}]
+			},
+			{
+				"Id" : 24,
+				"GUID" : "5EA99DE0-F83C-44B7-BAF4-10F44A7828D7",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [19.27,15.7993,15.9285,15.9285]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 6, "Valeurs" : [61.41,49.7193,61.9887,61.9887]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 6, "Valeurs" : [60.71,49.991103,62.262292,62.262292]}]}]
+			},
+			{
+				"Id" : 25,
+				"GUID" : "2AD830A5-29EC-414D-B47C-669BB41CDE15",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [11.33,9.29143,9.3674,9.3674]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 6, "Valeurs" : [24.88,20.3964,20.5632,20.5632]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 6, "Valeurs" : [25.33,20.780914,20.96412,20.96412]}]}]
+			},
+			
+			{
+				"Id" : 19,
+				"GUID" : "A6FD9EFC-5F6E-43BE-9CB1-D110D03DBFB8",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,3.18543,0.0000,0.0000]}]}]
+			},
+			{
+				"Id" : 20,
+				"GUID" : "02F761C5-082B-44C6-B35E-883C462AEC25",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,3.18543,0.0000,0.0000]}]}]
+			},
+			{
+				"Id" : 21,
+				"GUID" : "EEB3B5EA-3C4B-4BBE-B82C-C7651C9AA3A3",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,3.18543,0.0000,0.0000]}]}]
+			},
+			{
+				"Id" : 26,
+				"GUID" : "B169A9B3-AA69-421D-AF61-D2F459CC18A7",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,2.23389,0.0000,0.0000]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,2.95035,0.0000,0.0000]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,3.191306,0.0000,0.0000]}]}]
+			},
+			{
+				"Id" : 26,
+				"GUID" : "30586BD1-3242-43E4-9847-1978D710DA9D",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,1.39675,0.0000,0.0000]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,3.06612,0.0000,0.0000]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 6, "Valeurs" : [0.0000,3.307076,0.0000,0.0000]}]}]
+			}
+		]
+	},
+	{
+		"Groupe" : "Soubassement",
+		"Produits" :
+		[
+			{
+				"Id" : 118,
+				"GUID" : "6F8CB49C-41B5-4B28-ADA5-2B244518AC19",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 2, "Valeurs" : [3.86,3.33893,3.20688,3.20688]}]}]
+			},
+			{
+				"Id" : 119,
+				"GUID" : "D7859845-4B5D-46CB-A19B-5FC9D4C3DBF3",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 2, "Valeurs" : [4.34,3.74771,3.5995,3.5995]}]}]
+			},
+			{
+				"Id" : 120,
+				"GUID" : "2C76BFA8-DA46-4698-B334-A5216A60FC9E",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 2, "Valeurs" : [2.64,2.27979,2.18963,2.18963]}]}]
+			},
+			{
+				"Id" : 121,
+				"GUID" : "68FD2FF6-3546-43B5-A2B0-D097E6DC9335",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 2, "Valeurs" : [3.39,2.9273,2.81153,2.81153]}]}]
+			},
+			{
+				"Id" : 86,
+				"GUID" : "FCC99363-B8B8-4227-B046-F757F2DC92A7",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot": 2, "Valeurs" : [0.7,0.909158,0.809366,0.809366]}]}]
+			}
+		]
+	},
+	{
+		"Groupe" : "Paroi",
+		"Produits" : 
+		[
+			{
+				"Id" : 0,
+				"GUID" : "6F8CB49C-41B5-4B28-ADA5-2B244518AC19",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [17.636,23.9465,28.9416,28.9416]}]}]
+			},
+			{
+				"Id" : 1,
+				"GUID" : "D7859845-4B5D-46CB-A19B-5FC9D4C3DBF3",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [19.79,26.8783,32.485,32.485]}]}]
+			},
+			{
+				"Id" : 2,
+				"GUID" : "2C76BFA8-DA46-4698-B334-A5216A60FC9E",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [12.0417,16.3505,19.7611,19.7611]}]}]
+			},
+			{
+				"Id" : 3,
+				"GUID" : "68FD2FF6-3546-43B5-A2B0-D097E6DC9335",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [15.46,20.9944,25.3736,25.3736]}]}]
+			},
+			{
+				"Id" : 10,
+				"GUID" : "641EBBB4-8D95-4A83-ABA5-E33B5BCCDC2B",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [4.9984,8.081783424,6.0124944,6.0124944]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot" : 5, "Valeurs" : [5.68,9.1838448,6.83238,6.83238]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot" : 5, "Valeurs" : [6.06,9.6516303,7.1804,7.1804]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot" : 5, "Valeurs" : [6.48,10.281414,8.08572,8.08572]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot" : 5, "Valeurs" : [6.84,10.837554,8.06272,8.06272]}]}]
+			},
+			{
+				"Id" : 11,
+				"GUID" : "5884E78A-A9F4-4AD4-900C-E72D5D9ECCAF",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [4.16,5.80452288,4.31833,4.31833]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot" : 5, "Valeurs" : [4.85,6.77391078,5.03951,5.03951]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot" : 5, "Valeurs" : [5.51,7.6858548,5.71796,5.71796]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot" : 5, "Valeurs" : [6.145,8.57581335,6.38004,6.38004]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot" : 5, "Valeurs" : [6.78,9.4657719,7.04212,7.04212]}]}]
+			},
+			{
+				"Id" : 12,
+				"GUID" : "D77765BB-B2DC-4A60-BE2E-9F721BFB8E9B",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [6.48,9.0448098,6.72896,6.72896]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot" : 5, "Valeurs" : [7.42,10.3516491,7.70121,7.70121]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot" : 5, "Valeurs" : [8.36,11.6673687,8.68006,8.68006]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot" : 5, "Valeurs" : [9.29,12.974208,9.65227,9.65227]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot" : 5, "Valeurs" : [10.17,14.2011246,10.5651,10.5651]}]}]
+			},
+			{
+				"Id" : 13,
+				"GUID" : "328ACC72-D7E5-49DE-A9DD-37D7C70A97BA",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [8.32,11.6193792,8.64434,8.64434]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot" : 5, "Valeurs" : [12.08,16.8666498,12.5481,12.5481]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot" : 5, "Valeurs" : [14.09,19.6673529,14.6317,14.6317]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot" : 5, "Valeurs" : [14.44,19.94364684,16.30296,16.30296]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot" : 5, "Valeurs" : [15.78,22.5119628685714,18.2136742857143,18.2136742857143]}]}]
+			},
+			{
+				"Id" : 14,
+				"GUID" : "4AAA6794-88C4-4885-B141-FFF504D121D9",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [4.67343,6.52930785,4.857534,4.857534]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot" : 5, "Valeurs" : [5.14943,7.19515992,5.3529,5.3529]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot" : 5, "Valeurs" : [5.64943,7.91364026142857,5.88741857142857,5.88741857142857]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot" : 5, "Valeurs" : [6.14943,8.58826371,6.38931,6.38931]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot" : 5, "Valeurs" : [6.63228714285714,9.26288715857143,6.89120142857143,6.89120142857143]}]}]
+			},
+			{
+				"Id" : 15,
+				"GUID" : "58C61547-3E45-49D9-8593-876BCC762B96",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [2.79791,3.3240405276,2.4729492,2.4729492]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot" : 5, "Valeurs" : [2.80503,3.188575767,3.379971,3.379971]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot" : 5, "Valeurs" : [2.81215,3.0531110064,2.2713888,2.2713888]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot" : 5, "Valeurs" : [2.81927,2.9176462458,2.1706086,2.1706086]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot" : 5, "Valeurs" : [2.82639,2.7821814852,2.0698284,2.0698284]}]}]
+			},
+			{
+				"Id" : 28,
+				"GUID" : "C59A7DB8-ADC9-4361-9E0A-EE886CAA68F7",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [8.64,6.54022,9.01245,9.01245]}]}]
+			},
+			{
+				"Id" : 29,
+				"GUID" : "FF6855D4-81F8-4D3A-AFAC-8468F949CF6C",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [4.22,3.29497,4.40497,4.40497]}]}]
+			},
+			{
+				"Id" : 30,
+				"GUID" : "BD7EB50D-4436-4036-BB7D-9EB8406CAEB1",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [18.68,15.64438,19.8924558,19.8924558]}]}]
+			},
+			{
+				"Id" : 31,
+				"GUID" : "3E4AE162-1D02-4934-93B2-4DF54FE9AA5F",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [10.35,7.98859,10.75853,10.75853]}]}]
+			},
+			{
+				"Id" : 32,
+				"GUID" : "783396DE-8610-41A7-AB04-94F6477A81DF",
+				"Produit" : [{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [10.71,8.26908,11.13623,11.13623]}]}]
+			}
+		]
+	},
+	{
+		"Groupe" : "PlancherBas",
+		"Produits" : 
+		[
+			{
+				"Id" : 33,
+				"GUID" : "D54FE3D1-88A1-4C4D-B13F-19A160A5B874",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [51.8488,38.4462,27.8209,27.8209]}]}]
+			},
+			{
+				"Id" : 34,
+				"GUID" : "93D84CA5-B17C-4ACF-8906-A7FD7D0A5A0A",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [33.16942,24.59596,17.79833,17.79876]}]}]
+			},
+			{
+				"Id" : 35,
+				"GUID" : "162D9A10-FF82-4AA7-9C57-C67987CC479D",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [44.54162,33.02901,23.90079,23.90119]}]}]
+			},
+			{
+				"Id" : 36,
+				"GUID" : "223A3221-DA6E-4AA2-BD69-4CB12357468D",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [47.01182,34.86071,25.22626,25.22666]}]}]
+			},
+			{
+				"Id" : 37,
+				"GUID" : "3FDBE679-77EC-47DC-AB71-E7AC96F52FD4",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [51.28222,38.02731,27.51771,27.51811]}]}]
+			},
+			{
+				"Id" : 38,
+				"GUID" : "CC776579-66F2-4CBE-BE5A-F7FDA74D6774",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [54.33342,40.28991,29.15501,29.15541]}]}]
+			},
+			{
+				"Id" : 39,
+				"GUID" : "D37EF00A-2A34-41FE-BE77-1D37AA89A76F",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 3, "Valeurs" : [55.00142,40.78521,29.51341,29.51381]}]}]
+			},
+			{
+				"Id" : 40,
+				"GUID" : "BC790245-1C56-4E77-9DF8-C7B1A6FFC561",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [0.00,0.00,0.00,0.00]}, {"Lot" : 7, "Valeurs" : [0.00,0.00,0.00,0.00]}]}]
+			},
+			{
+				"Id" : 41,
+				"GUID" : "7053D6BE-E622-497A-9C3F-3B03BB317E54",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [4.58822485893175,1.983651096,1.5884,1.5884]}, {"Lot" : 7, "Valeurs" : [11.8907704181804,7.00259616,5.607304,5.607304]}]}]
+			},
+			{
+				"Id" : 42,
+				"GUID" : "5C31F850-6876-4426-A289-AA6C815E5C39",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [7.03518893870294,3.3196476,3.1768,3.1768]}, {"Lot" : 7, "Valeurs" : [11.8907704181804,7.00259616,5.607304,5.607304]}]}]
+			},
+			{
+				"Id" : 43,
+				"GUID" : "19B4AAC1-BC4E-49A4-A414-457CB93777E8",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [8.4312756280436,4.9794714,3.98727,3.98727]}, {"Lot" : 7, "Valeurs" : [11.8907704181804,7.00259616,5.607304,5.607304]}]}]
+			},
+			{
+				"Id" : 44,
+				"GUID" : "7FC6AB55-BE51-424F-B219-FB96615ADD72",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [12.3198965216047,6.6392952,5.31636,5.31636]}, {"Lot" : 7, "Valeurs" : [11.8907704181804,7.00259616,5.607304,5.607304]}]}]
+			},
+			{
+				"Id" : 45,
+				"GUID" : "957EDE03-20B7-4045-8D7B-13A936BD034E",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot" : 5, "Valeurs" : [14.658508935611,8.299119,6.64545,6.64545]}, {"Lot" : 7, "Valeurs" : [11.8907704181804,7.00259616,5.607304,5.607304]}]}]
+			},
+			{
+				"Id" : 57,
+				"GUID" : "033A6397-9660-4E92-B79E-5C08D2DB9C9E",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [21.65,12.38671,9.28798,9.28798]}]}]
+			},
+			{
+				"Id" : 58,
+				"GUID" : "44FC863B-99E3-41AB-834E-63F6F370C487",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [1.7,1.064019,0.859428,0.859428]}]}]
+			},
+			{
+				"Id" : 59,
+				"GUID" : "2A6D6837-A3B3-418C-BC90-BE79871B6CEB",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [36.28,21.630509,16.804318,16.804318]}]}]
+			},
+			{
+				"Id" : 60,
+				"GUID" : "65164E11-D79D-4D25-AA3D-21178D258244",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [14.97,8.955189,6.977338,6.977338]}]}]
+			}
+		]
+	},
+	{
+		"Groupe" : "PlancherInter",
+		"Produits" :
+		[
+			{
+				"Id" : 66,
+				"GUID" : "3FE7540D-5474-4333-B843-307B98210DF6",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,26.8841,22.5275,22.5275]}]}]
+			},
+			{
+				"Id" : 67,
+				"GUID" : "445C8CC3-FC04-4643-BD3C-82F27EE428E5",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,16.078885,12.46142,12.46174]}]}]
+			},
+			{
+				"Id" : 68,
+				"GUID" : "A12AFE19-83D4-4E83-9CD4-4B9A042E96F2",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,19.88493,15.4114,15.41183]}]}]
+			},
+			{
+				"Id" : 69,
+				"GUID" : "5F4C2ED7-FEDB-4788-A292-D95B88854F13",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,19.68936,15.25974,15.26007]}]}]
+			},
+			{
+				"Id" : 70,
+				"GUID" : "43BE187A-D23A-455A-8A18-4ACB15CB6428",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,23.91747,18.53735,18.53692]}]}]
+			},
+			{
+				"Id" : 71,
+				"GUID" : "01DCE99A-EFAB-41EB-A781-83D98A47D01D",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,12.52078,9.7037,9.70403]}]}]
+			},
+			{
+				"Id" : 72,
+				"GUID" : "88A662AA-ABF7-4C6A-B0D2-2A941B309C0E",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,15.28578,11.84733,11.8469]}]}]
+			},
+			{
+				"Id" : 73,
+				"GUID" : "69A75101-4C4F-4EE6-80B4-8BC8B1376EE6",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,16.24384,12.58927,12.5896]}]}]
+			},
+			{
+				"Id" : 74,
+				"GUID" : "D559A56A-EF2D-4AA9-9D61-7B660DE41267",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,19.00884,14.7329,14.73247]}]}]
+			},
+			{
+				"Id" : 62,
+				"GUID" : "2D8BE26B-A799-41F9-BD2D-7A209D696BDE",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [0.00,9.99264,11.98239,11.98239]}]}]
+			},
+			{
+				"Id" : 63,
+				"GUID" : "927C2627-4A7B-4372-B0EE-0CCEDDD686AC",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [0.00,0.777962,0.714028,0.714028]}]}]
+			},
+			{
+				"Id" : 64,
+				"GUID" : "15E0B29C-72C8-44E1-B641-F47B0092E9F6",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [0.00,16.686102,17.929958,17.929958]}]}]
+			},
+			{
+				"Id" : 65,
+				"GUID" : "5E8B2C58-A60D-48E6-A676-FBDF38C66EFF",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 7, "Valeurs" : [0.00,6.755232,7.319628,7.319628]}]}]
+			},
+			{
+				"Id" : 87,
+				"GUID" : "CD4541A3-7D2F-4D36-B2CB-249107A8FDB8",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 5, "Valeurs" : [0.00,0.126929,0.111012,0.111012]}]}]
+			}
+		]
+	},
+	{
+		"Groupe" : "PlancherHaut",
+		"Produits" :
+		[
+			{
+				"Id" : 75,
+				"GUID" : "77206990-8CCA-4075-A1DB-0933901C4531",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,29.9854]}]}]
+			},
+			{
+				"Id" : 76,
+				"GUID" : "1856382E-41C3-4692-811B-90B2825DAAC1",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,15.27084]}]}]
+			},
+			{
+				"Id" : 77,
+				"GUID" : "32848060-F347-4B9A-B54E-20BDD43139CD",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,19.04955]}]}]
+			},
+			{
+				"Id" : 78,
+				"GUID" : "B255BA43-1ECF-42BE-ACAF-9B7C75BB3C2E",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,18.61166]}]}]
+			},
+			{
+				"Id" : 79,
+				"GUID" : "0D183E4A-440D-4B83-8626-1A238BBB58FC",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,22.83353]}]}]
+			},
+			{
+				"Id" : 80,
+				"GUID" : "37B0E19B-6917-473B-AFDA-1469B64318C1",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,10.61619]}]}]
+			},
+			{
+				"Id" : 81,
+				"GUID" : "64D7B78E-3C0D-4E4A-AEE0-81C2BAC9950A",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,12.08176]}]}]
+			},
+			{
+				"Id" : 82,
+				"GUID" : "0F23A3FE-EE2A-4230-9C4C-4EC9B69EC3BF",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,14.7687]}]}]
+			},
+			{
+				"Id" : 83,
+				"GUID" : "55DB16B4-2169-49C3-ACD6-094E19110A13",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 3, "Valeurs" : [0.00,0.00,0.00,16.23427]}]}]
+			},
+			{
+				"Id" : 84,
+				"GUID" : "E7CCA163-6681-4074-81A5-999F066B2AFA",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,4.82905]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,5.78495]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,7.16831]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,7.79335]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,9.2196]}]}]
+			},
+			{
+				"Id" : 85,
+				"GUID" : "7338D5A0-7FEC-4763-A3E4-62140AA7FC68",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,4.40904]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,5.58651]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,6.41522]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,7.24393]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,8.81808]}]}]
+			},
+			{
+				"Id" : 88,
+				"GUID" : "F54658D50-DE3A-4621-A009-E92D9F146316",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 5, "Valeurs" : [0.00,0.00,0.00,0.111012]}]}]
+				
+			},
+			{
+				"Id" : 89,
+				"GUID" : "FDB4DC36-31DF-47BE-8705-C509EFC7B11B",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 4, "Valeurs" : [0.00,0.00,0.00,9.50556]}]}]
+			}
+		]
+	},
+	{
+		"Groupe" : "Combles",
+		"Produits":
+		[
+			{
+				"Id" : 54,
+				"GUID" : "0872AC8B-DAF5-44CA-A148-EA989CF0574E",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 5, "Valeurs" : [2.27,2.687352844,1.440091,0.00]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 5, "Valeurs" : [4.475,2.812124256,1.8488345,0.00]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 5, "Valeurs" : [5.37,3.936203348,2.261144,0.00]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot": 5, "Valeurs" : [4.94,4.062333094,2.670779,0.00]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot": 5, "Valeurs" : [5.36,5.190957722,3.41279,0.00]}]},
+				{"id_SubProduit" : 5, "Lots" : [{"Lot": 5, "Valeurs" : [7.49491,6.041146075,3.97175,0.00]}]},
+				{"id_SubProduit" : 6, "Lots" : [{"Lot": 5, "Valeurs" : [9.12295,6.70963728,4.41125,0.00]}]}]
+			},
+			{
+				"Id" : 55,
+				"GUID" : "064EA1EE-F8D5-4D73-BB5E-161C7E75DA1A",
+				"Produit" :[{"id_SubProduit" : 0, "Lots" : [{"Lot": 5, "Valeurs" : [2.28266666666667,0,1.20989333333333,0.00]}]},
+				{"id_SubProduit" : 1, "Lots" : [{"Lot": 5, "Valeurs" : [2.85333333333333,0,1.51236666666667,0.00]}]},
+				{"id_SubProduit" : 2, "Lots" : [{"Lot": 5, "Valeurs" : [3.424,0,1.81484,0.00]}]},
+				{"id_SubProduit" : 3, "Lots" : [{"Lot": 5, "Valeurs" : [3.99466666666667,0,2.11731333333333,0.00]}]},
+				{"id_SubProduit" : 4, "Lots" : [{"Lot": 5, "Valeurs" : [4.693,0,2.48698260869565,0.00]}]},
+				{"id_SubProduit" : 5, "Lots" : [{"Lot": 5, "Valeurs" : [5.28,0,2.79785543478261,0.00]}]},
+				{"id_SubProduit" : 6, "Lots" : [{"Lot": 5, "Valeurs" : [5.866,0,3.10872826086957,0.00]}]}]
+			}
+		]
+		}]
